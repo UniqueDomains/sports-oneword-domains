@@ -39,15 +39,15 @@ If you want to search & filters the complete database of [Sports one word domain
 | training.space   | premium   | 70       | 88%    | 8      |                                    |                  |                  |
 | training.store   | premium   | 70       | 88%    | 8      |                                    |                  |                  |
 | training.tech    | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| athletics.ac     | available | 69       | null%  | 9      |                                    |                  |                  |
+| athletics.ac     | premium   | 69       | null%  | 9      |                                    |                  |                  |
 | athletics.ag     | available | 69       | null%  | 9      |                                    |                  |                  |
 | athletics.at     | available | 69       | 76%    | 9      |                                    |                  |                  |
 | athletics.bz     | available | 69       | null%  | 9      |                                    |                  |                  |
 | athletics.cloud  | premium   | 69       | 76%    | 9      |                                    |                  |                  |
 | athletics.de     | resell    | 69       | null%  | 9      |                                    |                  |                  |
-| athletics.expert | available | 69       | 76%    | 9      |                                    |                  |                  |
+| athletics.expert | premium   | 69       | 76%    | 9      |                                    |                  |                  |
 | athletics.gg     | resell    | 69       | 76%    | 9      | Porkbun LLC (https://porkbun.com/) |                  |                  |
-| athletics.im     | available | 69       | null%  | 9      |                                    |                  |                  |
+| athletics.im     | premium   | 69       | null%  | 9      |                                    |                  |                  |
 | athletics.io     | resell    | 69       | 76%    | 9      | GoDaddy.com, LLC                   | 06/01/2014 16:14 | 06/01/2026 16:14 |
 | athletics.it     | resell    | 69       | 76%    | 9      |                                    | 02/12/2024 16:01 | 03/05/2026 00:00 |
 | athletics.la     | available | 69       | null%  | 9      |                                    |                  |                  |

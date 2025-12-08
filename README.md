@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Sports one word domain
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain           | Status    | Attract. | Demand | Length | Registrar                          | Created          | Expires          |
-| ---------------- | --------- | -------- | ------ | ------ | ---------------------------------- | ---------------- | ---------------- |
-| sports.cloud     | premium   | 110      | 100%   | 6      |                                    |                  |                  |
-| sports.online    | premium   | 110      | 100%   | 6      |                                    |                  |                  |
-| sports.site      | premium   | 110      | 100%   | 6      |                                    |                  |                  |
-| sports.space     | premium   | 110      | 100%   | 6      |                                    |                  |                  |
-| sports.store     | resell    | 110      | 100%   | 6      | Dotserve Inc                       | 23/12/2016 11:20 | 23/12/2029 23:59 |
-| sports.tech      | premium   | 110      | 100%   | 6      |                                    |                  |                  |
-| sports.zone      | premium   | 110      | 100%   | 6      |                                    |                  |                  |
-| training.cloud   | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.dev     | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.it      | expiring  | 70       | 88%    | 8      |                                    | 10/01/1997 00:00 | 29/07/2025 00:00 |
-| training.me      | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.online  | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.pro     | resell    | 70       | 88%    | 8      | Porkbun LLC                        | 02/03/2005 00:00 | 02/03/2026 00:00 |
-| training.site    | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.so      | resell    | 70       | 88%    | 8      | SOSTEC TECHNOLOGIES_LR             | 19/06/2024 05:42 | 19/06/2026 05:42 |
-| training.space   | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.store   | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| training.tech    | premium   | 70       | 88%    | 8      |                                    |                  |                  |
-| athletics.ac     | premium   | 69       | null%  | 9      |                                    |                  |                  |
-| athletics.ag     | available | 69       | null%  | 9      |                                    |                  |                  |
-| athletics.at     | available | 69       | 76%    | 9      |                                    |                  |                  |
-| athletics.bz     | available | 69       | null%  | 9      |                                    |                  |                  |
-| athletics.cloud  | premium   | 69       | 76%    | 9      |                                    |                  |                  |
-| athletics.de     | resell    | 69       | null%  | 9      |                                    |                  |                  |
-| athletics.expert | premium   | 69       | 76%    | 9      |                                    |                  |                  |
-| athletics.gg     | resell    | 69       | 76%    | 9      | Porkbun LLC (https://porkbun.com/) |                  |                  |
-| athletics.im     | premium   | 69       | null%  | 9      |                                    |                  |                  |
-| athletics.io     | resell    | 69       | 76%    | 9      | GoDaddy.com, LLC                   | 06/01/2014 16:14 | 06/01/2026 16:14 |
-| athletics.it     | resell    | 69       | 76%    | 9      |                                    | 02/12/2024 16:01 | 03/05/2026 00:00 |
-| athletics.la     | available | 69       | null%  | 9      |                                    |                  |                  |
+| Domain                | Status    | Attract. | Demand | Length | Registrar              | Created          | Expires          |
+| --------------------- | --------- | -------- | ------ | ------ | ---------------------- | ---------------- | ---------------- |
+| sports.cloud          | premium   | 110      | 100%   | 6      |                        |                  |                  |
+| sports.online         | premium   | 110      | 100%   | 6      |                        |                  |                  |
+| sports.site           | premium   | 110      | 100%   | 6      |                        |                  |                  |
+| sports.space          | premium   | 110      | 100%   | 6      |                        |                  |                  |
+| sports.store          | resell    | 110      | 100%   | 6      | Dotserve Inc           | 23/12/2016 11:20 | 23/12/2029 23:59 |
+| sports.tech           | premium   | 110      | 100%   | 6      |                        |                  |                  |
+| sports.zone           | premium   | 110      | 100%   | 6      |                        |                  |                  |
+| training.cloud        | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.dev          | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.it           | expiring  | 70       | 88%    | 8      |                        | 10/01/1997 00:00 | 29/07/2025 00:00 |
+| training.me           | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.online       | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.pro          | resell    | 70       | 88%    | 8      | Porkbun LLC            | 02/03/2005 00:00 | 02/03/2026 00:00 |
+| training.site         | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.so           | resell    | 70       | 88%    | 8      | SOSTEC TECHNOLOGIES_LR | 19/06/2024 05:42 | 19/06/2026 05:42 |
+| training.space        | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.store        | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| training.tech         | premium   | 70       | 88%    | 8      |                        |                  |                  |
+| athletics.ac          | premium   | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.accountant  | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.accountants | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.actor       | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.adult       | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.ag          | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.airforce    | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.apartments  | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.archi       | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.army        | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.art         | available | 69       | 10%    | 9      |                        |                  |                  |
+| athletics.associates  | available | 69       | 10%    | 9      |                        |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Sports-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [Sports one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |

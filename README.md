@@ -22,35 +22,35 @@ If you want to search & filters the complete database of [Sports one word domain
 | Domain             | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
 | ------------------ | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
 | sports.ac          | resell    | 110      | 38%    | 6      | Sav.com, LLC - 9                             | 23/03/2025 15:15 | 23/03/2026 15:15 |
-| sports.academy     | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.accountant  | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.academy     | premium   | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.accountant  | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.accountants | available | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.actor       | resell    | 110      | 38%    | 6      | Sav.com, LLC                                 | 02/04/2025 23:27 | 02/04/2026 23:27 |
-| sports.adult       | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.adult       | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.ag          | expiring  | 110      | 38%    | 6      | humbly, LLC                                  | 30/12/2019 01:09 | 30/12/2025 01:09 |
 | sports.airforce    | available | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.apartments  | available | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.archi       | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.associates  | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.attorney    | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.auction     | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.associates  | premium   | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.attorney    | premium   | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.auction     | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.audio       | available | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.auto        | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.autos       | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.band        | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.bar         | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.bargains    | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.autos       | premium   | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.band        | premium   | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.bar         | premium   | 80       | 38%    | 6      |                                              |                  |                  |
+| sports.bargains    | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.bayern      | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.beauty      | available | 110      | 38%    | 6      |                                              |                  |                  |
-| sports.beer        | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.beauty      | premium   | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.beer        | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.berlin      | resell    | 110      | 38%    | 6      |                                              | 27/11/2015 15:23 | 27/11/2026 15:23 |
-| sports.bid         | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.bid         | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 | sports.bike        | expiring  | 110      | 38%    | 6      | Dynadot Inc                                  | 29/12/2017 16:46 | 29/12/2025 16:46 |
 | sports.bingo       | resell    | 110      | 38%    | 6      | Sav.com, LLC                                 | 30/01/2025 15:25 | 30/01/2026 15:25 |
 | sports.bio         | resell    | 110      | 38%    | 6      | Sav.com, LLC - 6                             | 05/05/2025 15:15 | 05/05/2026 15:15 |
 | sports.biz         | resell    | 110      | 38%    | 6      | eNom, LLC                                    | 27/03/2002 04:36 | 26/03/2026 23:59 |
 | sports.black       | resell    | 110      | 38%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd | 18/03/2025 15:15 | 18/03/2026 15:15 |
-| sports.blog        | available | 110      | 38%    | 6      |                                              |                  |                  |
+| sports.blog        | premium   | 110      | 38%    | 6      |                                              |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Sports-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -89,7 +89,7 @@ If you want to search & filters the complete database of [Sports one word domain
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 29,681       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 61,144       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 4,569,375    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 

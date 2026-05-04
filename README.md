@@ -1,22 +1,22 @@
-# Sports One-Word Domains (25,916)
+# One-Word Sports Domains (12,683)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C916%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C683%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of sports one-word domains from Unique Domains.
+These are one-word domains centered on the sports keyword, spanning 12,683 listings across 505 TLDs. Updated daily. Median ask is $729, so evaluation should focus on extension fit, renewal profile, and whether the exact term feels credible for a sports brand or resale thesis.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,916 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,683 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,916 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,683 domains · **Median ask:** $728.95 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Sports`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| athletics.xxx     | available | $154.98   | —             | 73             | 53     | 9      | namecheap                                    |
-| athletics.cv      | resell    | $14.98    | —             | 69             | 55     | 9      | Dynadot                                      |
-| athletics.mobile  | premium   | $375      | —             | 73             | 53     | 9      | name.com                                     |
-| athletics.sex     | available | $154.98   | —             | 73             | 53     | 9      | namecheap                                    |
-| sports.theater    | resell    | $80.98    | —             | 110            | 45     | 6      | Dynadot Inc                                  |
-| athletics.channel | premium   | $36.25    | —             | 73             | 53     | 9      | name.com                                     |
-| athletics.paris   | available | $51.98    | —             | 73             | 53     | 9      | namecheap                                    |
-| sports.rip        | resell    | $32.98    | —             | 110            | 45     | 6      | Porkbun LLC                                  |
-| athletics.fans    | premium   | $130      | $130          | 69             | 53     | 9      | namecheap                                    |
-| athletics.new     | available | $549.99   | —             | 73             | 53     | 9      | name.com                                     |
-| athletics.de      | resell    | —         | —             | 69             | 53     | 9      | —                                            |
-| athletics.fan     | premium   | $128.70   | $128.70       | 69             | 53     | 9      | namecheap                                    |
-| athletics.moi     | available | $39.99    | —             | 73             | 53     | 9      | name.com                                     |
-| team.yoga         | resell    | —         | —             | 76             | 49     | 4      | GoDaddy.com, LLC                             |
-| athletics.family  | premium   | $260      | $260          | 69             | 53     | 9      | namecheap                                    |
-| athletics.kiwi    | available | $35.68    | —             | 73             | 53     | 9      | namecheap                                    |
-| team.world        | resell    | —         | —             | 76             | 49     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| athletics.faith   | premium   | $455      | $65           | 69             | 53     | 9      | namecheap                                    |
-| athletics.hamburg | available | $59.99    | —             | 73             | 53     | 9      | name.com                                     |
-| team.voto         | resell    | —         | —             | 76             | 49     | 4      | NameCheap, Inc.                              |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| sports.desi    | available | $22.98    | —             | 92             | 45     | 6      | namecheap                     |
+| sports.kitchen | available | $14.99    | —             | 92             | 45     | 6      | name.com                      |
+| sports.new     | available | $549.99   | —             | 92             | 45     | 6      | name.com                      |
+| sports.paris   | available | $51.98    | —             | 92             | 45     | 6      | namecheap                     |
+| sports.ryukyu  | available | $22.98    | —             | 92             | 45     | 6      | namecheap                     |
+| sports.broker  | premium   | $1,250    | —             | 92             | 45     | 6      | name.com                      |
+| sports.channel | premium   | $1,248.75 | —             | 92             | 45     | 6      | name.com                      |
+| sports.forex   | premium   | $6,250    | —             | 92             | 45     | 6      | name.com                      |
+| sports.mobile  | premium   | $1,250    | —             | 92             | 45     | 6      | name.com                      |
+| sports.moi     | premium   | $250      | —             | 92             | 45     | 6      | name.com                      |
+| sports.shop    | premium   | $12,500   | —             | 92             | 45     | 6      | name.com                      |
+| sports.cheap   | resell    | —         | —             | 92             | 45     | 6      | Dynadot Inc                   |
+| sports.express | resell    | —         | —             | 92             | 45     | 6      | Spaceship, Inc.               |
+| sports.fun     | resell    | —         | —             | 92             | 45     | 6      | NAME DOT STORE INC            |
+| sports.hamburg | resell    | —         | —             | 92             | 45     | 6      | —                             |
+| sports.id      | resell    | —         | —             | 92             | 45     | 6      | PT Digital Registra Indonesia |
+| sports.press   | resell    | —         | —             | 92             | 45     | 6      | NAME DOT STORE INC            |
+| sports.team    | resell    | —         | —             | 92             | 45     | 6      | GoDaddy.com, LLC              |
+| sports.website | resell    | —         | —             | 92             | 45     | 6      | NAME DOT STORE INC            |
+| athletics.xxx  | available | $154.98   | —             | 73             | 52     | 9      | namecheap                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 25,916 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,683 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is built around the exact sports keyword, so the main question is not relevance but quality of packaging. Names like sports.new, sports.paris, sports.channel, and sports.broker show how much the outcome depends on the extension. For founders, the priority is whether the full name is clear, memorable, and ownable now without creating confusion. For investors, the focus is whether the ask leaves room versus likely buyer demand for that specific TLD. With a median ask of $729 across 12,683 domains, compare each option on extension credibility, probable renewal burden, and how naturally the keyword and TLD work together.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Check whether the TLD strengthens or weakens the sports keyword
+- Use the $729 median ask as a quick price reality check
+- Favor names that read cleanly aloud and look credible in full
+- Be careful with niche TLDs if renewal costs may run high
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Sports One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Sports Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

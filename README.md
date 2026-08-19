@@ -1,10 +1,10 @@
-# One-Word Sports Domain Names (209,445)
+# One-Word Sports Domain Names (214,940)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-209%2C445%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-214%2C940%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection features one-word domain names built around the sports keyword, spanning 506 different TLD extensions. The median ask across the set is $678, reflecting a wide range of pricing tiers. Updated daily, it covers mainstream and niche extensions for comparing pricing and renewal before buying or investing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **209,445 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **214,940 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 209,445 domains · **Median ask:** $640.11 · **High-demand under $2,500:** 672
+**Public extract:** 1,000 rows · **Live catalog:** 214,940 domains · **Median ask:** $626.62 · **High-demand under $2,500:** 694
 
 **Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/sports`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| and.diet    | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
-| out.autos   | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC                |
-| and.cricket | premium   | $437.50   | —             | high           | medium | 3      | name.com                   |
-| and.futbol  | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
-| and.gg      | resell    | —         | —             | high           | medium | 3      | 1API (http://www.1api.net) |
-| and.expert  | premium   | $500      | $500          | high           | medium | 3      | name.com                   |
-| and.ski     | available | $39.99    | —             | high           | medium | 3      | name.com                   |
-| fit.care    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                |
-| and.fitness | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                  |
-| and.tennis  | available | $65.99    | $65.99        | high           | medium | 3      | namesilo                   |
-| fit.run     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
-| and.mobile  | premium   | $2,500    | —             | high           | medium | 3      | name.com                   |
-| fan.diet    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                   |
-| gym.club    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| and.pro     | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com                   |
-| fit.diet    | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
-| gym.run     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| and.racing  | premium   | $116      | $116          | high           | medium | 3      | namesilo                   |
-| fit.futbol  | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
-| net.holiday | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                |
+| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
+| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| gym.ryukyu     | available | $22.98     | —             | high           | low    | 3      | namecheap         |
+| cup.network    | resell    | —          | —             | high           | low    | 3      | Sav.com, LLC      |
+| gym.mobile     | premium   | $1,250     | —             | high           | low    | 3      | name.com          |
+| boxy.futbol    | available | $5.98      | $21.98        | low            | low    | 4      | namecheap         |
+| fit.solar      | resell    | —          | —             | high           | medium | 3      | Sav.com, LLC - 43 |
+| run.channel    | premium   | $73.75     | —             | high           | low    | 3      | name.com          |
+| pads.diet      | available | $104.99    | $114.99       | medium         | low    | 4      | namesilo          |
+| net.dating     | resell    | —          | —             | high           | medium | 3      | Porkbun LLC       |
+| game.shop      | premium   | $12,500    | —             | high           | medium | 4      | name.com          |
+| pads.football  | available | $19.99     | —             | medium         | low    | 4      | name.com          |
+| net.services   | resell    | —          | —             | high           | medium | 3      | Porkbun LLC       |
+| golf.shop      | premium   | $12,500    | —             | high           | medium | 4      | name.com          |
+| runs.guitars   | available | $159.98    | —             | medium         | low    | 4      | namecheap         |
+| one.run        | resell    | —          | —             | high           | medium | 3      | Porkbun LLC       |
+| pads.cricket   | premium   | $1,107     | $116          | medium         | low    | 4      | namesilo          |
+| runs.hockey    | available | $14.99     | —             | medium         | low    | 4      | name.com          |
+| club.fit       | resell    | —          | —             | high           | low    | 4      | GoDaddy.com, LLC  |
+| world.stream   | premium   | $35,520.79 | —             | high           | medium | 5      | NameSilo, LLC     |
+| runs.soccer    | available | $19.99     | —             | medium         | low    | 4      | name.com          |
+| game.institute | resell    | —          | —             | high           | medium | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 209,445 live domains                       |
+| 1,000-row public sample | 214,940 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 672 high-demand names under $2,500         |
+| Basic exported fields   | 694 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 

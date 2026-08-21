@@ -16,7 +16,7 @@ This selection features one-word domain names built around the sports keyword, s
 
 **Public extract:** 1,000 rows · **Live catalog:** 215,159 domains · **Median ask:** $626.80 · **High-demand under $2,500:** 694
 
-**Last updated:** 2026-08-20
+**Last updated:** 2026-08-21
 **Canonical page:** `https://unique.domains/domains/sector/sports`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| gym.ryukyu    | available | $22.98    | —             | high           | low    | 3      | namecheap         |
-| art.works     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| gym.mobile    | premium   | $1,250    | —             | high           | low    | 3      | name.com          |
-| out.hockey    | available | $14.99    | —             | high           | low    | 3      | name.com          |
-| cup.network   | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC      |
-| out.cricket   | premium   | $12,500   | —             | high           | low    | 3      | name.com          |
-| cups.soccer   | available | $19.99    | —             | medium         | low    | 4      | name.com          |
-| fit.solar     | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 43 |
-| run.channel   | premium   | $73.75    | —             | high           | low    | 3      | name.com          |
-| pads.diet     | available | $104.99   | $114.99       | medium         | low    | 4      | namesilo          |
-| net.dating    | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| game.shop     | premium   | $12,500   | —             | high           | medium | 4      | name.com          |
-| pads.football | available | $19.99    | —             | medium         | low    | 4      | name.com          |
-| net.services  | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| golf.shop     | premium   | $12,500   | —             | high           | medium | 4      | name.com          |
-| pads.gg       | available | $82.98    | —             | medium         | low    | 4      | namecheap         |
-| one.fitness   | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
-| pads.cricket  | premium   | $1,107    | $116          | medium         | low    | 4      | namesilo          |
-| runs.center   | available | $7.99     | —             | medium         | low    | 4      | name.com          |
-| one.run       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC       |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| and.diet    | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
+| out.autos   | resell    | $1.99     | —             | high           | low    | 3      | Dynadot LLC                |
+| and.cricket | premium   | $437.50   | —             | high           | medium | 3      | name.com                   |
+| and.futbol  | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
+| and.gg      | resell    | —         | —             | high           | medium | 3      | 1API (http://www.1api.net) |
+| and.expert  | premium   | $500      | $500          | high           | medium | 3      | name.com                   |
+| and.ski     | available | $39.99    | —             | high           | medium | 3      | name.com                   |
+| fan.gg      | resell    | —         | —             | high           | low    | 3      | 1API (http://www.1api.net) |
+| and.fitness | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                  |
+| and.tennis  | available | $65.99    | $65.99        | high           | medium | 3      | namesilo                   |
+| fit.run     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
+| and.game    | premium   | $1,625    | —             | high           | medium | 3      | name.com                   |
+| fan.diet    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                   |
+| gym.club    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
+| and.pro     | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com                   |
+| fit.diet    | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
+| gym.run     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
+| and.racing  | premium   | $116      | $116          | high           | medium | 3      | namesilo                   |
+| fit.futbol  | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
+| out.asia    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Sports Domain Names*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Sports Domain Names*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

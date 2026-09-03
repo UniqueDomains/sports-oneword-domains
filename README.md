@@ -14,9 +14,9 @@ This selection features one-word domain names built around the sports keyword, s
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **220,078 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 220,078 domains · **Median ask:** $615.79 · **High-demand under $2,500:** 694
+**Public extract:** 1,000 rows · **Live catalog:** 220,078 domains · **Median ask:** $615.78 · **High-demand under $2,500:** 694
 
-**Last updated:** 2026-08-25
+**Last updated:** 2026-09-03
 **Canonical page:** `https://unique.domains/domains/sector/sports`
 **Best for:** founders, investors, studios
 
@@ -78,10 +78,10 @@ print(df.head())
 | and.game    | premium   | $1,625    | —             | high           | medium | 3      | name.com                   |
 | fan.diet    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                   |
 | gym.club    | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| and.pro     | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com                   |
+| and.mobile  | premium   | $2,500    | —             | high           | medium | 3      | name.com                   |
 | fit.diet    | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
 | gym.run     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| and.racing  | premium   | $116      | $116          | high           | medium | 3      | namesilo                   |
+| and.pro     | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com                   |
 | fit.futbol  | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
 | out.asia    | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.            |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Sports Domain Names*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Sports Domain Names*. Version 2026-09-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

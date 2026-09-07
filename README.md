@@ -16,7 +16,7 @@ This selection features one-word domain names built around the sports keyword, s
 
 **Public extract:** 1,000 rows · **Live catalog:** 224,710 domains · **Median ask:** $605.71 · **High-demand under $2,500:** 695
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-07
 **Canonical page:** `https://unique.domains/domains/sector/sports`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| and.diet      | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
-| and.gg        | resell    | —         | —             | high           | medium | 3      | 1API (http://www.1api.net) |
-| and.cricket   | premium   | $437.50   | —             | high           | medium | 3      | name.com                   |
-| and.futbol    | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
-| fit.care      | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                |
-| and.expert    | premium   | $500      | $500          | high           | medium | 3      | name.com                   |
-| and.ski       | available | $39.99    | —             | high           | medium | 3      | name.com                   |
-| fit.run       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
-| and.fitness   | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                  |
-| and.tennis    | available | $65.99    | $65.99        | high           | medium | 3      | namesilo                   |
-| gym.club      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| and.mobile    | premium   | $2,500    | —             | high           | medium | 3      | name.com                   |
-| fan.diet      | available | $104.99   | $114.99       | high           | low    | 3      | namesilo                   |
-| gym.run       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| and.pro       | premium   | $3,125    | $3,125        | high           | medium | 3      | name.com                   |
-| fit.diet      | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                   |
-| net.holiday   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                |
-| and.racing    | premium   | $116      | $116          | high           | medium | 3      | namesilo                   |
-| fit.futbol    | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                   |
-| out.community | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC           |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                              |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------- |
+| and.diet     | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                               |
+| and.gg       | resell    | —         | —             | high           | medium | 3      | 1API (http://www.1api.net)             |
+| and.cricket  | premium   | $437.50   | —             | high           | medium | 3      | name.com                               |
+| and.futbol   | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                               |
+| fit.care     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                            |
+| and.fitness  | premium   | $42.90    | $42.90        | high           | medium | 3      | namecheap                              |
+| and.tennis   | available | $65.99    | $65.99        | high           | medium | 3      | namesilo                               |
+| fit.today    | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.                        |
+| and.racing   | premium   | $116      | $116          | high           | medium | 3      | namesilo                               |
+| fan.hamburg  | available | $59.99    | —             | high           | low    | 3      | name.com                               |
+| gym.run      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                       |
+| and.rodeo    | premium   | $96       | $11.80        | high           | medium | 3      | namesilo                               |
+| fit.futbol   | available | $17.99    | $17.99        | high           | medium | 3      | namesilo                               |
+| out.gg       | resell    | —         | —             | high           | low    | 3      | Dynadot Inc. (https://www.dynadot.com) |
+| and.soccer   | premium   | $38.94    | $38.94        | high           | medium | 3      | namesilo                               |
+| fit.hockey   | available | $14.99    | —             | high           | medium | 3      | name.com                               |
+| game.fit     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                       |
+| fan.futbol   | premium   | $854      | $854          | high           | low    | 3      | namesilo                               |
+| gym.football | available | $19.99    | —             | high           | low    | 3      | name.com                               |
+| game.golf    | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Sports Domain Names*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Sports Domain Names*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
@@ -157,4 +157,4 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 ## 📬 Contact
 
-Questions, corrections, or partnership requests: `gaetan@unique.domains`
+Questions, corrections, or partnership requests: `kai@unique.domains`

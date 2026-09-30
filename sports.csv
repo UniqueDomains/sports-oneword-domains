@@ -1,44 +1,17 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-249b91ab-b104-4190-a05b-6700a60d8d49,sports.cricket,available,,,high,medium,6,,,,
 dcbf4c19-b2ad-43fc-b7c5-92537fe8d5ee,sports.fit,resell,,,high,medium,6,"GoDaddy.com, LLC",17/08/2020 08:46,17/08/2027 08:46,26/09/2026 09:14
-07555b30-c030-433b-93f0-dcfc9fccd03a,sports.coach,premium,1040,1040,high,medium,6,namecheap,,,
 d8f6a8de-bece-44fe-bb34-2416e57c0da1,sports.rodeo,premium,104,10.4,high,medium,6,namecheap,,,
 a5f64d15-de0f-4697-9525-8ac0d765b48c,sports.hockey,resell,,,high,medium,6,"Sav.com, LLC - 20",21/07/2026 15:15,21/07/2027 15:15,26/09/2026 09:14
-7e9edee8-edf4-4b3e-a899-19a36f5ff81c,sports.men,premium,6500,130,high,medium,6,namecheap,,,
-e90dba00-1bb7-4fb4-9f90-79ff4204559d,sports.supplies,premium,38.94,38.94,high,medium,6,namesilo,,,25/09/2026 14:16
-27116256-1a4c-48ac-bebf-7114dd39de11,sports.vet,premium,260,260,high,medium,6,namecheap,,,
-57428f10-a5de-4f89-b37c-4f207015bb70,sports.healthcare,premium,260,260,high,medium,6,namecheap,,,
-b5273542-a4ba-4707-a4ef-cdb9c754508b,sports.shoes,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,21/07/2015 17:26,21/07/2027 17:26,26/09/2026 09:14
-e6d7ed8e-2d3b-4c81-ae4d-9ae0759940db,sports.day,premium,1298.7,1298.7,high,medium,6,namecheap,,,
-6fbcede2-987c-4011-9156-6acddb6ea3c4,sports.you,premium,650,650,high,medium,6,namecheap,,,
-4748bc0c-66f2-406b-ad49-82cfa03977c8,sports.guitars,available,104.99,114.99,high,medium,6,namesilo,,,
-31ced478-eabf-43c0-a001-05d6c978028c,sports.repair,available,47.48,,high,medium,6,namecheap,,,
-697ae75c-a9f7-4d19-804a-2354fb960c98,sports.loan,premium,6500,130,high,medium,6,namecheap,,,
-d8752973-f412-402a-bed9-c734f1eb6734,sports.ong,available,16.99,,high,medium,6,name.com,,,
-8bf533a1-1e8f-4692-84cc-e241178af13b,sports.forsale,premium,260,260,high,medium,6,namecheap,,,
-c3420cfd-6678-45f0-ae9e-04e6c7a6245a,sports.engineer,premium,78,78,high,medium,6,namecheap,,,
 6940eabc-43c2-4193-a32a-5a0bd5c0ca1f,sports.center,resell,,,high,medium,6,Atom.com Domains LLC,21/08/2025 22:13,21/08/2027 22:13,26/09/2026 09:14
-a0572125-830c-4377-8477-a7f31f6b43ed,sports.download,available,,,high,medium,6,,,,
 d0e86763-ae4b-4aeb-bf4c-c6738a4e8e64,sports.living,premium,1300,2600,high,medium,6,namecheap,,,
-b642560c-320f-4da2-8d8b-c88191576a0d,sports.theatre,available,509.99,529.99,high,medium,6,namesilo,,,
-290032c5-5f4d-4822-8473-4651abfbcf14,sports.im,available,,,high,medium,6,,,,
-67357221-3092-4e4b-87df-ebefa49b32fe,sports.loans,available,144.98,,high,medium,6,namecheap,,,
-c3a0b4c7-96e6-4a4f-a5eb-f27cf58261eb,sports.careers,premium,520,520,high,medium,6,namecheap,,,
-e657c1b1-233f-4247-b76d-d26462ff612e,sports.ooo,available,,,high,medium,6,,,,
-fb02d57c-99e5-4b02-8a6d-d8603af57596,sports.how,premium,686.25,,high,medium,6,name.com,,,
 b564d6ba-8ee4-4e92-b509-4190075e149d,sports.ing,premium,3900,3900,high,medium,6,namecheap,,,
-1f65a4fa-9186-4894-9506-c932b7493303,sports.flowers,available,64.99,114.99,high,medium,6,namesilo,,,
-b329d1bf-0470-406b-bad0-d8d6640c4174,sports.cruises,premium,520,520,high,medium,6,namecheap,,,
-b598f6e5-eef4-4203-8a39-344ece1cacf0,sports.host,premium,4875,9750,high,medium,6,namecheap,,,
 8faad334-6372-4df0-917b-ec5e002d860f,sports.blog,available,,,high,medium,6,,,,
 2aaeec83-f830-4fa1-ba30-9b4bcc4ea54b,sports.dealer,premium,2015,2600,high,medium,6,namecheap,,,
 b15a8b0b-9be3-421d-a54c-cccfc60d5658,sports.online,premium,7812.5,31250,high,medium,6,name.com,,,
-199f3df8-4976-42f1-a2da-839c9062c1d8,sports.furniture,available,39.99,,high,medium,6,name.com,,,
 25479906-98df-4e96-bdbc-223a5d20675d,sports.reise,premium,260,260,high,medium,6,namecheap,,,
 da6c0538-d3fa-4f5b-be20-f36f94919198,sports.archi,available,24.99,,high,medium,6,name.com,,,
 3735d9eb-6883-4fd0-9e1c-3e1484a5ff0b,sports.hot,premium,6500,6500,high,medium,6,namecheap,,,
 2fd847b1-45b4-4de1-bfb5-15a0e0bc87ad,sports.software,premium,3250,3250,high,medium,6,namecheap,,,
-e2aa34e1-69b9-4d5f-9102-94ead1dd8cbf,sports.christmas,resell,,,high,medium,6,"Spaceship, Inc.",19/09/2025 10:50,19/09/2027 23:59,26/09/2026 09:14
 41cf3cf6-6648-4787-9a91-73476156d846,sports.deal,premium,650,650,high,medium,6,namecheap,,,
 0552e678-2f25-4d23-b5e6-e45424345d88,sports.help,premium,65,130,high,medium,6,namecheap,,,
 e12aeedb-97df-4b41-996c-90b69025fb46,sports.pictures,resell,,,high,medium,6,Porkbun LLC,17/06/2026 17:06,17/06/2027 17:06,26/09/2026 09:14
@@ -76,9 +49,9 @@ f7eda8a6-ad13-4117-a907-ee61eeeb967b,sports.band,premium,780,780,high,medium,6,n
 9129fb7c-031d-4cfd-9946-87e7b5e339cf,sports.tech,premium,3250,13000,high,medium,6,namecheap,,,
 f76d8f9f-4f85-456d-a0a2-91c5dba1f4a6,sports.limo,available,19.99,,high,medium,6,name.com,,,
 7f428e4e-a9ee-45d3-978e-ac00764f0c06,sports.farm,resell,,,high,medium,6,Dynadot Inc,22/01/2026 17:00,22/01/2027 17:00,26/09/2026 09:14
+249b91ab-b104-4190-a05b-6700a60d8d49,sports.cricket,available,,,high,medium,6,,,,
 c7b6036c-bf6d-4ff9-a03a-ed77216512d6,sports.moi,premium,242,242,high,medium,6,namesilo,,,
 8834289f-ebc3-49b1-899c-629efc3b1a63,sports.giving,available,5.99,,high,medium,6,name.com,,,
-8346eff2-b7e4-4106-a7a4-41e915873c9e,sports.property,available,,,high,medium,6,,,,
 923aeb2e-48dd-4737-b302-6d15d950b80a,sports.cfd,resell,,,high,medium,6,Dynadot Inc,21/04/2021 01:45,21/04/2027 23:59,26/09/2026 09:14
 44387172-7096-4b93-bd29-2e2913bae39c,sports.coffee,resell,,,high,medium,6,"Sav.com, LLC - 7",23/12/2025 15:16,23/12/2026 15:16,26/09/2026 09:14
 098a6bd7-421a-48c5-a47f-1177bd2626ed,sports.gallery,resell,,,high,medium,6,Porkbun LLC,12/02/2014 16:00,12/02/2027 16:00,26/09/2026 09:14
@@ -113,7 +86,6 @@ d0b9f283-68b5-4e29-9b86-7a61cbe3c51f,sports.team,resell,,,high,medium,6,"GoDaddy
 04957397-2c1a-4daa-b5e0-4e3cad6fa01b,sports.uno,premium,6500,6500,high,medium,6,namecheap,,,
 0b8b5f32-2aac-42b2-9637-2c60c5ada0ad,sports.space,premium,812.5,325,high,medium,6,namecheap,,,
 f9e59126-0ce5-4edb-89a7-89ed680b8d9a,sports.mx,resell,,,high,medium,6,"AKKY ONLINE SOLUTIONS, S.A. DE C.V.",28/06/2009 00:00,27/06/2027 00:00,26/09/2026 09:14
-05ae4f20-a089-437d-b717-7e8682a4c6f1,sports.zone,available,,,high,medium,6,,,,
 8c4b9c4a-0e7d-4173-8604-0659e06ff98c,sports.click,resell,,,high,medium,6,1API GmbH,25/11/2014 16:00,25/11/2034 16:00,26/09/2026 09:14
 2ba064a0-840f-4718-b815-2831116151df,sports.shopping,premium,520,520,high,medium,6,namecheap,,,
 97b5a850-2129-4b44-afaf-f6e388d19b1d,sports.sale,premium,1300,1300,high,medium,6,namecheap,,,
@@ -207,6 +179,7 @@ d6e6cc15-e69e-4464-b30c-e805ec9c501f,sports.global,resell,,,high,medium,6,Regist
 f6500a70-d4f0-4565-a679-05eaebcbb08a,sports.family,premium,1300,1300,high,medium,6,namecheap,,,
 daa12fa4-3b88-423e-b14e-376c2bcb18e8,sports.page,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 2bc504d8-c850-4b7d-b5cd-288d0c34ddf9,sports.vegas,available,,,high,medium,6,,,,
+07555b30-c030-433b-93f0-dcfc9fccd03a,sports.coach,premium,1040,1040,high,medium,6,namecheap,,,
 6f693471-9fdc-4048-9664-290f00784bd5,sports.tires,premium,260,260,high,medium,6,namecheap,,,
 ead0b8e7-8fad-47bc-a087-c4b2d09452dd,sports.homes,premium,845,15.73,high,medium,6,namecheap,,,
 0a3684d7-2ccc-4617-9e2f-4864a176c9d9,sports.menu,available,,,high,medium,6,,,,
@@ -283,78 +256,66 @@ a0cd3af9-d45a-494f-8aa6-1ae425f35a92,sports.foo,premium,1298.7,1298.7,high,mediu
 ed4521e6-3cea-4fe1-abef-1e64ff544a03,sports.casino,resell,,,high,medium,6,"Go China Domains, LLC",30/05/2015 16:00,30/05/2027 16:00,26/09/2026 09:14
 aa23ceb3-dcad-474e-954e-c0d547141e91,sports.auto,available,1999.99,2199,high,medium,6,namesilo,,,
 e8abaac5-97bb-4fc6-b0cc-8bcd59fa7b69,sports.college,premium,3250,3250,high,medium,6,namecheap,,,
+7e9edee8-edf4-4b3e-a899-19a36f5ff81c,sports.men,premium,6500,130,high,medium,6,namecheap,,,
 8e45f917-5386-409a-b38e-76f1b927baa0,sports.luxury,premium,520,520,high,medium,6,namecheap,,,
 db770a1c-d3ae-43b7-bbf2-3f5e5d26a212,sports.diamonds,available,54.99,54.99,high,medium,6,namesilo,,,
 c0d2aee4-6b86-4c1f-891b-4063b3fef33f,sports.coupons,premium,11700,11700,high,medium,6,namecheap,,,
 a552b81f-aaa0-4d3d-8595-e2121bf9d3be,sports.love,premium,3900,7800,high,medium,6,namecheap,,,
+e90dba00-1bb7-4fb4-9f90-79ff4204559d,sports.supplies,premium,38.94,38.94,high,medium,6,namesilo,,,25/09/2026 14:16
 173433df-3d22-4acc-9c05-39693480dfca,sports.claims,premium,128.7,128.7,high,medium,6,namecheap,,,
 f1554ce0-59a5-43f9-af17-bf534eb1a7e2,sports.ca,resell,,,high,medium,6,CanSpace Solutions Inc.,25/09/2000 16:41,16/09/2027 04:00,26/09/2026 09:14
+27116256-1a4c-48ac-bebf-7114dd39de11,sports.vet,premium,260,260,high,medium,6,namecheap,,,
 e19b33a9-906d-4ae1-a550-e34caa6034ce,sports.sarl,available,6.99,6.99,high,medium,6,namesilo,,,
 538757d8-a370-4555-b736-bc157742bb55,sports.meme,premium,1690,1690,high,medium,6,namecheap,,,
 8521e2e1-d0c0-4519-87da-bd80aab1ebcd,sports.cheap,resell,,,high,medium,6,Dynadot Inc,09/02/2026 17:00,09/02/2027 17:00,26/09/2026 09:14
 82b113a2-b0ae-4c37-a26d-e2d141c06f43,sports.cc,resell,,,high,medium,6,"GoDaddy.com, LLC",17/11/1997 08:00,17/11/2026 08:00,26/09/2026 09:14
 8a6f021d-a24f-4fa0-8584-87ba9b03c1a6,sports.rip,resell,32.98,,high,medium,6,Porkbun LLC,21/01/2026 11:11,21/01/2027 11:11,26/09/2026 09:14
 4a0c21c4-65fd-4442-b9b2-9bf86d9d4ae4,sports.financial,premium,128.7,128.7,high,medium,6,namecheap,,,
+57428f10-a5de-4f89-b37c-4f207015bb70,sports.healthcare,premium,260,260,high,medium,6,namecheap,,,
 815fd2e7-619c-4d1b-87bf-35bf6318cf9a,sports.gift,premium,156,156,high,medium,6,namecheap,,,
 2692d8d3-ae53-4e5a-9552-712e8cbe85f1,sports.rest,premium,1462.5,2925,high,medium,6,namecheap,,,
+b5273542-a4ba-4707-a4ef-cdb9c754508b,sports.shoes,resell,,,high,medium,6,GoDaddy Online Services Cayman Islands Ltd.,21/07/2015 17:26,21/07/2027 17:26,26/09/2026 09:14
 911d905a-8722-41fa-89f9-17ad43aea819,sports.security,available,1999.99,2049.99,high,medium,6,namesilo,,,
 c9af783c-48af-4596-9ec3-6a1d7a4f6a0d,sports.auction,premium,520,520,high,medium,6,namecheap,,,
 571dd17b-26ab-4841-abd6-38fa62ba2e1b,sports.rsvp,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 284fdc7b-4c5e-4758-b782-1d7aaf9d7a33,sport.hockey,resell,,,high,medium,5,"Sav.com, LLC - 1",09/08/2026 15:15,09/08/2027 15:15,26/09/2026 09:13
 6955fb83-164b-44e8-8a86-ed2e69fedcc3,sports.tienda,premium,260,260,high,medium,6,namecheap,,,
+e6d7ed8e-2d3b-4c81-ae4d-9ae0759940db,sports.day,premium,1298.7,1298.7,high,medium,6,namecheap,,,
 f937361a-a3e3-4cde-8d0d-8d0341ee5e8a,sports.sydney,premium,2590.8,2590.8,high,medium,6,namecheap,,,
 5cdde1c4-97d6-43f3-94d3-b8f9204da9eb,sports.beauty,premium,845,15.73,high,medium,6,namecheap,,,
 635151b8-39d0-45f5-aab8-9c27196b9a3f,sports.phd,premium,1688.7,1688.7,high,medium,6,namecheap,,,
+6fbcede2-987c-4011-9156-6acddb6ea3c4,sports.you,premium,650,650,high,medium,6,namecheap,,,
+4748bc0c-66f2-406b-ad49-82cfa03977c8,sports.guitars,available,104.99,114.99,high,medium,6,namesilo,,,
 71f59173-6b13-4b65-8646-f46f8a063be2,sports.credit,available,131.98,,high,medium,6,namecheap,,,
+31ced478-eabf-43c0-a001-05d6c978028c,sports.repair,available,47.48,,high,medium,6,namecheap,,,
+697ae75c-a9f7-4d19-804a-2354fb960c98,sports.loan,premium,6500,130,high,medium,6,namecheap,,,
+d8752973-f412-402a-bed9-c734f1eb6734,sports.ong,available,16.99,,high,medium,6,name.com,,,
+8bf533a1-1e8f-4692-84cc-e241178af13b,sports.forsale,premium,260,260,high,medium,6,namecheap,,,
+c3420cfd-6678-45f0-ae9e-04e6c7a6245a,sports.engineer,premium,78,78,high,medium,6,namecheap,,,
+a0572125-830c-4377-8477-a7f31f6b43ed,sports.download,available,,,high,medium,6,,,,
+b642560c-320f-4da2-8d8b-c88191576a0d,sports.theatre,available,509.99,529.99,high,medium,6,namesilo,,,
+290032c5-5f4d-4822-8473-4651abfbcf14,sports.im,available,,,high,medium,6,,,,
+67357221-3092-4e4b-87df-ebefa49b32fe,sports.loans,available,144.98,,high,medium,6,namecheap,,,
+c3a0b4c7-96e6-4a4f-a5eb-f27cf58261eb,sports.careers,premium,520,520,high,medium,6,namecheap,,,
+e657c1b1-233f-4247-b76d-d26462ff612e,sports.ooo,available,,,high,medium,6,,,,
+fb02d57c-99e5-4b02-8a6d-d8603af57596,sports.how,premium,686.25,,high,medium,6,name.com,,,
+1f65a4fa-9186-4894-9506-c932b7493303,sports.flowers,available,64.99,114.99,high,medium,6,namesilo,,,
+b329d1bf-0470-406b-bad0-d8d6640c4174,sports.cruises,premium,520,520,high,medium,6,namecheap,,,
+b598f6e5-eef4-4203-8a39-344ece1cacf0,sports.host,premium,4875,9750,high,medium,6,namecheap,,,
+199f3df8-4976-42f1-a2da-839c9062c1d8,sports.furniture,available,39.99,,high,medium,6,name.com,,,
+e2aa34e1-69b9-4d5f-9102-94ead1dd8cbf,sports.christmas,resell,,,high,medium,6,"Spaceship, Inc.",19/09/2025 10:50,19/09/2027 23:59,26/09/2026 09:14
 270dfe0e-38ea-4355-b44e-4c871c717cd9,sport.run,resell,,,high,medium,5,"Spaceship, Inc.",25/01/2018 05:20,25/01/2027 05:20,26/09/2026 09:13
-8898ecab-d871-4007-be29-6c926445735c,sport.schule,premium,854,854,high,medium,5,namesilo,,,25/09/2026 22:38
-d01b5e68-7ef1-48ef-a3be-56f4e5e08fda,sport.healthcare,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
-3d580873-7618-40d7-8ef9-a96f6d0fbe98,sport.shiksha,available,11.98,69.98,high,medium,5,namecheap,,,25/09/2026 22:38
 348c735d-54a7-465f-a403-46b457673a98,sport.golf,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
-32f4f7c5-8324-4f7d-af6a-9344027ddadb,sport.living,premium,640,640,high,medium,5,namesilo,,,25/09/2026 22:38
-609fcbfa-dac3-4a40-b166-0549c8f803e3,sport.online,premium,8125,32500,high,medium,5,namecheap,,,25/09/2026 22:38
-279132b1-0c48-4ddd-aea2-40ca6e96a823,sport.glass,available,72.99,72.99,high,medium,5,namesilo,,,25/09/2026 22:38
-d0b31b25-3267-49ee-9927-00e68cb171f8,sport.red,resell,,,high,medium,5,Dynadot Inc,08/07/2024 15:15,08/07/2027 15:15,26/09/2026 09:13
-d352aafe-ee17-4160-8052-9e71ae5ad6a0,sport.poker,resell,,,high,medium,5,united-domains GmbH,21/04/2015 16:00,21/04/2027 16:00,26/09/2026 09:13
-10ada383-b838-4ece-8d34-fdc9bb5d6d95,sport.guru,resell,,,high,medium,5,"Spaceship, Inc.",19/04/2021 11:33,19/04/2027 11:33,26/09/2026 09:13
-be7208b0-5200-4329-9093-d4d537b7c06e,sport.archi,available,19.99,103.99,high,medium,5,namesilo,,,25/09/2026 22:38
-637e53e3-ec0a-4813-945a-61eb5d3fd4fe,sport.press,resell,,,high,medium,5,Namify Domains Inc,02/04/2019 13:59,02/04/2029 23:59,26/09/2026 09:13
-7d4916bb-2a1a-41f5-ae81-c8b244ad067b,sport.broker,resell,,,high,medium,5,"Sav.com, LLC",03/05/2022 17:13,03/05/2027 17:13,26/09/2026 09:13
-579a6a74-97c1-44ca-bc55-9ee6490dec25,sport.host,premium,10350,10350,high,medium,5,namesilo,,,25/09/2026 22:38
-fb20cb3b-c424-42fc-bf8d-2710552ab817,sport.reviews,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
-ce684139-c46d-4f39-8c15-0483b3198624,game.hockey,resell,,,high,medium,4,"GoDaddy.com, LLC",26/05/2020 03:41,26/05/2027 03:41,28/09/2026 20:55
 e5a2b7e6-6080-4147-bd4b-30e8bce33547,sport.tennis,resell,,,high,medium,5,Dynadot Inc,13/12/2020 23:16,13/12/2026 23:16,26/09/2026 09:14
 08f5a9f8-810d-4202-accb-0240d0fa7824,sport.courses,premium,6900,6900,high,medium,5,namesilo,,,25/09/2026 22:38
-216eb161-b2ba-4303-8cfb-0725c2b06706,sport.prof,premium,1688.7,1688.7,high,medium,5,namecheap,,,25/09/2026 22:38
-ed544981-db73-4a39-a4a1-5828841eb7af,sport.blue,resell,,,high,medium,5,"DNSPod, Inc.",03/04/2024 17:00,03/04/2027 17:00,26/09/2026 09:13
-b02d3c74-0aba-4756-9679-4e025ed6c8ef,sport.airforce,available,103.99,103.99,high,medium,5,namesilo,,,25/09/2026 22:38
-484fb796-7340-406c-bf88-a119ca675ba0,sport.phd,premium,1688.7,1688.7,high,medium,5,namecheap,,,25/09/2026 22:38
 80d563e8-80d2-4d19-9d02-71fd16a7ec87,sport.racing,premium,640,302.5,high,medium,5,namesilo,,,25/09/2026 22:38
-f24cd948-0ce3-43e8-865e-b204d752ac08,sport.dad,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
-7b29613f-84e0-45b1-8a4a-81ba62dbb164,sport.dance,premium,260,260,high,medium,5,namecheap,,,25/09/2026 22:38
-6fdb10f1-522b-438e-a8d9-771dd72854a4,competition.hockey,premium,128.7,128.7,high,low,11,namecheap,,,25/09/2026 16:42
-87090197-0b7b-4d98-86a5-8df45efdf9b6,sport.group,resell,,,high,medium,5,GNAME.COM PTE. LTD.,08/06/2016 16:00,08/06/2028 16:00,26/09/2026 09:13
-40ff59bc-399b-4e89-89b2-6c5ad3af6a03,sport.lgbt,premium,78.54,78.54,high,medium,5,namesilo,,,25/09/2026 22:38
 a5120223-ff15-47c3-93c6-01983cb17b36,sport.equipment,resell,,,high,medium,5,Dynadot Inc,25/04/2020 16:12,25/04/2027 16:12,26/09/2026 09:13
-310d26f5-6f95-49fe-bfa4-b6ea1d42a812,sport.works,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
-eac1d6b6-a93f-409a-9a03-2fceaab776fa,sport.love,resell,,,high,medium,5,Squarespace Domains II LLC,16/11/2017 16:16,16/11/2031 23:59,26/09/2026 09:13
-07a1eba0-f155-45af-a589-f2e54ad7bdb0,sport.villas,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
-0ad3898b-da0b-491d-80b4-ea3d76101135,sport.trading,resell,,,high,medium,5,Dynadot Inc,04/07/2024 15:15,04/07/2027 15:15,26/09/2026 09:14
-50d93d29-d985-4008-a4bc-ebd00ee2a081,sport.forum,premium,640,640,high,medium,5,namesilo,,,25/09/2026 22:38
-9e7fae03-6e28-4de5-bd05-83db8ae114b6,sport.day,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
-8019c675-f89e-4387-a276-b8069af99ea8,sport.cruises,premium,520,520,high,medium,5,namecheap,,,25/09/2026 22:38
-a3e60154-ec5a-4d5b-ac3d-42493e585e03,sport.vision,resell,,,high,medium,5,"Spaceship, Inc.",11/12/2020 11:29,11/12/2026 11:29,26/09/2026 09:14
-2d10de81-3903-41f3-8dd9-6493d75a0707,sport.cleaning,premium,260,260,high,medium,5,namecheap,,,25/09/2026 22:38
-553a2b1f-1890-44b5-aa7d-1e90995f04d8,sport.foo,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
-21210e54-3239-4205-9b57-ca688e5c6111,sport.construction,available,38.99,38.99,high,medium,5,namesilo,,,25/09/2026 22:38
 0385cc30-13a1-4f19-b59b-98a9e19febc3,athletics.cricket,premium,385,55,high,medium,9,dynadot,,,28/09/2026 22:59
 b2ec7502-0375-4fc9-81e2-9f46cc08dc7b,sport.bar,premium,6210,6210,high,medium,5,namesilo,,,25/09/2026 22:38
 1728e719-0f1e-4c61-ad84-5c456cf499c1,sport.catering,premium,260,260,high,medium,5,namecheap,,,25/09/2026 22:38
 162c16cc-1abb-46d7-93b2-26271b3b6302,sport.flights,premium,242,242,high,medium,5,namesilo,,,25/09/2026 22:38
-c2862642-0852-4d78-a273-13b06c9ca89b,athletics.rodeo,available,12.99,12.99,high,medium,9,namesilo,,,28/09/2026 22:59
 3b827cdc-13f7-423d-a7a8-9ea775953774,sport.meme,premium,1690,1690,high,medium,5,namecheap,,,25/09/2026 22:38
 13428802-3cdb-441b-a756-0c5c5c8a8873,sport.tattoo,resell,34.99,34.99,high,medium,5,Porkbun,02/08/2026 14:27,02/08/2027 14:27,26/09/2026 09:14
-450489e0-42f4-4caa-9bc7-20b0fdd80c8f,competition.futbol,available,7.49,17.99,high,low,11,namesilo,,,25/09/2026 16:42
 0dab5ee6-fc57-4862-8d64-7cf5c9a985d3,sport.earth,premium,71.4,71.4,high,medium,5,namesilo,,,25/09/2026 22:38
 c3c5131c-99ad-4f2e-a4d0-665a4effd5e4,sport.storage,available,509.99,529.99,high,medium,5,namesilo,,,25/09/2026 22:38
 678ca283-a931-446a-ae0f-89268dbc0cb0,sport.dealer,premium,4278,2660,high,medium,5,namesilo,,,25/09/2026 22:38
@@ -383,7 +344,6 @@ eae0dee9-540b-4f26-983c-1cfcb87f7065,sport.hosting,available,310.98,437.98,high,
 fde57228-be00-4937-b0e8-bde50f3b1e81,sport.realty,available,109.99,299,high,medium,5,namesilo,,,25/09/2026 22:38
 f707032c-1948-4a67-96bb-2ba60ee16127,fitness.diet,available,104.99,114.99,high,medium,7,namesilo,,,28/09/2026 07:35
 71351624-5d21-4ffc-8b0f-8d423b8d0709,sport.cloud,premium,13800,13800,high,medium,5,namesilo,,,25/09/2026 22:38
-901a441a-909c-4675-9fa4-06e05f8e526e,game.golf,resell,,,high,medium,4,"GoDaddy.com, LLC",27/01/2024 17:35,27/01/2029 17:35,28/09/2026 20:55
 3de632aa-c5f7-4412-8879-8cdd0bee35cb,sport.memorial,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
 324400c2-e85b-4de9-af0a-26b449501fad,team.diet,premium,832,832,high,medium,4,namesilo,,,28/09/2026 05:10
 fc335ad7-1104-40f2-b844-dc9f94e81737,sport.cars,available,1999.99,2199,high,medium,5,namesilo,,,25/09/2026 22:38
@@ -399,228 +359,94 @@ d6418dea-d8b8-4507-9c7f-00181af3d26d,competition.racing,premium,125,125,high,low
 ba2c3b80-09e0-4784-afd7-39266fc03ff6,sport.loans,available,20.99,116.99,high,medium,5,namesilo,,,25/09/2026 22:38
 1b04569f-9c85-4bfa-ae1b-f4dbd9f28ace,sport.fail,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
 9bef9ad1-50ad-42b0-a58a-29cfb18224ef,sport.vana,available,2298,2498,high,medium,5,namecheap,,,25/09/2026 22:38
-78f2a2c6-7c8c-4d40-82f6-4ad5afade896,game.poker,resell,,,high,medium,4,"Sav.com, LLC",17/11/2021 04:38,17/11/2026 04:38,28/09/2026 20:55
 0569f58f-ba45-4267-bd74-21d41cccafae,sport.mom,premium,832,832,high,medium,5,namesilo,,,25/09/2026 22:38
-e58a3779-7681-4e66-aeb9-4c8e7b2571f6,game.casino,resell,,,high,medium,4,"Go Australia Domains, LLC",30/05/2015 16:00,30/05/2027 16:00,28/09/2026 20:55
-14588753-95a6-46d9-8b68-d34f5f8626fc,competition.coach,available,17.99,77.99,high,low,11,namesilo,,,25/09/2026 16:42
-4e5cc4aa-a427-444b-879e-8830a9f355ce,athletics.study,premium,6900,6900,high,medium,9,namesilo,,,28/09/2026 22:59
 e189b27a-9112-46a8-bb65-737eee1d0bdd,sport.international,resell,,,high,medium,5,Dynadot Inc,20/06/2022 13:15,20/06/2027 13:15,26/09/2026 09:13
 c63b926c-93a4-48c7-a348-6e6d8ff2be5c,sport.health,premium,10350,71.4,high,medium,5,namesilo,,,25/09/2026 22:38
 5a899646-3592-4695-9d61-43036183f750,sport.services,premium,242,242,high,medium,5,namesilo,,,25/09/2026 22:38
 2a225075-b73b-49d3-842b-d964c95617f2,sport.ventures,resell,,,high,medium,5,"Sav.com, LLC - 38",29/02/2024 15:15,28/02/2027 15:15,26/09/2026 09:14
-bc57a9b9-5233-4ab4-9f61-57fd57614bcd,athletics.surf,available,1.24,26.08,high,medium,9,spaceship,,,28/09/2026 22:59
 c4fb59ea-e9c6-405e-8e25-6895a64123dc,sport.futbol,premium,128.7,128.7,high,medium,5,namecheap,,,25/09/2026 22:38
 5228c15d-dc66-4271-89bc-1b1a4226481e,sport.supply,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
 ca90028a-5376-466a-af6f-15c5e393c097,game.diet,available,93.35,103.4,high,medium,4,spaceship,,,28/09/2026 20:55
-5923fa17-600a-4621-bd0c-9a96f9b4af85,team.study,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 05:10
 ada90b47-62f0-492e-bfdf-f9895f57fc1f,sport.salon,premium,78.54,78.54,high,medium,5,namesilo,,,25/09/2026 22:38
 6a8019e6-c8bc-4499-8112-029c4846ed0d,sport.channel,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
-300ab818-665d-4b57-a56d-7bb7e7d8b523,game.blue,resell,28750,35.99,high,medium,4,Squarespace Domains II LLC,05/07/2020 14:30,05/07/2028 14:30,28/09/2026 20:55
-29530abf-b31f-416a-b150-0c515d130745,fitness.plumbing,available,58.16,58.16,high,medium,7,spaceship,,,28/09/2026 07:35
-f34acecd-5236-46ce-adac-f1f65b54e396,game.agency,resell,,,high,medium,4,"eNom, LLC",30/04/2014 16:52,30/04/2027 16:52,28/09/2026 20:55
 06d518e6-8e00-4151-8012-792be0bece39,sport.rich,available,94.99,1999,high,medium,5,namesilo,,,25/09/2026 22:38
 7424a9f2-4172-4aa0-ae2a-578458b85db8,sport.estate,premium,128.7,128.7,high,medium,5,namecheap,,,25/09/2026 22:38
 5c12d15e-3e2e-4cfd-b62c-72420747f5d4,sport.tech,resell,,,high,medium,5,Namify Domains Inc,02/04/2019 14:11,02/04/2029 23:59,26/09/2026 09:14
-fe8153e9-9873-4b90-a233-bfa6ee12cb38,team.guru,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",17/07/2018 07:56,17/07/2027 07:56,28/09/2026 05:10
 9e019a42-487a-45fa-a31d-cfc9707e7263,sport.fit,premium,2660,29.5,high,medium,5,namesilo,,,25/09/2026 22:38
 e8e21253-86e7-44af-b98a-447579d271d8,competition.team,resell,,,high,low,11,Squarespace Domains II LLC,22/02/2021 15:45,22/02/2027 15:45,26/09/2026 05:09
 818770b3-352c-41c9-a51f-c5e83347c315,fitness.tennis,premium,260,260,high,medium,7,namecheap,,,28/09/2026 07:35
-ae295fec-1c8d-4396-a41b-e7eb9060b609,athletics.spot,premium,116,116,high,medium,9,namesilo,,,28/09/2026 22:59
 227a5392-4ea9-4796-91f4-0d74e0e392c9,sport.boo,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
 a59c38b6-10b2-4dc4-9d9d-6e205bd85ef7,sport.camp,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
 1bfe2310-2900-4342-acbe-eb2e8c65888c,sport.builders,premium,242,242,high,medium,5,namesilo,,,25/09/2026 22:38
 e7dd70a8-2b92-40f2-bf55-5ef80a8b98a6,sport.build,premium,650,650,high,medium,5,namecheap,,,25/09/2026 22:38
 49a26b5d-af73-47c7-abf3-73b4a6668ced,sport.plumbing,available,72.99,72.99,high,medium,5,namesilo,,,25/09/2026 22:38
 5a2e055f-0f87-4e9b-b205-909978fb36e6,athlete.run,resell,,,high,low,7,"Sav.com, LLC - 14",30/04/2026 15:15,30/04/2027 15:15,28/09/2026 22:57
-497c800e-830c-4e78-844f-c53b78e81887,game.college,premium,10350.2,10350.2,high,medium,4,spaceship,,,28/09/2026 20:55
 2860ab87-75c3-4942-8ac9-847b98251c1b,sport.new,available,488.98,601.98,high,medium,5,namecheap,,,25/09/2026 22:38
-08bfbf66-dc13-42cc-a9b1-1d105e4c0f3d,competition.education,available,34.99,34.99,high,low,11,namesilo,,,25/09/2026 16:42
 7262eaf4-7b06-47e2-87d1-3b5cbe8d2b75,training.diet,available,93.35,103.4,high,low,8,spaceship,,,29/09/2026 06:10
-131f25f5-c666-4665-8ed7-520ee117fafa,athletics.monster,available,1.99,17.29,high,medium,9,namesilo,,,28/09/2026 22:59
 ef308bd7-36a3-403d-96d1-fbdb33d16572,team.chat,resell,,,high,medium,4,PDR Ltd. d/b/a PublicDomainRegistry.com,18/05/2015 16:15,18/05/2027 16:15,28/09/2026 05:10
 ec6316ba-e736-473a-abb4-148cc7f7a7a3,game.fashion,resell,,,high,medium,4,"Spaceship, Inc.",05/02/2019 16:17,05/02/2027 16:17,28/09/2026 20:55
-f5fc2f99-9e82-4e26-852e-f69cfd25b7f3,team.apartments,available,57.99,57.99,high,medium,4,namesilo,,,28/09/2026 05:10
-499fdb9a-c3ee-4821-8358-e418dd7ef148,game.chat,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",17/05/2015 15:08,17/05/2027 15:08,28/09/2026 20:55
-cb27ba09-bed6-448c-a328-ca50bb6b8222,game.clinic,premium,78.54,78.54,high,medium,4,namesilo,,,28/09/2026 20:55
-6c2900a7-6b63-439a-8f0d-97146f87b459,game.associates,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 20:55
-827ea286-e165-4eb3-9232-2592ae0c17a2,game.auto,available,1863.2,2064.2,high,medium,4,spaceship,,,28/09/2026 20:55
-c5ee082f-3a2f-4aa3-976f-1cf5631d383b,fitness.living,premium,1449.2,2070.2,high,medium,7,spaceship,,,28/09/2026 07:35
 9f9f4c35-abb5-4035-a6fe-c5582dc4bfb6,athletic.cricket,available,23.59,23.59,high,low,8,namesilo,,,21/09/2026 16:12
 0958fb94-3509-41cc-be93-ea99a3a87f4d,sport.giving,premium,85.8,85.8,high,medium,5,namecheap,,,25/09/2026 22:38
-0082f252-c9d7-49c2-9121-f86d8abefe7f,team.surgery,premium,220,220,high,medium,4,dynadot,,,28/09/2026 05:10
-3070202a-7a24-42d8-806d-4b4f20970938,athletics.free,premium,103.7,103.7,high,medium,9,spaceship,,,28/09/2026 22:59
-13af9cb0-e624-4379-bdab-7cd58291bd30,athletics.date,premium,310.7,51.95,high,medium,9,spaceship,,,28/09/2026 22:59
 8e0b6488-0eb8-45e9-bafb-b9b29b5a1458,sport.clinic,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
-4297a02a-09d5-4629-9c59-345ce8d26a82,game.education,resell,,,high,medium,4,Dynadot Inc,07/12/2019 18:27,07/12/2026 18:27,28/09/2026 20:55
 bb9782fe-6da4-40ed-8a27-85dc958ed8b1,game.bet,resell,,,high,medium,4,"GoDaddy.com, LLC",04/03/2016 09:49,04/03/2027 09:49,28/09/2026 20:55
-8e20fe62-fbc9-4a92-9efc-09469bb54a2b,competition.dog,premium,78.54,78.54,high,low,11,namesilo,,,25/09/2026 16:42
-270e9fdb-9733-4fa4-935a-aa6da30227a8,team.camp,resell,,,high,medium,4,Dynadot Inc,20/04/2022 19:15,20/04/2027 19:15,28/09/2026 05:10
-4c5e74a8-5a8c-4854-8152-ec76558b6991,team.industries,premium,108.9,108.9,high,medium,4,dynadot,,,28/09/2026 05:10
-c3cf7ec4-9ce1-44ad-8322-81f053bf18a7,competition.auction,available,36.99,36.99,high,low,11,namesilo,,,25/09/2026 16:42
-577b651b-ad4d-4af6-a823-e2503a422f16,athletics.guitars,available,93.35,103.4,high,medium,9,spaceship,,,28/09/2026 22:59
 1890936f-6dbd-49c0-8c4f-4bbcba3881fc,sport.contractors,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
-da1a7340-68c3-4852-8db9-366c11b54009,team.guitars,available,100.2,100.2,high,medium,4,cloudflare,,,28/09/2026 05:10
-9067b5c9-0180-449b-b8ff-5b0564934d48,training.schule,premium,128.7,128.7,high,low,8,namecheap,,,29/09/2026 06:10
-438e52d5-0d2b-41a0-92e6-e6710fea4431,team.credit,resell,,,high,medium,4,"Sav.com, LLC - 41",29/04/2026 15:15,29/04/2027 15:15,28/09/2026 05:10
-ba996c92-7a12-4c45-9d59-92275046a63b,game.wtf,resell,,,high,medium,4,"Sav.com, LLC - 23",02/12/2023 15:15,02/12/2026 15:15,28/09/2026 20:55
-7df4a3fd-4976-4798-95e2-a2db465e103c,athletics.baby,available,50.2,50.2,high,medium,9,cloudflare,,,28/09/2026 22:59
-2a1800d6-ece8-4787-a135-c4cb4ae4687f,athletics.gay,available,32.32,32.32,high,medium,9,dynadot,,,28/09/2026 22:59
-51b5337a-1322-4e95-83b7-b1b7a89cfc03,team.love,premium,854,854,high,medium,4,namesilo,,,28/09/2026 05:10
-976344b5-2f4f-4d4b-b916-b6e344aa39a0,game.gmbh,resell,,,high,medium,4,"Soluciones Corporativas IP, SL",22/06/2016 16:00,22/06/2027 16:00,28/09/2026 20:55
 1ae3062f-a8f5-4d6e-941b-6233c2723dd1,sport.vodka,available,32.49,32.49,high,medium,5,namesilo,,,25/09/2026 22:38
-0702b5b6-7cb7-4a56-811e-a563e1c390d6,team.hot,premium,1092.18,1092.18,high,medium,4,porkbun,,,28/09/2026 05:10
-80cb6100-dc28-4a9a-ba66-7901d3883dfd,team.style,premium,38.94,38.94,high,medium,4,namesilo,,,28/09/2026 05:10
-16afc826-facd-4d63-b943-bc27cd49e460,game.center,resell,,,high,medium,4,"GoDaddy.com, LLC",27/06/2015 16:00,27/06/2027 16:00,28/09/2026 20:55
-65f0b04b-2b9e-4e2b-9f3e-dc4b51b61d1b,team.voyage,available,46.78,46.78,high,medium,4,spaceship,,,28/09/2026 05:10
 12fa06c0-1a7a-4b6d-b134-91dedb1753b0,team.holdings,available,53.72,53.72,high,medium,4,dynadot,,,28/09/2026 05:10
 a66a9183-c3ac-49a6-bb3d-1dca6909a109,sport.voting,available,1398,1448,high,medium,5,namecheap,,,25/09/2026 22:38
 c4fcd60e-ae73-4137-ab65-cadc17c9f360,competition.fitness,premium,118.8,118.8,high,low,11,namesilo,,,25/09/2026 16:42
-d56ceb4e-3706-43b4-b2fe-d37a297a2f00,team.hospital,available,45.83,45.83,high,medium,4,porkbun,,,28/09/2026 05:10
 cb9db998-af35-4af6-b094-6c240670f0ff,competition.cricket,premium,448,53.92,high,low,11,namesilo,,,25/09/2026 16:42
 a55ff894-2d3f-4d24-817a-5a0f6e1caa4a,game.degree,premium,1035.2,1035.2,high,medium,4,spaceship,,,28/09/2026 20:55
 2c657ae0-1a0b-4062-b1a6-3122b3bc5080,fitness.cricket,premium,517.7,67.48,high,medium,7,spaceship,,,28/09/2026 07:35
-9b48449c-f300-40cd-94a8-d4b65954d53c,team.kaufen,available,5.99,26.99,high,medium,4,namesilo,,,28/09/2026 05:10
 6ddc0872-0557-46eb-b4f0-2c0d54f10832,game.ski,premium,828.2,828.2,high,medium,4,spaceship,,,28/09/2026 20:55
 a84de96f-2cf0-4504-af99-a95798c5d389,sport.immobilien,available,37.99,37.99,high,medium,5,namesilo,,,25/09/2026 22:38
-0cce47e2-87e0-46eb-aa4e-2bfb1bde4c25,competition.ceo,available,10.19,129.99,high,low,11,namesilo,,,25/09/2026 16:42
 43c74268-4099-4344-bd15-b53ef5c63c44,sport.beer,resell,,,high,medium,5,Porkbun,27/08/2025 19:27,27/08/2027 19:27,26/09/2026 09:13
 3898a0b6-dbb5-4f76-add2-8af98035112b,athlete.soccer,available,25.99,25.99,high,low,7,namesilo,,,28/09/2026 22:57
-0ee7c678-8f80-4653-92a4-3339e36aac20,team.center,resell,,,high,medium,4,"GoDaddy.com, LLC",09/06/2016 19:32,09/06/2027 19:32,28/09/2026 05:10
-0bbb1fd4-60d2-4b15-a46b-15e018263b97,athletics.protection,available,2064.2,2064.2,high,medium,9,spaceship,,,28/09/2026 22:59
-d6f13a20-f23e-4215-b3e1-02076385a275,game.forex,premium,6500,6500,high,medium,4,namecheap,,,28/09/2026 20:55
-e895b69a-c7e3-4db1-8f37-c753f06dc9fd,competition.photo,premium,116,116,high,low,11,namesilo,,,25/09/2026 16:42
-7667b420-8ac0-4377-a8a1-c605358592ac,athletics.film,premium,116,116,high,medium,9,namesilo,,,28/09/2026 22:59
-e331e3cb-3e7d-4879-bd5d-d6c6bd3e9d14,fitness.rich,available,79,160.72,high,medium,7,dynadot,,,28/09/2026 07:35
-a0f2a465-4e79-49e0-ac6c-d81d2d66377c,team.soy,premium,326.93,326.93,high,medium,4,porkbun,,,28/09/2026 05:10
-fb352c57-5ed2-4ae8-8563-0209775f9690,competition.plumbing,available,72.99,72.99,high,low,11,namesilo,,,25/09/2026 16:42
-da8e6a54-ee2c-48e6-8497-74eeb66b071c,fitness.spot,premium,116,116,high,medium,7,namesilo,,,28/09/2026 07:35
-184594f8-fa5b-4db3-a4a5-96089478ecec,team.gives,premium,78.54,78.54,high,medium,4,namesilo,,,28/09/2026 05:10
-6332c3b0-ce6a-45d4-89fe-485981b4252a,exercise.at,resell,,,high,low,8,EWBCD GmbH ( https://nic.at/registrar/750 ),,,26/09/2026 05:56
-8cfb7101-3442-4f1f-82a1-f2d262b88c99,competition.casa,available,1.99,23.99,high,low,11,name.com,,,25/09/2026 16:42
-a18045ce-cdf8-46b2-8d37-8849583ae660,game.hair,premium,2070.2,2070.2,high,medium,4,spaceship,,,28/09/2026 20:55
 2f208877-b17c-4357-8a84-f72211756b20,sport.link,premium,4830,4830,high,medium,5,namesilo,,,25/09/2026 22:38
-471481cd-2c9c-4e18-b118-8009873af925,fitness.sale,premium,800.5,1040,high,medium,7,unstoppable,,,28/09/2026 07:35
 193da5f3-e22d-4d29-acf5-d12fda6a69e5,sport.band,premium,768,768,high,medium,5,namesilo,,,25/09/2026 22:38
 afa39bad-a8fa-4b71-aff4-355d8faad719,fitness.fit,premium,2070.2,26.08,high,medium,7,spaceship,,,28/09/2026 07:35
 d41c272d-26f3-4d1c-af54-607df40cdd2b,sport.deals,resell,,,high,medium,5,"Spaceship, Inc.",18/12/2017 11:17,18/12/2026 11:17,26/09/2026 09:13
-a4eedc29-99d4-443d-b37f-b1e7e9185f71,athletics.theatre,available,509.99,529.99,high,medium,9,namesilo,,,28/09/2026 22:59
-d4581a43-af3c-4202-a836-9462ac42a7e3,competition.capital,available,8.98,89.98,high,low,11,namecheap,,,25/09/2026 16:42
 96688d63-e3de-47ee-b3f8-325bfdb63ab8,competition.bid,available,5.25,6.25,high,low,11,namesilo,,,25/09/2026 16:42
-0bf85246-d351-468c-9ecf-363b5570dbb6,athletics.fishing,premium,87.86,27.82,high,medium,9,porkbun,,,28/09/2026 22:59
 472c7e14-1b84-417c-8ab6-0111179463a3,sport.pub,premium,520,520,high,medium,5,namecheap,,,25/09/2026 22:38
 34ca9a44-c581-4ab1-8730-99ffbded81cf,sport.surgery,premium,242,242,high,medium,5,namesilo,,,25/09/2026 22:38
-bed000af-a56d-40eb-86fc-0df6d6445d77,exercise.space,premium,6900,6900,high,low,8,namesilo,,,19/09/2026 09:45
-078f2f9b-35a4-41af-9700-f16aac6941e3,competition.network,resell,,,high,low,11,"Global Domains International, Inc. DBA DomainCostClub.com",24/01/2022 04:02,24/01/2027 04:02,26/09/2026 05:09
-df802a3a-5c25-489d-b2e6-ac8b66a7cc19,competition.gives,available,14.99,23.99,high,low,11,namesilo,,,25/09/2026 16:42
-51f72cc7-64f7-4c2d-a30d-f9e9d92b5026,athletics.yoga,premium,96,29.5,high,medium,9,namesilo,,,28/09/2026 22:59
-b80ba9d3-5477-4c0f-9e81-8b1ad77e1fda,competition.lawyer,available,62.99,62.99,high,low,11,namesilo,,,25/09/2026 16:42
-9c6693df-0839-4f08-b63b-0e604b5576f5,competition.express,available,12.49,39.99,high,low,11,namesilo,,,25/09/2026 16:42
-405aae26-1378-4d3c-ad62-725f52741667,team.rich,available,94.99,1999,high,medium,4,namesilo,,,28/09/2026 05:10
 9825585a-a351-47aa-b620-b14cb8bc0ffc,team.fun,premium,6900,6900,high,medium,4,namesilo,,,28/09/2026 05:10
-2de32727-f619-4d53-aa0a-80952c93e817,fitness.financial,premium,,,high,medium,7,,,,28/09/2026 07:35
-307590ea-fd51-4d98-bf15-332f46c8f114,competition.irish,available,7.49,22.49,high,low,11,namesilo,,,25/09/2026 16:42
 10a7ca0d-a3e1-4e74-adc7-b0995c0470ba,game.news,premium,517.7,1035.2,high,medium,4,spaceship,,,28/09/2026 20:55
 a7356b50-4731-48c6-8e51-ff31e24e48c2,game.observer,premium,828.2,828.2,high,medium,4,spaceship,,,28/09/2026 20:55
-ab8e51e0-ba58-41c5-a933-24970902d8cc,competition.engineering,available,16.99,64.99,high,low,11,namesilo,,,25/09/2026 16:42
-d85d46c1-3675-40dd-b76f-795ef5c0b23b,game.memorial,premium,108.9,108.9,high,medium,4,dynadot,,,28/09/2026 20:55
-a574b9c7-52e3-4c95-b39a-e62f45a1163d,competition.fun,premium,1107,1107,high,low,11,namesilo,,,25/09/2026 16:42
-043a4fef-8a2f-4ed4-8520-1994ebcfd20b,athlete.click,premium,72.65,103.7,high,low,7,spaceship,,,28/09/2026 22:57
 f476e764-9cea-426d-958c-de09a24b26cb,competition.markets,available,5.98,26.98,high,low,11,namecheap,,,25/09/2026 16:42
 b4403ff3-399c-40cc-bf36-6fce36413b4d,athletics.miami,premium,242,21.24,high,medium,9,namesilo,,,28/09/2026 22:59
-8c43738e-d260-4f79-9b6d-c02937d95f6a,athlete.stream,premium,6250,,high,low,7,name.com,,,28/09/2026 22:57
-abb1ca19-db93-4f79-a714-0e0aae04decf,fitness.new,available,412.2,412.2,high,medium,7,spaceship,,,28/09/2026 07:35
-bffc868b-271e-4e47-86ad-f2e36e9cca84,competition.forex,available,11.98,133.98,high,low,11,namecheap,,,25/09/2026 16:42
-8439bee8-fa75-4980-bf90-2f7b9933a33a,team.meme,premium,1345.7,1345.7,high,medium,4,spaceship,,,28/09/2026 05:10
-4deac824-b8ff-43a5-8aeb-15757395599b,game.luxury,resell,,,high,medium,4,"Sav.com, LLC - 4",07/01/2026 00:04,07/01/2027 23:59,28/09/2026 20:55
-6d04d3f2-9d8f-48d0-a979-6c3d680b1a4d,competition.loans,available,20.99,116.99,high,low,11,namesilo,,,25/09/2026 16:42
-7655db42-0902-44c7-9040-3e006a7afa1e,competition.cafe,available,7.25,51.99,high,low,11,namesilo,,,25/09/2026 16:42
-d4004114-cb8b-4644-af42-4794515969e0,fitness.ltd,resell,,,high,medium,7,,,,28/09/2026 07:35
 7f40b029-8a17-4e98-b868-6eeb0ad60747,sport.paris,available,66.98,66.98,high,medium,5,namecheap,,,25/09/2026 22:38
-f0222fa1-a3db-49fc-9977-7bed935a3b5b,athlete.limited,available,37.98,39.98,high,low,7,namecheap,,,28/09/2026 22:57
-0f0cbe29-8a15-4361-a8ad-eff9ea2d3c06,athlete.company,available,20.99,20.99,high,low,7,namesilo,,,28/09/2026 22:57
 12a067d6-3180-44aa-bb6d-c18019a1561c,team.supplies,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 05:10
 c4915f46-fa25-4d91-8c17-091550e7da77,sport.space,premium,3250,13000,high,medium,5,namecheap,,,25/09/2026 22:38
 d23848b0-7087-4310-a7df-4a7db8eb0326,game.surgery,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 20:55
-153d5226-316d-4707-b46e-190c966cf9bf,athletics.report,premium,85.8,85.8,high,medium,9,namecheap,,,28/09/2026 22:59
-60b3e689-4c16-4f5c-940d-576e26026d86,fitness.place,premium,103.7,207.2,high,medium,7,spaceship,,,28/09/2026 07:35
 2efb9de1-1e21-479a-abd4-0f76672cc5bd,sport.theatre,available,509.99,529.99,high,medium,5,namesilo,,,25/09/2026 22:38
-db67932d-d94b-4458-9c8b-4bae0dfec132,tournament.diet,available,108.98,159.98,high,low,10,namecheap,,,27/09/2026 05:49
 d0bbaee4-4875-48ef-9db0-6d0181ce6fa7,sport.management,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",16/03/2014 16:00,16/03/2028 16:00,26/09/2026 09:13
-9e8a7d77-fc61-4eaa-b862-ae2f26a77121,fitness.attorney,available,62.99,62.99,high,medium,7,namesilo,,,28/09/2026 07:35
 70d64dea-ab8a-45a8-80c6-fc877f8eca64,team.futbol,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 05:10
-d9e3490c-6b51-4930-97b8-b53abe81cade,training.men,premium,448,53.92,high,low,8,namesilo,,,29/09/2026 06:10
-422ec62b-b245-4059-b7b7-3f408fd4cf49,fitness.flowers,available,107.22,107.22,high,medium,7,dynadot,,,28/09/2026 07:35
-9eb9bb4d-7610-4d1c-aea0-d6bb5dbb1311,fitness.dealer,premium,2015,2600,high,medium,7,namecheap,,,28/09/2026 07:35
-578e1fdc-b634-4f64-bc22-e3c589f6c54a,team.marketing,premium,68.51,68.51,high,medium,4,spaceship,,,28/09/2026 05:10
 51876b8a-ba79-42bc-ac26-0ac79c89d200,game.tech,resell,,,high,medium,4,Namify Domains Inc,02/04/2019 14:11,02/04/2029 23:59,28/09/2026 20:55
-9b9d20a2-af12-4668-a35b-106ec67fe7df,training.pet,premium,1107,1107,high,low,8,namesilo,,,29/09/2026 06:10
-eee341ee-e774-471f-a2a8-1ea8b6f81f58,exercise.tech,premium,3450,3450,high,low,8,namesilo,,,19/09/2026 09:45
-68621cea-7f2e-487a-b581-746310eb9255,athletics.blog,premium,650,2600,high,medium,9,namecheap,,,28/09/2026 22:59
-8257f11f-f3fe-4c29-b852-d5f8c7a49759,athlete.works,resell,7.99,,high,low,7,name.com,,,28/09/2026 22:57
-555bf4c6-99ab-46fa-9bf5-456c2695bb07,fitness.furniture,available,26.5,,high,medium,7,unstoppable,,,28/09/2026 07:35
 63638de7-54cd-49dd-8992-f23e3a0931d2,competition.cfd,premium,68.43,147.2,high,low,11,namesilo,,,25/09/2026 16:42
 a62d87dc-3e87-4d35-b87d-4612f1da5e2f,team.vana,available,2070.2,2070.2,high,medium,4,spaceship,,,28/09/2026 05:10
-2ba9fdb0-ff6e-4704-b550-b723ec4f5d32,fitness.solutions,resell,,,high,medium,7,Atom.com Domains LLC,27/08/2024 19:32,27/08/2027 19:32,28/09/2026 07:35
-6879805b-0733-428a-b209-4d2ae8b2f8a8,tournament.game,available,309.99,429.99,high,low,10,namesilo,,,27/09/2026 05:49
-d991783f-252a-4b6b-8d0c-030b2fd3c7ce,athlete.parts,available,12.99,41.99,high,low,7,namesilo,,,28/09/2026 22:57
-f31cd5a5-dd5b-4228-b20b-bf085640499e,competition.rent,available,1.5,81.98,high,low,11,namecheap,,,25/09/2026 16:42
-579ae122-368e-4103-86bd-45672b026b6e,competition.talk,premium,75,75,high,low,11,name.com,,,25/09/2026 16:42
-dbcafce4-fca9-4dbe-b0b1-5c296ee0a51a,athletics.esq,premium,63.7,63.7,high,medium,9,namecheap,,,28/09/2026 22:59
-eb6cdf19-3f5a-4cf4-93df-360401e2a882,team.contractors,premium,102.67,102.67,high,medium,4,spaceship,,,28/09/2026 05:10
 aa8faae7-c876-4873-9d6d-9e7b34936e70,game.fit,resell,,,high,medium,4,"GoDaddy.com, LLC",17/08/2020 09:43,17/08/2027 09:43,28/09/2026 20:55
-889d5e46-efac-464f-99ae-5df7788ca2fe,stadium.rodeo,available,12.99,12.99,high,low,7,namesilo,,,28/09/2026 03:07
-2c40489f-5ae4-4d00-ab10-dccb415580d7,team.rentals,premium,828.2,828.2,high,medium,4,spaceship,,,28/09/2026 05:10
 440cf614-c48a-4061-8438-2f34da3b2a93,sport.esq,premium,1688.7,1688.7,high,medium,5,namecheap,,,25/09/2026 22:38
-a5e07f04-3f50-4adf-9588-85b478b3b367,fitness.voting,available,978.6,978.6,high,medium,7,dynadot,,,28/09/2026 07:35
-b4aa68ae-ee41-43f1-ad14-1d534a9fe05e,athlete.luxe,premium,96,17.7,high,low,7,namesilo,,,28/09/2026 22:57
-c8d022c1-4663-4c37-80b3-b994ecdae80f,fitness.art,premium,3105.2,72.65,high,medium,7,spaceship,,,28/09/2026 07:35
 0bf1fdc6-1c9d-4d96-8799-aaaddb3eea26,game.inc,premium,1604.45,2070.2,high,medium,4,spaceship,,,28/09/2026 20:55
 3ad311b8-2c22-4137-9bd2-afa1385caedd,athletics.moi,available,25.99,25.99,high,medium,9,namesilo,,,28/09/2026 22:59
 21c5b035-bb8c-4cd3-80b4-66177c6ca05e,exercise.fitness,premium,242,242,high,low,8,namesilo,,,19/09/2026 09:45
 ae6c08a0-036a-44a2-917a-08a2ef5b11f2,team.courses,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 05:10
-10829bce-26e6-41e6-937d-5c49b5d0e71a,competition.help,premium,83.3,116,high,low,11,namesilo,,,25/09/2026 16:42
-50e02062-e49f-432c-9530-9fc6396798fc,competition.viajes,available,63.99,65.99,high,low,11,name.com,,,25/09/2026 16:42
-57b11af4-9f54-4f63-a765-0bd012475d91,league.cricket,available,,,high,low,6,,,,
-3feb8722-2cd7-4545-95a2-036982bf547c,athlete.storage,available,535.22,535.22,high,low,7,dynadot,,,28/09/2026 22:57
-731ffbc3-5543-4c61-88ff-eda99956e732,athlete.lgbt,premium,550,550,high,low,7,dynadot,,,28/09/2026 22:57
 334014fa-685c-43cb-b605-8ab534254c7b,sport.forex,available,11.98,133.98,high,medium,5,namecheap,,,25/09/2026 22:38
 5e6281a1-8867-433f-ac8e-aac4aae31307,game.foo,premium,1298.7,1298.7,high,medium,4,namecheap,,,28/09/2026 20:55
 97672504-2758-44e9-afb6-d9f78b4401b5,sport.yoga,resell,,,high,medium,5,Dynadot Inc,08/05/2025 00:00,08/05/2027 00:00,26/09/2026 09:14
-8519b55b-5554-4bea-bf2f-094ca94024a4,athletics.boats,available,1.99,17.29,high,medium,9,namesilo,,,28/09/2026 22:59
-b5cd3eeb-ed94-4fd2-95c7-48fdd1f5cfde,team.garden,premium,83,26.08,high,medium,4,spaceship,,,28/09/2026 05:10
-4e89e1e3-4aad-45e1-8812-49161df55955,exercise.band,premium,1107,1107,high,low,8,namesilo,,,19/09/2026 09:45
-1492aa8b-7583-4c2a-a930-8c336eb74971,fitness.best,resell,,,high,medium,7,"Sav.com, LLC",01/04/2026 22:12,01/04/2027 23:59,28/09/2026 07:35
-bacb05af-5a89-4900-b6d0-c8407b127a40,tournament.zone,available,12.99,38.99,high,low,10,namesilo,,,27/09/2026 05:49
 bb2cd80b-210b-4ae5-a11d-4e1e9f8a1f80,fitness.education,premium,102.67,102.67,high,medium,7,spaceship,,,28/09/2026 07:35
-4f56def8-af99-472f-b3c5-f4b464b049bf,competition.sucks,premium,2728.7,2728.7,high,low,11,namecheap,,,25/09/2026 16:42
-52d7437a-68a0-4512-ba0d-66e4c79d1f91,competition.autos,available,1.99,17.29,high,low,11,namesilo,,,25/09/2026 16:42
 88126449-0644-47b8-93d2-ef263b0b4c71,team.money,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",09/06/2026 15:15,09/06/2027 15:15,28/09/2026 05:10
-c6805ae6-93f3-486a-9ff4-3f9f91aae288,athletics.auction,premium,,,high,medium,9,"GoDaddy Corporate Domains, LLC",01/12/2014 09:19,01/12/2026 09:19,28/09/2026 22:59
-8a0073d7-8c96-4716-beb6-e256b3eb8f7e,fitness.pics,resell,,,high,medium,7,Dynadot Inc,24/08/2026 16:12,24/08/2027 23:59,28/09/2026 07:35
-973d30d0-9500-4299-9bd0-b6915e50fa7c,athletics.sucks,premium,2182.75,2182.75,high,medium,9,porkbun,,,28/09/2026 22:59
-3ba42675-7ab4-458d-8d54-a0b312a22f93,athletics.rich,available,79,160.72,high,medium,9,dynadot,,,28/09/2026 22:59
-a9326ea5-ed61-4075-a723-bc47cf449182,athlete.repair,available,12,,high,low,7,unstoppable,,,28/09/2026 22:57
-60e26a2b-d2ee-4797-8c64-9aec2d8aba1e,fitness.equipment,premium,414.2,414.2,high,medium,7,spaceship,,,28/09/2026 07:35
 9b6b4d8a-f4f9-4bbd-a593-af46dd516930,game.fast,premium,1035.2,1035.2,high,medium,4,spaceship,,,28/09/2026 20:55
-258ac7a4-940c-423b-b7a9-cf96735c8999,athlete.info,resell,,,high,low,7,Dynadot Inc,22/09/2001 16:25,22/09/2027 16:25,28/09/2026 22:57
 16ffd514-9173-4100-af3d-79edc4c2d9e1,sport.coupons,premium,12420,12420,high,medium,5,namesilo,,,25/09/2026 22:38
 2cb1265c-6d0f-483c-bd2c-b137537ba677,game.trade,premium,10350.2,103.7,high,medium,4,spaceship,,,28/09/2026 20:55
-79b91083-1911-41a8-ae8f-89e5a786ca17,exercise.dev,premium,421.12,421.12,high,low,8,namesilo,,,19/09/2026 09:45
 a37145a1-6af8-467f-9a00-c453ccc5afe5,competition.expert,available,11.99,79.99,high,low,11,name.com,,,25/09/2026 16:42
 0630a735-41c3-4670-8b61-c5cd1d48acb6,athletics.gg,resell,,,high,medium,9,Porkbun LLC (https://porkbun.com/),,,28/09/2026 22:59
-9eb24f93-708a-411f-9c51-ee26a1271980,athlete.financial,available,15.73,46.78,high,low,7,spaceship,,,28/09/2026 22:57
-bfc022b0-ce3c-4e80-a379-69f5a55c3c33,athletic.game,available,309.99,429.99,high,low,8,namesilo,,,21/09/2026 16:12
 cfa6213d-62b0-4e67-8c6d-b4b2be0a4666,game.locker,premium,5175.2,31.25,high,medium,4,spaceship,,,28/09/2026 20:55
 51e7c203-8f30-40e8-934a-0379d70ce5c6,fitness.hair,premium,832,832,high,medium,7,namesilo,,,28/09/2026 07:35
 b5b3acd0-1f5f-4692-95db-de7f793d32c1,game.shoes,premium,414.2,414.2,high,medium,4,spaceship,,,28/09/2026 20:55
-4c3aad2f-44cb-4aa2-bf85-5b9a25645636,exercise.casino,available,6.98,191.98,high,low,8,namecheap,,,19/09/2026 09:45
-3384bbb7-3f26-48b1-a09b-3ba9a555c84f,athlete.ninja,available,15.99,30.99,high,low,7,namesilo,,,28/09/2026 22:57
 b0b9060d-a8d3-4dfc-9b3d-75c75b9d497f,team.viajes,available,35.18,35.18,high,medium,4,spaceship,,,28/09/2026 05:10
 2e75a297-807a-4a53-bded-5fec06fda9dc,sport.properties,premium,854,854,high,medium,5,namesilo,,,25/09/2026 22:38
 8b429a60-0401-49fa-ab8e-8224852000e2,team.blog,premium,13750,55000,high,medium,4,dynadot,,,28/09/2026 05:10
 0af198d6-1832-4b75-873e-f4a85946df02,athletics.day,premium,37.7,37.7,high,medium,9,namecheap,,,28/09/2026 22:59
 3ab6eab1-0a94-4755-81d0-b0d9581fdc5c,athletics.now,premium,100.5,130,high,medium,9,unstoppable,,,28/09/2026 22:59
-79088b5e-adc6-4686-a112-4a65ee24e83c,training.us,resell,,,high,low,8,"GoDaddy.com, LLC",24/04/2002 14:00,23/04/2027 23:59,29/09/2026 06:10
 d2c9bd12-8fea-482e-9997-beb62c9e55be,sport.today,resell,,,high,medium,5,Squarespace Domains II LLC,19/07/2020 08:14,19/07/2027 08:14,26/09/2026 09:14
 3a2269d5-cda1-4cf4-935d-35ceaf853a0a,team.protection,available,2064.2,2064.2,high,medium,4,spaceship,,,28/09/2026 05:10
 73021323-397c-420d-a42f-17434ca16e20,game.dental,available,62.3,62.3,high,medium,4,spaceship,,,28/09/2026 20:55
@@ -634,50 +460,28 @@ ec637708-4f1e-420f-b9df-1ea6d2a7040a,sport.nyc,premium,1300,32.5,high,medium,5,n
 171b221d-d99f-49a2-ab06-6ea12906eb84,competition.training,available,8.98,53.98,high,low,11,namecheap,,,25/09/2026 16:42
 ccae5536-b799-4d01-a72a-255371d389d1,athletics.skin,available,1.54,14.21,high,medium,9,porkbun,,,28/09/2026 22:59
 06611eaa-c8ac-4c67-834f-446315c9ecab,team.hiv,available,184.9,184.9,high,medium,4,spaceship,,,28/09/2026 05:10
-cd360be1-1f77-4834-ba37-3f5af7b6f92c,athlete.tires,available,8.24,74,high,low,7,dynadot,,,28/09/2026 22:57
 3899aa98-b9be-41aa-9d50-73d4e97a1a60,sport.tips,resell,,,high,medium,5,"Spaceship, Inc.",09/05/2022 13:15,09/05/2027 13:15,26/09/2026 09:14
 1193efdf-a8a1-424d-a2c0-c9f3f6614b77,sport.degree,available,52.99,52.99,high,medium,5,namesilo,,,25/09/2026 22:38
-af396e2e-3126-40c8-8dde-529df85242e7,fit.hockey,available,62.98,72.98,high,medium,3,namecheap,,,24/09/2026 18:48
 fcc8d061-1dfa-4dd3-ac85-623a052756df,sport.black,resell,,,high,medium,5,"Sav.com, LLC - 37",29/01/2026 15:15,29/01/2027 15:15,26/09/2026 09:13
 cac9dd29-9f4f-4b27-9b68-d82ed4b1edc6,sport.film,premium,640,640,high,medium,5,namesilo,,,25/09/2026 22:38
 95af1299-f331-401a-bfad-81bbf02dfc38,team.bid,resell,,,high,medium,4,Dynadot Inc,26/07/2019 17:07,26/07/2027 17:07,28/09/2026 05:10
-0c2280ea-78c4-4bed-a5cf-8a0cad1618e7,competition.gay,available,38.99,38.99,high,low,11,namesilo,,,25/09/2026 16:42
 3bd90bd6-91fb-4950-a60f-9ff86848a218,team.blackfriday,available,114.99,114.99,high,medium,4,namesilo,,,28/09/2026 05:10
-a0f5e244-f090-46fa-8402-fd4afa975f15,athletic.academy,resell,,,high,low,8,"Sav.com, LLC - 23",07/05/2025 15:15,07/05/2027 15:15,26/09/2026 04:06
 9d708359-2c1a-4f42-b50e-1a8cbd1c7678,team.review,premium,3450,116,high,medium,4,namesilo,,,28/09/2026 05:10
 6c56b40d-69fa-4d45-a878-f7d8f4c7ef1f,sport.click,resell,,,high,medium,5,1API GmbH,25/11/2014 16:00,25/11/2026 16:00,26/09/2026 09:13
 d0c67d29-e889-4db4-8155-5911c30138e9,fitness.casino,available,14.99,159.99,high,medium,7,namesilo,,,28/09/2026 07:35
-2f0bfa80-d9a7-4dab-913a-775d2b37b1d2,athlete.date,premium,384,53.92,high,low,7,namesilo,,,28/09/2026 22:57
-aa4d37db-2cdb-4c43-b713-d809ad4ec68d,exercise.blog,premium,162.5,650,high,low,8,namecheap,,,19/09/2026 09:45
 afcab433-b5b5-4e4b-aef7-37cf5d1f8be8,team.memorial,premium,78.54,78.54,high,medium,4,namesilo,,,28/09/2026 05:10
-5c7b6fd2-58b1-458b-b40e-e3a3d31e20b6,fitness.bz,resell,,,high,medium,7,Dynadot Inc,03/04/2010 07:15,03/04/2027 07:15,28/09/2026 07:35
-d49d80cf-4869-4801-869c-6956dc0e7c6a,fitness.ac,resell,,,high,medium,7,"NameCheap, Inc.",02/03/2026 15:16,02/03/2027 15:16,28/09/2026 07:35
-e07043de-79f9-4bf5-8dfd-90f677adfd63,fitness.webcam,premium,640,77.35,high,medium,7,namesilo,,,28/09/2026 07:35
 63266176-052c-4cb4-a3f6-0d4bd44ba908,athlete.pet,available,6.98,35.98,high,low,7,namecheap,,,28/09/2026 22:57
-2172532a-df41-48e2-9aa4-b152e1ca0dc7,exercise.yoga,resell,,,high,low,8,"GoDaddy.com, LLC",26/08/2020 19:20,26/08/2027 19:20,26/09/2026 05:56
-2a5436fa-2843-4636-899e-9f9750770995,competition.fund,available,15.99,92.99,high,low,11,name.com,,,25/09/2026 16:42
-6041befd-da5d-47d5-9675-315e2987eaf5,stadium.gg,resell,,,high,low,7,,,,28/09/2026 03:07
-0964bd2d-4c2c-495a-af29-143a286f27ac,exercise.llc,available,14.99,42.99,high,low,8,namesilo,,,19/09/2026 09:45
 913a5bc2-aa5c-4042-8324-ffc2a6390466,athletics.wiki,premium,65,65,high,medium,9,namecheap,,,28/09/2026 22:59
 4eecf52a-e518-4e78-89b6-76d9d2830e6f,athlete.golf,available,7,,high,low,7,unstoppable,,,28/09/2026 22:57
 4de407a6-87b8-48ed-89ba-ab293bb60a63,sport.software,premium,3450,3450,high,medium,5,namesilo,,,25/09/2026 22:38
-227f2181-16fe-4209-8f77-294556b6ae09,athlete.voting,available,1398,1448,high,low,7,namecheap,,,28/09/2026 22:57
-fe3a95de-d275-4e02-9e94-3237775bb5bc,exercise.auto,available,2070,2950,high,low,8,namecheap,,,19/09/2026 09:45
 322065c0-704e-461f-a515-96aea6ec8b81,team.digital,resell,,,high,medium,4,"Spaceship, Inc.",17/03/2023 21:04,17/03/2027 21:04,28/09/2026 05:10
-f3f9547f-9947-47b4-adb2-0e93cf54babd,exercise.how,premium,244.4,244.4,high,low,8,namecheap,,,19/09/2026 09:45
-77746bee-6741-4ac0-90f4-37015ca87210,competition.immobilien,available,37.99,37.99,high,low,11,namesilo,,,25/09/2026 16:42
-d65b3944-f6fe-4191-a872-b208072380f9,athlete.rent,available,1.5,81.98,high,low,7,namecheap,,,28/09/2026 22:57
 e57a9a07-9113-4286-bb13-5371c7342069,game.prof,premium,1344.67,1344.67,high,medium,4,spaceship,,,28/09/2026 20:55
 656cf3ff-d777-416a-9550-442eb6b02411,athletics.page,premium,30.22,30.22,high,medium,9,spaceship,,,28/09/2026 22:59
 78f6374c-f90f-4074-a23b-1339f47d3396,sport.domains,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
-0b74b436-1a4e-4daa-b4f5-f98815c138f9,exercise.dental,available,78.99,78.99,high,low,8,namesilo,,,19/09/2026 09:45
-27dba2df-f318-4bb6-b222-c1d442ccb6c0,exercise.luxury,available,49.99,49.99,high,low,8,name.com,,,19/09/2026 09:45
 08c1e483-6f27-47d0-8f42-8078a62d543a,competition.lat,available,1.99,32.49,high,low,11,namesilo,,,25/09/2026 16:42
 98651efc-87dd-4343-af8c-d34fcb22d385,competition.deals,available,39.99,39.99,high,low,11,namesilo,,,25/09/2026 16:42
 7335d286-8b0f-4e0b-858f-17a5984f0a22,team.network,resell,,,high,medium,4,Dynadot Inc,25/02/2019 08:16,25/02/2027 08:16,28/09/2026 05:10
-ccc5b9fc-2891-46ee-9181-bddc31062892,athlete.consulting,premium,242,242,high,low,7,namesilo,,,28/09/2026 22:57
 940b6184-7e6b-403e-a95e-ac396d360264,team.vet,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 05:10
-7b01fcf0-35d8-4fff-ac60-b2726b4d916c,field.cricket,premium,448,53.92,high,medium,5,namesilo,,,27/09/2026 03:55
 fdb152fe-7b3b-466f-877b-20ce49a59a3d,sport.creditcard,available,144.99,144.99,high,medium,5,namesilo,,,25/09/2026 22:38
 03e6eb7c-0295-472b-a384-56c22d7e78cc,competition.photography,available,14.49,36.49,high,low,11,namesilo,,,25/09/2026 16:42
 f1e01a8c-c96e-4989-81b1-2cb5cd0ba4e0,fitness.photography,premium,400.5,520,high,medium,7,unstoppable,,,28/09/2026 07:35
@@ -687,28 +491,17 @@ a9825f67-8db8-4c9d-8699-2e861e3bc5c0,fitness.reviews,premium,242,242,high,medium
 e8c9beaa-8fd2-4686-9283-da3b613f0427,athletics.xyz,premium,242,242,high,medium,9,namesilo,,,28/09/2026 22:59
 09b93d11-dfe8-42fc-ae2d-0008f1ce79f8,sport.doctor,premium,520,520,high,medium,5,namecheap,,,25/09/2026 22:38
 e18e6ea7-d542-4fac-b263-d3e882f82fb5,athletics.directory,premium,20.9,20.9,high,medium,9,spaceship,,,28/09/2026 22:59
-ad0230b2-1388-49d3-9c52-47a8699736c7,exercise.giving,available,7.48,35.98,high,low,8,namecheap,,,19/09/2026 09:45
-9b9293b5-110e-4aee-866b-b7837f12236b,athlete.work,premium,1092.18,11.44,high,low,7,porkbun,,,28/09/2026 22:57
 c0686c97-e16c-44ac-b152-1b6f1823d7cd,competition.party,premium,448,53.92,high,low,11,namesilo,,,25/09/2026 16:42
-e7fe276c-9a75-410d-a1f7-d8f2c903f7eb,exercise.build,premium,1950,1950,high,low,8,namecheap,,,19/09/2026 09:45
-ba47a7b1-869b-418c-a80f-c67bea0bbdb8,athlete.cat,available,18.83,25.04,high,low,7,spaceship,,,28/09/2026 22:57
-4a2f1ccf-4f0b-41a8-bcb2-780906f4c600,tournament.coach,available,17.99,77.99,high,low,10,namesilo,,,27/09/2026 05:49
 e936b2e1-b504-4c76-ac4f-abf89b16f439,athletics.mov,available,10.52,10.52,high,medium,9,spaceship,,,28/09/2026 22:59
 11bb9b63-0f2b-4ac2-b350-b015bf1ba48b,fitness.team,resell,,,high,medium,7,"GoDaddy.com, LLC",04/08/2023 04:38,04/08/2027 04:38,28/09/2026 07:35
-d269ee8c-1eaf-4a82-ab04-4c9a8ba88071,athletic.barcelona,available,38.98,38.98,high,low,8,namecheap,,,21/09/2026 16:12
 33e9726c-a7e9-4865-8f80-1d0e5de628d9,team.website,premium,517.7,1035.2,high,medium,4,spaceship,,,28/09/2026 05:10
 eab3628c-a99b-42f2-9380-15624bbaacdf,competition.movie,available,47.99,349.99,high,low,11,namesilo,,,25/09/2026 16:42
 73a1d92d-5028-47f1-b33a-4ddafbdebf9c,game.bio,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",03/06/2019 10:10,03/06/2027 10:10,28/09/2026 20:55
-132e762f-7526-4dba-936d-f76b43eb10b9,athlete.attorney,available,49.88,49.88,high,low,7,spaceship,,,28/09/2026 22:57
 597bf06c-6442-466c-bdbf-a3b0e0b302f5,competition.lease,available,56.99,56.99,high,low,11,namesilo,,,25/09/2026 16:42
 20bb2b0a-29df-4639-8704-1d8b799bf3ea,athlete.casino,available,14.99,159.99,high,low,7,namesilo,,,28/09/2026 22:57
 2a14f2bb-d568-4a81-ac59-c136cc5da3dd,athletics.security,available,1999.99,2049.99,high,medium,9,namesilo,,,28/09/2026 22:59
-a55c9909-65dc-43a3-9c1f-25bbdde9afc4,exercise.mobile,premium,390,390,high,low,8,namecheap,,,19/09/2026 09:45
 cc13aec0-aa59-4a63-983b-a76623cf56ab,fitness.productions,premium,207.2,207.2,high,medium,7,spaceship,,,28/09/2026 07:35
-14f603e6-83e2-4a13-afa6-4c8a9e5e8f5a,athlete.trade,premium,437.5,,high,low,7,name.com,,,28/09/2026 22:57
 29c024a8-3387-4abc-985c-fc19d34ca887,sport.best,premium,581.38,581.38,high,medium,5,namesilo,,,25/09/2026 22:38
-9e85a0f3-46b3-4fb7-a513-2a2a44c23d0e,exercise.memorial,available,52.99,52.99,high,low,8,namesilo,,,19/09/2026 09:45
-e6d9b87e-c83a-4f42-b775-4322e9b486ea,exercise.partners,premium,242,242,high,low,8,namesilo,,,19/09/2026 09:45
 ed34e3ed-3319-424b-9564-fe14a902f6fb,athletics.bet,premium,250.5,325,high,medium,9,unstoppable,,,28/09/2026 22:59
 78749bce-ce93-4d66-a471-6e346b6b4446,team.cool,premium,520,520,high,medium,4,namecheap,,,28/09/2026 05:10
 58684dd2-0d0b-4a8e-85ce-d8824c1d5c63,game.apartments,available,60.98,72.98,high,medium,4,namecheap,,,28/09/2026 20:55
@@ -725,38 +518,19 @@ debb152d-4b2a-4621-9489-9cabc21b8d63,competition.homes,available,1.99,20.99,high
 5cd4f0b7-9dfa-4c75-a5ae-514e0dcc5b2f,training.airforce,available,103.99,103.99,high,low,8,namesilo,,,29/09/2026 06:10
 e52863a6-be81-4f48-8a37-df077fe4ad97,sport.legal,resell,,,high,medium,5,Dynadot Inc,26/02/2018 22:10,26/02/2029 22:10,26/09/2026 09:13
 f171ada5-1336-4947-87d7-b2cafe2aa6cb,game.media,resell,,,high,medium,4,"Spaceship, Inc.",06/01/2025 15:15,06/01/2027 15:15,28/09/2026 20:55
-e162e469-5a12-4b03-8b57-7ee5cfe23856,athletic.locker,premium,3433.44,8.8,high,low,8,namesilo,,,21/09/2026 16:12
 17ae03ff-c116-4ef1-9468-74855a81d929,fitness.cyou,premium,63.25,126.5,high,medium,7,dynadot,,,28/09/2026 07:35
 f98b86d8-8277-4844-bc55-7f37866ad2aa,athlete.game,available,309.99,429.99,high,low,7,namesilo,,,28/09/2026 22:57
-b9b95022-1dbc-45ac-a85b-ab6d92dce961,athlete.website,premium,1092.18,1092.18,high,low,7,porkbun,,,28/09/2026 22:57
 42ec44b5-0154-4b9d-8d0d-f61136d8218e,competition.events,available,17.99,56.99,high,low,11,name.com,,,25/09/2026 16:42
-249b2f95-3307-4a69-83ac-2c724c70c5c2,athlete.cooking,premium,47.2,29.5,high,low,7,namesilo,,,28/09/2026 22:57
-592006e6-7597-4ed8-a784-5e5f07714148,athletic.vet,available,41.99,41.99,high,low,8,namesilo,,,21/09/2026 16:12
-5337e460-1c1b-4c54-b5eb-a77405d47744,workout.pro,resell,,,high,low,7,"Spaceship, Inc.",19/06/2024 15:15,19/06/2027 15:15,26/09/2026 10:13
-0430925e-5f61-43e5-b6e8-21873e853a91,exercise.deal,premium,116,116,high,low,8,namesilo,,,19/09/2026 09:45
-b76840ed-fc0f-423f-9215-6fb266cc1a07,training.blog,premium,640,2660,high,low,8,namesilo,,,29/09/2026 06:10
-b646f634-5a98-4b3f-8fcd-8c5e2e41b193,exercise.talk,premium,71.4,71.4,high,low,8,namesilo,,,19/09/2026 09:45
 012af114-43d6-4fa5-a8d0-62f9f7a5ad49,sport.sucks,premium,2658.67,2658.67,high,medium,5,namesilo,,,25/09/2026 22:38
 98f77774-0ec7-4792-b0a2-576ee85edd6a,competition.eco,available,74.99,113.99,high,low,11,name.com,,,25/09/2026 16:42
-4d65f083-1cdd-48bd-b107-8a129dd41808,gym.men,available,,,high,low,3,,,,
 3d0bd807-b4e0-47dc-834d-dd070fe35417,game.bot,premium,5175.2,5175.2,high,medium,4,spaceship,,,28/09/2026 20:55
-6b2c7d66-89c5-430a-826a-8ba96c21cfba,athlete.family,premium,512,512,high,low,7,namesilo,,,28/09/2026 22:57
-1f8bb343-e2b1-4c04-a2fe-75143e4d48fa,athlete.investments,available,12.99,129.99,high,low,7,namesilo,,,28/09/2026 22:57
 baf769a4-05c7-46b9-98b8-2a8f3b20d20d,sport.wedding,available,33.98,43.98,high,medium,5,namecheap,,,25/09/2026 22:38
-b445a76b-a7be-41b1-be78-be86d74a871e,athlete.haus,available,10.55,27.11,high,low,7,spaceship,,,28/09/2026 22:57
-89b3fa63-088c-49e7-b059-97a5ba62276d,athletic.college,available,17.99,59.99,high,low,8,namesilo,,,21/09/2026 16:12
 da3143d8-88a3-4f7c-b08c-e78efe38323c,athletics.auto,available,1999.99,2199,high,medium,9,namesilo,,,28/09/2026 22:59
-58b5cc36-5f98-4259-9060-5305e79e937f,exercise.pizza,available,17.99,64.99,high,low,8,namesilo,,,19/09/2026 09:45
 c66e85d6-eea2-4520-911e-b8ba0cf1059d,team.menu,available,26.97,26.97,high,medium,4,dynadot,,,28/09/2026 05:10
 f79fa76d-87a1-4006-9b1e-42464cdafca0,competition.kim,available,12.99,23.49,high,low,11,namesilo,,,25/09/2026 16:42
-3c1d140f-a04b-4c3a-8d0a-0d5936ec31ee,athletic.xyz,resell,114871.2,20.99,high,low,8,Dynadot Inc,19/08/2021 08:40,19/08/2028 23:59,26/09/2026 04:06
-5328f9c3-79e8-418b-87c7-5b24833b35e5,training.movie,available,36.43,279.65,high,low,8,spaceship,,,29/09/2026 06:10
 cc9e3265-2385-48e0-a468-acd5a64dd992,game.tips,resell,,,high,medium,4,"GoDaddy.com, LLC",21/02/2014 16:00,21/02/2027 16:00,28/09/2026 20:55
 49f00128-15c1-4e18-8f16-67f1c7667d14,team.jewelry,available,51.95,51.95,high,medium,4,spaceship,,,28/09/2026 05:10
-fe623bb2-231b-4d03-8ea8-366a7ccf9be5,athletic.date,premium,640,302.5,high,low,8,namesilo,,,21/09/2026 16:12
-318a9228-04a4-4158-8c02-86333c57d67e,coach.institute,resell,,,high,medium,5,"Sav.com, LLC - 48",25/07/2026 15:15,25/07/2027 15:15,28/09/2026 23:29
 d6b0cca3-c9f5-4ac6-aa81-81c80585a11a,competition.beer,available,1.99,46.99,high,low,11,name.com,,,25/09/2026 16:42
-4c9e4873-68f7-4654-a0aa-08231471dd04,training.clinic,premium,118.8,118.8,high,low,8,namesilo,,,29/09/2026 06:10
 88864ba2-6c42-4890-accc-954a59b7e1e3,team.fitness,premium,854,854,high,medium,4,namesilo,,,28/09/2026 05:10
 31ca6a3e-9dc5-449e-b6fa-7ac5e893e0cd,sport.berlin,resell,,,high,medium,5,,27/11/2015 20:09,27/11/2027 20:09,26/09/2026 09:13
 e160bd60-37d8-4b09-898e-a1055eb3edee,fitness.cat,resell,,,high,medium,7,,,,28/09/2026 07:35
@@ -766,13 +540,11 @@ ac15a6ee-04f4-4037-9129-78f07576b5f4,team.cars,available,2060.25,2064.19,high,me
 ec44ba18-524d-4438-aaf1-ae4c8ab241db,match.tennis,resell,,,high,medium,5,"GoDaddy.com, LLC",22/04/2019 03:06,22/04/2027 03:06,26/09/2026 07:27
 3e8bd352-25d2-470b-8ebd-bf92d77161e8,athletics.osaka,available,26.97,26.97,high,medium,9,dynadot,,,28/09/2026 22:59
 7f92dd6e-e899-4ccc-b762-10fd716951d3,athletics.sex,available,95.2,95.2,high,medium,9,cloudflare,,,28/09/2026 22:59
-b22b6fc1-c38f-447d-a0fb-89b271a33fb8,exercise.kiwi,premium,81.9,81.9,high,low,8,namecheap,,,19/09/2026 09:45
 26d332c8-27de-4c8e-be26-e9021416c378,competition.republican,available,7.49,28.99,high,low,11,namesilo,,,25/09/2026 16:42
 a136ca9d-ec09-439d-8501-be876efc3425,game.immobilien,available,29.2,29.2,high,medium,4,cloudflare,,,28/09/2026 20:55
 c6510300-8902-47db-8aff-119374c4ab0b,sport.dating,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
 b7718c12-f542-495c-a700-8333db764651,fitness.bar,premium,652.25,931.7,high,medium,7,spaceship,,,28/09/2026 07:35
 4530eeaa-1b64-4401-a06f-fbdc19addb49,exercise.cricket,available,23.59,23.59,high,low,8,namesilo,,,19/09/2026 09:45
-d5f24a7d-29f4-429b-aea3-1377f0d7ebf3,athletic.markets,available,5.98,26.98,high,low,8,namecheap,,,21/09/2026 16:12
 680382bd-f537-4a2e-bd83-ca1b87b18305,athlete.guru,resell,,,high,low,7,Porkbun LLC,05/02/2014 16:00,05/02/2027 16:00,28/09/2026 22:57
 e823dfa4-a875-4d4f-ac7d-f77764012123,athletics.courses,premium,5175.2,5175.2,high,medium,9,spaceship,,,28/09/2026 22:59
 b9cdb423-737a-4ba1-bf43-974bb95cf804,team.social,premium,828.2,828.2,high,medium,4,spaceship,,,28/09/2026 05:10
@@ -780,9 +552,6 @@ aeb3483b-3d66-4065-a501-bb03bf95e2d1,athlete.horse,available,26.26,26.26,high,lo
 b1116194-d446-437a-9536-a086d3a626a8,competition.cat,available,26.98,38.98,high,low,11,namecheap,,,25/09/2026 16:42
 a12a9952-d8d7-4777-8e70-61856250c36a,exercise.institute,available,9.99,27.49,high,low,8,namesilo,,,19/09/2026 09:45
 07030a87-a342-42d9-91c9-0df04c40df7f,team.forex,premium,1035.2,1035.2,high,medium,4,spaceship,,,28/09/2026 05:10
-07b54fe6-cd80-4f58-abbd-17f0da6fc14d,training.monster,resell,,,high,low,8,"Spaceship, Inc.",17/01/2026 15:57,17/01/2027 23:59,29/09/2026 06:10
-64f6d752-c938-41e9-a011-bb9c838a615c,exercise.media,available,11.99,44.99,high,low,8,namesilo,,,19/09/2026 09:45
-460926c4-c029-4f5e-8154-f6a62d5d91ad,gym.rodeo,premium,100,,high,low,3,name.com,,,
 ad09d044-c19d-450c-bcc8-138d640544cd,sport.flowers,available,64.99,114.99,high,medium,5,namesilo,,,25/09/2026 22:38
 abed1c6a-5d6b-46ac-ac02-5c2530dbf7aa,competition.technology,available,17.99,41.99,high,low,11,name.com,,,25/09/2026 16:42
 7d2db236-9a20-41b3-af4f-0d05f6f999ad,game.partners,premium,414.2,414.2,high,medium,4,spaceship,,,28/09/2026 20:55
@@ -790,115 +559,67 @@ abed1c6a-5d6b-46ac-ac02-5c2530dbf7aa,competition.technology,available,17.99,41.9
 878824a0-6032-42a8-849d-d23a47c589dd,game.llc,premium,1107,1107,high,medium,4,namesilo,,,28/09/2026 20:55
 31dbd8b6-3788-4e25-acd6-9be6829a6078,sport.furniture,available,27.99,94.99,high,medium,5,namesilo,,,25/09/2026 22:38
 5a7eb651-5186-491d-aa2b-65bab6ccd8bc,team.gifts,premium,78.54,78.54,high,medium,4,namesilo,,,28/09/2026 05:10
-65f1adbd-4a04-4c71-80cb-246f03dd16e8,exercise.email,available,7.49,30.99,high,low,8,namesilo,,,19/09/2026 09:45
 7b64b80f-5aa0-4a01-bad9-4ad20407e1f1,athletics.voting,available,978.6,978.6,high,medium,9,dynadot,,,28/09/2026 22:59
-a5232931-e0fa-461e-bd81-e146afd32dca,athletic.ooo,premium,83.29,23.59,high,low,8,namesilo,,,21/09/2026 16:12
 4fb4ce29-8322-4248-bfe0-c30c7c0ca79c,fitness.loan,premium,1107,116,high,medium,7,namesilo,,,28/09/2026 07:35
 7abad58c-214e-4d35-9ec5-315e7b9c86e9,competition.doctor,available,14.99,151.99,high,low,11,name.com,,,25/09/2026 16:42
-6f523dfb-8b3e-445c-878e-90eb6939ab5a,training.cat,available,18.83,25.04,high,low,8,spaceship,,,29/09/2026 06:10
 c37d6d79-13d1-415d-9bfb-960069955cac,fitness.town,premium,102.67,102.67,high,medium,7,spaceship,,,28/09/2026 07:35
-44473070-2dbe-41c6-ba65-58804800402b,athletic.adult,available,69.98,166.98,high,low,8,namecheap,,,21/09/2026 16:12
 ee49b01e-b3a4-40d5-9830-5677db418580,athletics.icu,premium,310.7,621.2,high,medium,9,spaceship,,,28/09/2026 22:59
 9f0af732-6114-4c3c-85da-45bb5f750b45,sport.how,premium,768.3,768.3,high,medium,5,namecheap,,,25/09/2026 22:38
-664457b8-6cee-4e73-b37f-5ff011fb8d69,tournament.training,available,8.98,53.98,high,low,10,namecheap,,,27/09/2026 05:49
 7ec8e017-035a-49d4-a86c-a612355a272c,athletics.best,available,1.63,18.48,high,medium,9,dynadot,,,28/09/2026 22:59
-914fe1cc-386a-4846-88a5-bc1dfe1be89c,training.holiday,available,51.95,51.95,high,low,8,spaceship,,,29/09/2026 06:10
 e2b3612c-e426-4a06-b93e-fc22a5efe875,fitness.pw,premium,3450,3450,high,medium,7,namesilo,,,28/09/2026 07:35
-373602a0-e139-4dc2-88c8-68a9d02ed399,training.irish,available,5.57,18.41,high,low,8,dynadot,,,29/09/2026 06:10
-f9e127d7-5f6f-4e9b-91ed-1618f7fba27f,training.events,resell,,,high,low,8,"Wild West Domains, LLC",11/06/2014 16:00,11/06/2027 16:00,29/09/2026 06:10
 5a08e1db-c099-4784-9026-0381e33e2e62,fitness.surgery,premium,207.2,207.2,high,medium,7,spaceship,,,28/09/2026 07:35
 cc231092-48f6-4d6d-9156-07466b95c929,athletics.realty,available,109.99,299,high,medium,9,namesilo,,,28/09/2026 22:59
 7f0975f0-75e1-4381-8f93-f2bbe1e38f2f,athletics.de,resell,,,high,medium,9,,,,28/09/2026 22:59
-e70ed63d-0fb6-420d-a480-a106c270db94,match.supplies,premium,78.54,78.54,high,medium,5,namesilo,,,24/09/2026 14:41
 b2d3b5ea-e45b-4845-8edd-2371443a0483,competition.farm,available,15.99,38.99,high,low,11,namesilo,,,25/09/2026 16:42
 b4b29e54-0a6c-400f-81c1-7cdd8978b6f9,athlete.shiksha,premium,273.41,546.35,high,low,7,porkbun,,,28/09/2026 22:57
 bb12a8a9-1bec-4ade-b0cc-f24d38c772a5,athlete.soy,available,19.05,19.05,high,low,7,porkbun,,,28/09/2026 22:57
 3b2ff1cb-aed6-40ce-b07b-dde7a79e2707,tournament.win,premium,455,65,high,low,10,namecheap,,,27/09/2026 05:49
 ee309091-34cb-496d-8d86-d6773163642a,game.bayern,available,31.99,30.8,high,medium,4,porkbun,,,28/09/2026 20:55
-fd44d7fb-f812-4053-a903-afdb4fbdca61,exercise.tickets,available,359.99,488.88,high,low,8,namesilo,,,19/09/2026 09:45
 96aa5e81-4bef-4fba-9e66-93be45e1db0d,competition.parts,available,10.48,45.98,high,low,11,namecheap,,,25/09/2026 16:42
 b09c7925-169f-43df-a6c6-ec77514ffc2f,exercise.hiv,available,195.99,195.99,high,low,8,namesilo,,,19/09/2026 09:45
 9d6384d9-70d8-4633-bef9-3741a10efccb,team.organic,available,10.81,68.49,high,medium,4,porkbun,,,28/09/2026 05:10
 1892a13e-8990-4247-b377-e5524740a6c3,game.gripe,premium,42.9,42.9,high,medium,4,namecheap,,,28/09/2026 20:55
 fe9febbd-9b94-44de-acc9-18a13014f45e,fitness.accountants,available,90.2,90.2,high,medium,7,cloudflare,,,28/09/2026 07:35
 eb3f4003-69d2-4bc4-a03e-7c82bc4db70f,athletics.zone,premium,99.5,128.7,high,medium,9,unstoppable,,,28/09/2026 22:59
-93a1e3ae-315d-4f1c-bde9-3e91eb003a64,training.yoga,resell,,,high,low,8,"GoDaddy.com, LLC",26/08/2020 18:53,26/08/2027 18:53,29/09/2026 06:10
-bc0fb25d-be16-4d8b-8c69-e1e4278d7759,tournament.study,premium,53.92,53.92,high,low,10,namesilo,,,27/09/2026 05:49
-095e6bdd-af69-4737-8e09-9f024440ae9d,training.blackfriday,available,103.7,103.7,high,low,8,spaceship,,,29/09/2026 06:10
-10599ae0-2bcb-4859-a6c1-887e396e8b16,sporty.soccer,available,25.99,25.99,high,low,6,namesilo,,,10/09/2026 16:35
-32340490-9806-492f-8490-657e4a26d661,athletic.rentals,available,6.98,56.98,high,low,8,namecheap,,,21/09/2026 16:12
 58bc9882-352a-4db9-be99-019bd0e2fc83,sport.pw,premium,6500,6500,high,medium,5,namecheap,,,25/09/2026 22:38
 b435cd2f-e8fe-450d-ae14-8b1983885068,sport.adult,premium,322.4,322.4,high,medium,5,namecheap,,,25/09/2026 22:38
 d1b19f12-647d-4130-bd99-2f53c0565258,athlete.graphics,available,19.05,19.05,high,low,7,porkbun,,,28/09/2026 22:57
-9bca5972-d9f6-4026-8cce-0d345fe3d9bf,athletic.voto,available,11.98,86.98,high,low,8,namecheap,,,21/09/2026 16:12
-05a84c12-1dac-4da9-b828-a011d4316c87,exercise.voting,available,1398,1448,high,low,8,namecheap,,,19/09/2026 09:45
-89f67bea-9dcb-4d9a-baad-1585d79c4d0f,athletic.charity,available,14.99,23.99,high,low,8,namesilo,,,21/09/2026 16:12
 89b3e004-a16c-454b-9c1b-2a0858ee99e2,fitness.engineering,premium,260,260,high,medium,7,namecheap,,,28/09/2026 07:35
 30615a23-ca1b-4c82-a887-32c28cd96160,sport.nexus,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
 25410357-db27-4491-9e74-4ef9d0fb0fbd,game.accountant,premium,362.45,51.95,high,medium,4,spaceship,,,28/09/2026 20:55
 51d2dc39-949e-42b7-9811-ae3653acbac8,fitness.hockey,available,59.99,59.99,high,medium,7,namesilo,,,28/09/2026 07:35
-1256c7a1-a4a1-43a1-9e69-16e1c4d841b9,tournament.us,resell,,,high,low,10,,,,27/09/2026 05:49
-63505378-a7b4-4b40-a2e0-b7b5d7ac9a74,athletic.reviews,premium,128.7,128.7,high,low,8,namecheap,,,21/09/2026 16:12
 84dc9569-a63c-49b9-ba1c-7c89a1479d7a,competition.mx,available,39.99,43.99,high,low,11,namesilo,,,25/09/2026 16:42
-ee38e8ca-1716-42bc-80d5-e00d7a485cd2,athletic.beauty,available,1.99,17.29,high,low,8,namesilo,,,21/09/2026 16:12
-81b08757-190b-40b2-a9c5-a61deb26b89f,athletic.cheap,available,8.99,36.49,high,low,8,namesilo,,,21/09/2026 16:12
-b0b7876f-8c70-44b8-8b1e-7e093e7add20,exercise.surgery,available,57.98,68.98,high,low,8,namecheap,,,19/09/2026 09:45
-e7134660-b02d-4cd8-bed7-e9d568244fc4,match.ai,resell,,,high,medium,5,Netherlands Domains,16/12/2017 03:01,24/03/2027 03:01,26/09/2026 07:27
 cc320c16-b4be-4b6e-b037-cc7f891b2de7,competition.giving,available,7.48,35.98,high,low,11,namecheap,,,25/09/2026 16:42
-bc73c6ec-87be-4e6c-9550-159780927670,gym.win,premium,625,,high,low,3,name.com,,,
 511698b5-afa2-4a86-b09a-2ad02f46084c,game.dad,premium,1034.17,1034.17,high,medium,4,spaceship,,,28/09/2026 20:55
 f2e37c43-203e-4912-993b-7f9f8094c074,team.coupons,resell,3.99,,high,medium,4,"Sav.com, LLC",01/04/2026 11:14,01/04/2027 11:14,28/09/2026 05:10
 e8ea729a-be29-4d53-b44e-e1323ea4cf18,competition.fashion,premium,260,32.5,high,low,11,namecheap,,,25/09/2026 16:42
 412947ba-c052-4deb-b217-ed44537eb2cb,athletics.space,premium,647.08,2587.7,high,medium,9,spaceship,,,28/09/2026 22:59
-8360d025-b1c9-4db9-b16d-c59d26e3f5af,match.srl,available,31.99,31.99,high,medium,5,namesilo,,,24/09/2026 14:41
 c93a3fd0-8a0b-494e-aa0d-294a5287133a,competition.dental,available,78.99,78.99,high,low,11,namesilo,,,25/09/2026 16:42
-c95a74d8-23e3-41da-9692-919f154a89a3,tournament.men,premium,448,53.92,high,low,10,namesilo,,,27/09/2026 05:49
-33d6a40b-bb81-4b78-89f5-9fe193d21bfe,exercise.dentist,available,63.98,81.98,high,low,8,namecheap,,,19/09/2026 09:45
 0607f2e2-3952-4db6-b6a4-a01d3258678a,sport.solutions,resell,,,high,medium,5,"Spaceship, Inc.",10/06/2023 15:15,10/06/2027 15:15,26/09/2026 09:14
-f60351cf-6db0-4463-92b5-4a0a02d35996,training.barcelona,available,25.04,25.04,high,low,8,spaceship,,,29/09/2026 06:10
 1ba355aa-826d-4473-8fc7-af75330c148a,sport.country,available,2298,2450,high,medium,5,namecheap,,,25/09/2026 22:38
-7d289a3e-84c3-4bb6-bf6e-ba474558a494,exercise.film,available,65.99,65.99,high,low,8,namesilo,,,19/09/2026 09:45
 23453867-d6d7-4ff1-bd42-56b1ba6be9d8,fitness.storage,available,500.2,500.2,high,medium,7,cloudflare,,,28/09/2026 07:35
-aa9e074a-828e-4cbb-bc85-84ce20cc5098,exercise.hair,available,1.99,17.29,high,low,8,namesilo,,,19/09/2026 09:45
-1e1a12c9-e896-4bda-a8a1-ba7d0e693272,athletic.gay,available,38.99,38.99,high,low,8,namesilo,,,21/09/2026 16:12
-f61a762a-319a-42a2-b785-6ca195ac319d,training.pictures,available,15.49,15.49,high,low,8,namesilo,,,29/09/2026 06:10
-a2ef0c24-20ab-49d0-8d99-f69161ce1a9b,exercise.page,premium,167.7,167.7,high,low,8,namecheap,,,19/09/2026 09:45
 99b00b10-71c9-4714-901e-086113f9bebb,athlete.qpon,available,2.19,11.49,high,low,7,namesilo,,,28/09/2026 22:57
-ab496611-d538-49a9-95d0-ae76d1fb2bad,exercise.to,resell,,,high,low,8,Tonic,21/08/2023 02:27,01/08/2027 00:00,26/09/2026 05:56
-e8dd8fff-005a-4c48-a1d2-b0d577c7c027,tournament.desi,available,19.98,22.98,high,low,10,namecheap,,,27/09/2026 05:49
-18150ff1-a3c9-4eda-9825-b0cd77ff0f65,training.one,premium,640,640,high,low,8,namesilo,,,29/09/2026 06:10
 ca459841-f616-461c-9dbd-f1aff3d58592,competition.sydney,available,58,58,high,low,11,namesilo,,,25/09/2026 16:42
 d9d7562e-c243-4fe4-b56e-9b6d4c7f8c05,athlete.finance,available,50.2,50.2,high,low,7,cloudflare,,,28/09/2026 22:57
+7970ba16-29d5-44ce-b557-66b64feae3f8,gym.run,resell,,,high,low,3,"GoDaddy.com, LLC",20/08/2015 03:06,20/08/2027 03:06,29/09/2026 21:52
 4d0105a3-af05-4478-84c6-1f73ce763cae,athletic.men,premium,448,53.92,high,low,8,namesilo,,,21/09/2026 16:12
-d6071701-0f31-456d-8818-64d8b17cb7f7,tournament.kids,premium,53.92,21.24,high,low,10,namesilo,,,27/09/2026 05:49
-1aa43054-c880-490f-b634-88e0d596ec66,exercise.motorcycles,available,1.99,17.29,high,low,8,namesilo,,,19/09/2026 09:45
 9282b6c1-2a6c-41e2-b520-e4dfd6a70473,competition.yachts,available,1.8,21.98,high,low,11,namecheap,,,25/09/2026 16:42
-4996bc97-2e95-499d-8fa4-3dc10c765c63,athletic.toys,available,17.99,64.99,high,low,8,namesilo,,,21/09/2026 16:12
 d8bedf24-6c99-49ae-acbf-eb76b4c1972d,athlete.boo,premium,29.2,,high,low,7,unstoppable,,,28/09/2026 22:57
 f12b1c60-0d71-4253-aa3d-56725d07e8e4,game.blackfriday,available,103.7,103.7,high,medium,4,spaceship,,,28/09/2026 20:55
-14bbedfe-1446-4ac0-8882-f1e98acbb9fc,tournament.market,available,44.49,44.49,high,low,10,namesilo,,,27/09/2026 05:49
-0c077b96-5dfe-4bcc-af20-14f4fb1b381a,exercise.world,premium,42.9,42.9,high,low,8,namecheap,,,19/09/2026 09:45
 ea6791b7-586d-42d0-a0f0-a4d94a9df84b,athlete.camera,available,46.78,46.78,high,low,7,spaceship,,,28/09/2026 22:57
 83077cbb-e600-418c-b643-6c83729f34b8,athletics.quest,available,1.24,13.97,high,medium,9,spaceship,,,28/09/2026 22:59
 0847b32f-9bfa-4fd1-a141-623c94ce6580,stadium.tennis,available,67.98,81.98,high,low,7,namecheap,,,28/09/2026 03:07
 e26730fc-3426-4455-9e0c-764737ca7abf,training.shiksha,premium,768,768,high,low,8,namesilo,,,29/09/2026 06:10
 dbbc3707-b567-45eb-bd44-a93c39efbdff,competition.limo,available,54.99,54.99,high,low,11,namesilo,,,25/09/2026 16:42
-badb8829-e92b-4b13-b138-cdb38c314fbc,training.moda,premium,118.8,118.8,high,low,8,namesilo,,,29/09/2026 06:10
 b383495e-1945-4e5a-8379-f08ce3ae6d63,fitness.host,premium,640,640,high,medium,7,namesilo,,,28/09/2026 07:35
 1d54e99f-ab5b-46c9-8f88-946f1335b263,athlete.christmas,available,30.2,30.2,high,low,7,cloudflare,,,28/09/2026 22:57
-db540ae9-af24-4c18-b0f5-5c30dae4e136,exercise.irish,available,7.49,22.49,high,low,8,namesilo,,,19/09/2026 09:45
 2fc32f3e-3432-42f5-81d5-8bf15cb6ee1c,competition.vip,premium,6900,17.7,high,low,11,namesilo,,,25/09/2026 16:42
-696b803b-4e4d-40e3-8b13-d98e35aba969,athletic.accountant,available,23.59,23.59,high,low,8,namesilo,,,21/09/2026 16:12
 e9e613a6-3e66-4a9d-beab-cc18c488d319,fitness.film,premium,110,110,high,medium,7,dynadot,,,28/09/2026 07:35
 c3b114bd-23d9-4d01-a388-a0e01c1590bf,athlete.college,premium,550,550,high,low,7,dynadot,,,28/09/2026 22:57
 cea6ae5f-4432-42f0-8478-86c3c57c2383,athletics.living,premium,362.45,517.7,high,medium,9,spaceship,,,28/09/2026 22:59
-4091d427-fc89-4adb-91b8-da006fce20a9,fit.racing,premium,130,130,high,medium,3,namecheap,,,24/09/2026 18:48
 ac81f328-e5c6-4217-8dbf-81fc38c8b6db,athletics.hiphop,available,23.99,23.99,high,medium,9,namesilo,,,28/09/2026 22:59
 b32c139b-31be-409b-acc4-59021883fb7c,game.skin,premium,2070.2,2070.2,high,medium,4,spaceship,,,28/09/2026 20:55
 213a2b55-f51b-4a1b-ab0e-80678194f509,athlete.so,available,,,high,low,7,,,,
-6d3de459-9a99-4cdb-9e4e-be89b56d4c4e,tournament.gay,available,2.98,50.98,high,low,10,namecheap,,,27/09/2026 05:49
-c87639af-91a4-4686-9e76-1da10c63fa95,exercise.cat,available,26.98,38.98,high,low,8,namecheap,,,19/09/2026 09:45
-bfeb08f7-d3ed-4d57-acd7-af25bb026f6a,athletic.university,premium,78.54,78.54,high,low,8,namesilo,,,21/09/2026 16:12
 b7ea397b-dda8-4a9e-bd75-4b8e4c6ab5b1,sport.photography,premium,520,520,high,medium,5,namecheap,,,25/09/2026 22:38
 53fdacb1-37f7-493b-9e33-aba7af74395e,team.click,resell,,,high,medium,4,Porkbun LLC,25/11/2014 16:00,25/11/2027 16:00,28/09/2026 05:10
 10f83828-af24-4a87-886e-77a902664bad,game.attorney,premium,242,242,high,medium,4,namesilo,,,28/09/2026 20:55
@@ -906,96 +627,375 @@ b7ea397b-dda8-4a9e-bd75-4b8e4c6ab5b1,sport.photography,premium,520,520,high,medi
 433d3cf4-1ae2-40e0-986f-d180f53a0e51,team.tires,available,70.2,70.2,high,medium,4,cloudflare,,,28/09/2026 05:10
 5f19c97d-0599-40a9-9c12-668f3e6d0942,fitness.ngo,available,15.96,15.96,high,medium,7,porkbun,,,28/09/2026 07:35
 c11446cd-a84f-4729-ae78-60c788413447,competition.makeup,available,1.99,17.29,high,low,11,namesilo,,,25/09/2026 16:42
-1c1535f4-8685-40e8-bdf6-a005df865d70,tournament.deals,available,39.99,39.99,high,low,10,namesilo,,,27/09/2026 05:49
 a4d74269-a63c-4b1a-b1be-d663d4cd375a,team.tickets,available,326.21,388.33,high,medium,4,spaceship,,,28/09/2026 05:10
 72623824-9ec8-4c09-a321-8633aad96947,sport.condos,premium,242,242,high,medium,5,namesilo,,,25/09/2026 22:38
-50416e86-5a60-48e2-a796-9fff6742fcad,exercise.ventures,available,5.98,75.98,high,low,8,namecheap,,,19/09/2026 09:45
-0431ef8d-d178-439b-ba01-a2aca7a9563c,match.biz,resell,,,high,medium,5,DomainSpot LLC,27/03/2002 23:33,26/03/2027 23:59,26/09/2026 07:27
-f4364441-b0d6-4549-b0f5-d7d6fce46c79,athletic.gmbh,available,45.99,45.99,high,low,8,namesilo,,,21/09/2026 16:12
-d233ec26-59cb-4cb8-94fb-05d1d0017f1d,athletic.sbs,premium,74.75,149.5,high,low,8,namecheap,,,21/09/2026 16:12
 4a75cda2-6116-4dbd-9411-ed740608585a,competition.gratis,available,23.99,23.99,high,low,11,namesilo,,,25/09/2026 16:42
 9ce14538-dd0d-4679-a711-ebd6b5efd1f5,sport.florist,available,32.99,32.99,high,medium,5,namesilo,,,25/09/2026 22:38
-eb0b268c-0a36-4234-bb3d-9f8713a7e703,training.cooking,premium,242,29.5,high,low,8,namesilo,,,29/09/2026 06:10
-ba28f29c-e6dc-46cb-8727-6e331a1719c4,tournament.cyou,premium,74.75,149.5,high,low,10,namecheap,,,27/09/2026 05:49
 7b760ca1-53c0-49ab-9ed7-beedd508a6bd,fitness.lease,premium,128.7,128.7,high,medium,7,namecheap,,,28/09/2026 07:35
-c02be3c6-5ad6-4e29-a9c6-acc83b450eb0,tournament.army,available,17.48,48.98,high,low,10,namecheap,,,27/09/2026 05:49
 3cc0a859-4f9b-482a-8d06-cb44082f7349,athletics.hamburg,available,69.98,73.98,high,medium,9,namecheap,,,28/09/2026 22:59
-901ef05e-37a7-4019-8407-4b0e0fe5eb29,athletic.observer,available,10.99,10.99,high,low,8,namesilo,,,21/09/2026 16:12
-7623332c-ec83-4e52-a203-5222877c4442,training.singles,available,9.49,33.99,high,low,8,namesilo,,,29/09/2026 06:10
-fa1e2115-1c75-47b6-80a7-b2dbdc585d71,exercise.movie,available,47.99,349.99,high,low,8,namesilo,,,19/09/2026 09:45
 61d00a1e-b42c-42e0-b96b-b6218701ebb3,competition.cyou,premium,68.43,147.2,high,low,11,namesilo,,,25/09/2026 16:42
 c630e4e5-feb1-43a2-9db9-782002f0c1f0,athletics.today,premium,242,242,high,medium,9,namesilo,,,28/09/2026 22:59
 b6595bc3-4119-4daa-b6cf-c05ffbb577df,athlete.games,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",08/02/2026 15:15,08/02/2027 15:15,28/09/2026 22:57
-037e13b3-2e34-4693-9a38-7fb5dce92133,training.mortgage,premium,242,242,high,low,8,namesilo,,,29/09/2026 06:10
 ba9c4dd3-3227-4369-bca9-65b1f25f63ae,athletic.airforce,available,109.98,134.98,high,low,8,namecheap,,,21/09/2026 16:12
-05b12b16-d964-4575-a5d7-a62345ffaabf,sporting.football,premium,123.75,123.75,high,low,8,name.com,,,09/08/2026 18:15
 bac41705-1c10-4598-b1e6-2fa50a2001e5,game.storage,available,465.95,500.2,high,medium,4,spaceship,,,28/09/2026 20:55
 43b6fc58-89db-414f-9727-c5444c34c770,exercise.community,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",23/08/2022 10:17,23/08/2027 10:17,26/09/2026 05:56
-f8ccccc2-1fb6-474a-a492-159d1d9bdbad,training.promo,premium,1100,1100,high,low,8,dynadot,,,29/09/2026 06:10
 92d0a3e8-a90d-4a3d-912c-6ab98abcced3,competition.tips,available,15.99,30.99,high,low,11,namesilo,,,25/09/2026 16:42
 0f482cae-46c3-421e-ba63-e00d601b8bf6,athlete.vodka,available,32.49,32.49,high,low,7,namesilo,,,28/09/2026 22:57
-619f2340-4495-43eb-b30a-02b36151d926,exercise.enterprises,available,11.49,35.99,high,low,8,namesilo,,,19/09/2026 09:45
-3cb952c4-f425-4cc6-a9fc-635cdf6620cb,exercise.reise,available,27.89,97.99,high,low,8,namesilo,,,19/09/2026 09:45
 a47eaa41-ff70-4a38-8213-b66a9e4d5f12,competition.uk,resell,,,high,low,11,Global Domains Limited t/a Global Domains Limited,18/03/2019 18:05,18/03/2027 18:05,26/09/2026 05:09
 62c57d67-d66a-4e42-9c1b-c901ef0ec57d,athlete.green,available,6.64,66.56,high,low,7,dynadot,,,28/09/2026 22:57
 90433250-caf8-4a4b-a667-693750a95c1c,fitness.immo,available,8.24,29.11,high,medium,7,dynadot,,,28/09/2026 07:35
 cf2016fb-b8cf-4f95-a27e-c2a786a9ca0c,game.maison,available,60.98,69.98,high,medium,4,namecheap,,,28/09/2026 20:55
 2de74bf6-4cc1-4241-bbff-7558cda47681,competition.shop,premium,640,640,high,low,11,namesilo,,,25/09/2026 16:42
-425b2d27-4d2b-4d99-9585-1188747b98f2,training.catering,premium,118.8,118.8,high,low,8,namesilo,,,29/09/2026 06:10
 a9166912-9c12-45e7-9cea-fa7c7851fd88,athlete.degree,available,41.6,41.6,high,low,7,spaceship,,,28/09/2026 22:57
-7970ba16-29d5-44ce-b557-66b64feae3f8,gym.run,resell,,,high,low,3,"GoDaddy.com, LLC",20/08/2015 03:06,20/08/2027 03:06,26/09/2026 06:32
-80aebe0e-3fe0-4fad-9158-8aeeff5a961a,exercise.yachts,available,1.99,17.29,high,low,8,namesilo,,,19/09/2026 09:45
 bad72820-8b13-48a9-9593-edd46f9757f3,competition.apartments,available,57.99,57.99,high,low,11,namesilo,,,25/09/2026 16:42
 dd0aab4f-b94b-42dd-a03b-06e53896ca80,athletics.casa,available,1.98,17.98,high,medium,9,namecheap,,,28/09/2026 22:59
-560c9280-9dc4-4716-ae4c-052366a9fc9c,exercise.trading,available,21.98,27.98,high,low,8,namecheap,,,19/09/2026 09:45
-87b117cc-1fbd-43d3-a963-42f7006f0809,athletic.coupons,premium,242,242,high,low,8,namesilo,,,21/09/2026 16:12
-731a6102-3e04-47aa-8271-08d7e58966e9,athletic.management,available,25.99,25.99,high,low,8,namesilo,,,21/09/2026 16:12
-dad01a1e-2d52-453c-9108-93356363ae3b,tournament.soy,available,28.98,39.98,high,low,10,namecheap,,,27/09/2026 05:49
 b8f2180b-9363-41d1-868a-01b0bcff4ea5,competition.fail,available,14.99,46.99,high,low,11,name.com,,,25/09/2026 16:42
-f6a088d5-a46f-4b5f-8a2a-cec3bcc804a6,tournament.christmas,available,34.99,34.99,high,low,10,namesilo,,,27/09/2026 05:49
 7936b94e-92d2-4ce3-8a11-f0a4e8f7777f,team.builders,resell,,,high,medium,4,"Spaceship, Inc.",23/03/2014 16:00,23/03/2027 16:00,28/09/2026 05:10
 fdb149ba-e6e8-42ea-ad4d-1e39f1c8dfce,sport.gallery,premium,38.94,38.94,high,medium,5,namesilo,,,25/09/2026 22:38
 9f97ff39-94bb-413c-a6df-925101513288,fit.cricket,premium,1300,130,high,medium,3,namecheap,,,24/09/2026 18:48
 36e4cbd8-0fdc-4d8d-b046-84340430891c,exercise.ltda,available,42.98,46.98,high,low,8,namecheap,,,19/09/2026 09:45
-ee86fd3a-11b8-4510-87fd-c84566609767,tournament.feedback,available,9.99,329.99,high,low,10,namesilo,,,27/09/2026 05:49
 54135b1c-6f47-43d5-bdc2-f734d8f6124f,exercise.vet,available,43.98,52.98,high,low,8,namecheap,,,19/09/2026 09:45
-92f36724-a06c-40be-9b5b-8ad51d973689,gym.racing,premium,125,,high,low,3,name.com,,,
 3636f293-f3bd-42a6-a945-551bd8ee5b98,athletics.how,premium,40.57,40.57,high,medium,9,spaceship,,,28/09/2026 22:59
 d93adee9-23d2-44d3-826b-e752d61d255d,competition.pics,available,1.99,32.49,high,low,11,namesilo,,,25/09/2026 16:42
-93a07972-c395-49f7-83b0-3f200f80460c,tournament.one,resell,,,high,low,10,,,,27/09/2026 05:49
 4cfa7414-5e4f-4a19-a113-4dd9f60dcd09,competition.club,premium,1107,17.7,high,low,11,namesilo,,,25/09/2026 16:42
-e16c7395-5393-4d43-bda2-d78abcd95b55,exercise.immobilien,available,37.99,37.99,high,low,8,namesilo,,,19/09/2026 09:45
-512e5acf-d218-435b-83b3-61a09246efd5,training.market,premium,242,242,high,low,8,namesilo,,,29/09/2026 06:10
-cd422a6c-3bac-42d5-85a7-1498f8c5647b,athletic.country,available,2298,2450,high,low,8,namecheap,,,21/09/2026 16:12
 f5e8e3d3-f006-4afe-bb82-edb5978fa4c5,competition.security,available,1999.99,2049.99,high,low,11,namesilo,,,25/09/2026 16:42
 0c401429-233e-4957-b969-2e938af4c6d4,competition.restaurant,available,20.99,64.99,high,low,11,namesilo,,,25/09/2026 16:42
 c577acf2-dad6-42f5-9220-1a9922546113,competition.games,premium,242,242,high,low,11,namesilo,,,25/09/2026 16:42
 42b8be46-e672-4664-9626-bc60663f6722,team.locker,premium,3433.44,8.8,high,medium,4,namesilo,,,28/09/2026 05:10
-e993af05-bec5-4768-835f-4771676f518e,coach.car,available,1999.99,2199,high,medium,5,namesilo,,,28/09/2026 23:29
 d601633e-5d7e-4c12-a587-ecc3352cf0bd,exercise.living,available,5.49,39.99,high,low,8,namesilo,,,19/09/2026 09:45
-f0db2d7f-e418-40b2-b23f-3ed2e05a1524,athletic.watch,available,5.99,44.49,high,low,8,namesilo,,,21/09/2026 16:12
 4ea5c8dd-001f-46c2-b3c0-fff651882dd0,fitness.theatre,available,465.95,500.18,high,medium,7,spaceship,,,28/09/2026 07:35
 47685abf-937e-4109-8a55-df621727afbc,game.taxi,resell,,,high,medium,4,Dynadot Inc,14/02/2025 15:15,14/02/2027 15:15,28/09/2026 20:55
-470904f2-3003-42f5-b494-169ee9735ecc,tournament.date,premium,384,53.92,high,low,10,namesilo,,,27/09/2026 05:49
-fd2a4124-d5a4-4dc5-8e9e-e6596c46f63f,exercise.tattoo,available,34.99,34.99,high,low,8,namesilo,,,19/09/2026 09:45
 bf2efbbc-2311-4a5c-894e-c91bce2d011c,athlete.management,available,8.24,21.62,high,low,7,dynadot,,,28/09/2026 22:57
 cdc06c94-4550-42d6-9a9d-35c67a40f160,exercise.systems,available,18.99,34.99,high,low,8,namesilo,,,19/09/2026 09:45
-c2568f31-2e20-45ee-ad6a-2a83c16a6118,tournament.eco,available,58.48,101.98,high,low,10,namecheap,,,27/09/2026 05:49
 90ce1119-b01b-4d7f-a8cd-3b843622845e,competition.car,available,1999.99,2199,high,low,11,namesilo,,,25/09/2026 16:42
-84f426ef-d7f2-4cf5-8b95-ebe74abb3a6d,fit.observer,premium,32.5,32.5,high,medium,3,namecheap,,,24/09/2026 18:48
 aa738d66-2611-4369-aa7a-995581ee407b,athlete.exposed,available,22.49,22.49,high,low,7,namesilo,,,28/09/2026 22:57
 fd05c632-4d6f-450c-8ba9-d1dec6623fb9,athlete.dealer,premium,4278,2660,high,low,7,namesilo,,,28/09/2026 22:57
-df7c4798-836a-41d8-9c9a-0b89e042886e,athletic.restaurant,available,20.99,64.99,high,low,8,namesilo,,,21/09/2026 16:12
-9b773bee-3605-45b7-a1cc-142729f32800,match.partners,resell,,,high,medium,5,"GoDaddy.com, LLC",26/08/2014 12:48,26/08/2027 12:48,26/09/2026 07:27
-fad8d8d2-e0af-46b2-ac15-7214d7242ed8,training.limited,available,8.24,30.18,high,low,8,dynadot,,,29/09/2026 06:10
 08efc2ff-dc76-423b-b873-129301ca2749,fitness.associates,premium,102.67,102.67,high,medium,7,spaceship,,,28/09/2026 07:35
-208ea7b1-70e0-4845-a71e-6e98d0d8f061,league.holdings,available,64.99,64.99,high,low,6,namesilo,,,
-852be820-f8fd-4568-ae5c-d9ceb26553af,athletic.wine,available,9.99,59.99,high,low,8,namesilo,,,21/09/2026 16:12
-a87f7c55-baf0-4de6-a26d-741951343876,training.place,premium,78.54,78.54,high,low,8,namesilo,,,29/09/2026 06:10
 b0f171cd-8f2f-4da0-a3cd-3a1cec6c83cf,competition.blackfriday,available,299.99,299.99,high,low,11,name.com,,,25/09/2026 16:42
-66b53654-00b2-49d5-a019-c618721d5f33,athletic.flights,available,58.99,58.99,high,low,8,namesilo,,,21/09/2026 16:12
 d0280c67-eca8-4a07-b22f-bf56087d7f9b,fitness.investments,available,6.41,103.7,high,medium,7,spaceship,,,28/09/2026 07:35
-77af91f1-075c-40fb-955f-ead430fde62f,sporty.tennis,available,65.99,65.99,high,low,6,namesilo,,,10/09/2026 16:35
 698bbfa1-7139-4b49-b70c-15b885aade60,game.catering,premium,68.51,68.51,high,medium,4,spaceship,,,28/09/2026 20:55
 6a61eda5-0e5e-45d6-8c58-f9b39dac97b4,fitness.dad,premium,999.2,1298.7,high,medium,7,unstoppable,,,28/09/2026 07:35
 1036abee-4b4e-41f5-96c4-8167831833ea,sport.im,available,,,high,medium,5,,,,
+137944d9-3255-42ad-b394-bb438c5109ce,sport.industries,premium,242,242,high,medium,5,namesilo,,,25/09/2026 22:38
+6cf6e3a8-13cd-4dec-81d7-90b50f2214e8,league.futbol,premium,207.2,207.2,high,low,6,spaceship,,,30/09/2026 02:33
+539be24e-4898-4a1a-b434-19d2ad189578,athlete.place,available,22.98,30.98,high,low,7,namecheap,,,28/09/2026 22:57
+e73c783a-2015-4649-a77c-fad4e61d41da,game.black,resell,,,high,medium,4,"DNSPod, Inc.",03/02/2019 10:13,03/02/2030 10:13,28/09/2026 20:55
+7b5354cd-39ec-4438-870f-90395da9c6f1,fitness.cash,resell,,,high,medium,7,"GoDaddy.com, LLC",04/08/2023 04:38,04/08/2027 04:38,28/09/2026 07:35
+f78beaff-8647-4559-a093-e8174691da48,competition.poker,available,10.99,67.99,high,low,11,namesilo,,,25/09/2026 16:42
+1314121d-74d6-4573-a3bf-b5307f772351,competition.florist,available,32.99,32.99,high,low,11,namesilo,,,25/09/2026 16:42
+a88150b2-f7f2-4ee5-8203-a8ceb617ddb3,athletics.fan,premium,108.9,108.9,high,medium,9,dynadot,,,28/09/2026 22:59
+21544024-2e45-4d9a-8918-ff1c24bf2c72,exercise.reisen,available,3.99,20.99,high,low,8,namesilo,,,19/09/2026 09:45
+3aee099a-b560-402c-a7c0-30be47f1d75e,sport.store,premium,3250,13000,high,medium,5,namecheap,,,25/09/2026 22:38
+98830adb-9b8a-4085-8783-36d596b5d028,fitness.hot,premium,1107,1107,high,medium,7,namesilo,,,28/09/2026 07:35
+c9071c44-a958-4caa-a018-38e55df51f78,exercise.auction,available,36.99,36.99,high,low,8,namesilo,,,19/09/2026 09:45
+6ec12034-4f8c-47eb-9bd1-5c63fa70500e,competition.cars,available,1999.99,2199,high,low,11,namesilo,,,25/09/2026 16:42
+a5a9de6c-9e83-48e0-8a3c-e25b5635701b,fitness.bingo,available,53.99,53.99,high,medium,7,namesilo,,,28/09/2026 07:35
+b6ceeb5d-275a-42fa-968e-678a76c8221b,exercise.boston,premium,104,23.4,high,low,8,namecheap,,,19/09/2026 09:45
+e4beb07e-33f2-4416-b3e1-68023b96f3cf,competition.cruises,available,14.99,81.99,high,low,11,name.com,,,25/09/2026 16:42
+cf0ac9e5-4a91-495a-b0ea-7e38957cd153,athlete.monster,resell,,,high,low,7,,,,28/09/2026 22:57
+b80b0ee5-d856-41fb-8e78-7d047f4aab24,competition.pink,available,14.99,37.99,high,low,11,name.com,,,25/09/2026 16:42
+f7ffd5d1-a715-48f1-a5c5-bb1da674d7d2,athlete.world,resell,,,high,low,7,"DNSPod, Inc.",01/04/2019 09:35,01/04/2027 09:35,28/09/2026 22:57
+a5f1e4ff-f54b-4b0c-8e4e-b22f51cc7683,fitness.moe,premium,96,14.16,high,medium,7,namesilo,,,28/09/2026 07:35
+f8db5584-0518-4a9c-b340-ef3c78ce8f0f,competition.condos,available,58.99,58.99,high,low,11,namesilo,,,25/09/2026 16:42
+15026184-7270-4a4a-9484-2fae0eaa3d11,athlete.mov,premium,73.75,,high,low,7,name.com,,,28/09/2026 22:57
+faf783d1-286f-4e34-871e-05dca1131fca,fitness.cx,resell,,,high,medium,7,West263 International Limited,17/07/2024 02:11,17/07/2027 02:11,28/09/2026 07:35
+902ec698-0ca3-4e56-a169-a5deebeaf234,exercise.eco,available,58.48,101.98,high,low,8,namecheap,,,19/09/2026 09:45
+d0483ddb-f29f-4ca5-ad66-4bc762f1b55c,fitness.sexy,available,2587.7,2587.7,high,medium,7,spaceship,,,28/09/2026 07:35
+eca5b265-ffcc-4085-8403-4d4e15203c60,athletics.rehab,premium,260,260,high,medium,9,namecheap,,,28/09/2026 22:59
+bdaba3cc-85a6-4025-8b05-5b7ae8ebcdb5,team.college,premium,13800,13800,high,medium,4,namesilo,,,28/09/2026 05:10
+6e9595bc-c24e-403c-af3e-81028ca9b64d,tournament.dev,premium,203.52,203.52,high,low,10,namesilo,,,27/09/2026 05:49
+898f7758-8235-4be2-8a4e-549d83c457d1,athletics.art,premium,282.76,72.65,high,medium,9,spaceship,,,28/09/2026 22:59
+6c3825fa-db58-42d2-8329-4c0d66315f3b,exercise.ag,available,89.99,79.99,high,low,8,namesilo,,,19/09/2026 09:45
+0a3b87ae-ed8e-420c-aff9-e307291acbd1,competition.icu,premium,68.43,147.2,high,low,11,namesilo,,,25/09/2026 16:42
+cab28823-c4ec-43e2-bc5d-05413b8afe50,exercise.courses,available,2.19,38.99,high,low,8,namesilo,,,19/09/2026 09:45
+e507db63-fa2c-49b5-bb8d-5e50a6ddba54,exercise.energy,available,15.99,114.99,high,low,8,namesilo,,,19/09/2026 09:45
+0dd9f920-8bd5-4511-b8c0-ced5f254234a,athletics.yachts,available,1.24,13.97,high,medium,9,spaceship,,,28/09/2026 22:59
+27671f29-276a-4c49-bfe0-50fe6106ef9d,athlete.mortgage,available,62.99,62.99,high,low,7,namesilo,,,28/09/2026 22:57
+098cff91-e07a-48cf-b73d-6963916fb942,athlete.locker,premium,5458.82,33.27,high,low,7,porkbun,,,28/09/2026 22:57
+ea8a09cf-9b59-4c7a-996f-f04db1fd906c,competition.holiday,available,64.99,64.99,high,low,11,namesilo,,,25/09/2026 16:42
+6b7e1dfb-7532-4f5f-b32f-680778d0be3f,athletics.vip,premium,302.5,17.7,high,medium,9,namesilo,,,28/09/2026 22:59
+0f157d29-ee6a-40e7-875d-c956a9357b11,sport.ltd,resell,,,high,medium,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 11:12,21/06/2027 11:12,26/09/2026 09:13
+6d6fe1fc-8bef-475c-8689-32086b26125b,competition.ventures,available,20.99,59.99,high,low,11,namesilo,,,25/09/2026 16:42
+8c9da001-6a8a-475b-8a35-5344ceb06f55,exercise.contractors,available,35.49,35.49,high,low,8,namesilo,,,19/09/2026 09:45
+3f901218-7010-4bbb-b6f3-b0560ad809f0,sport.cool,premium,520,520,high,medium,5,namecheap,,,25/09/2026 22:38
+f397d813-332a-49eb-99e6-fde3ca6004b4,athletic.schule,available,29.98,32.98,high,low,8,namecheap,,,21/09/2026 16:12
+31e1c0dd-caa9-4b95-81f7-916aa3c99696,game.realty,premium,910,1300,high,medium,4,namecheap,,,28/09/2026 20:55
+04cb2012-cda8-4a01-bec0-e537f93f7063,athlete.limo,available,43.67,43.67,high,low,7,spaceship,,,28/09/2026 22:57
+812f82ac-1033-4ca5-8857-c7d7d1e05eb5,training.photos,premium,102.67,102.67,high,low,8,spaceship,,,29/09/2026 06:10
+6270d0cd-664a-484c-b05d-6eb58f0353b8,team.properties,premium,207.2,207.2,high,medium,4,spaceship,,,28/09/2026 05:10
+dfd3feac-3986-4e6a-83c9-fa60431c1c66,athlete.navy,available,43.98,45.98,high,low,7,namecheap,,,28/09/2026 22:57
+97a10c1c-39aa-42b9-8f72-55c5e79b0ae3,exercise.date,premium,384,116,high,low,8,namesilo,,,19/09/2026 09:45
+fd9c2482-becc-43d2-9dca-15847a9d9951,exercise.photo,premium,116,116,high,low,8,namesilo,,,19/09/2026 09:45
+bcf73272-c507-4297-91b3-cf2e5bfa4ddb,athletic.limo,available,54.99,54.99,high,low,8,namesilo,,,21/09/2026 16:12
+021b5102-697f-434b-b3e4-5f2402f9c863,athletic.enterprises,available,11.49,35.99,high,low,8,namesilo,,,21/09/2026 16:12
+ee0e7155-868d-415f-ab5d-be8960677a75,athletic.party,available,5.25,6.25,high,low,8,namesilo,,,21/09/2026 16:12
+dfbffb60-d682-4061-a154-5ca60f45673a,athletic.stream,premium,640,77.35,high,low,8,namesilo,,,21/09/2026 16:12
+184924eb-47d3-4de0-9490-e391a31ed184,sport.organic,available,17.99,85.99,high,medium,5,namesilo,,,25/09/2026 22:38
+278451e5-9428-48eb-8ea0-602341f12e05,exercise.watch,premium,128.7,128.7,high,low,8,namecheap,,,19/09/2026 09:45
+8633589a-5e10-4e92-9573-ff36b6887c28,sport.community,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",22/03/2026 15:15,22/03/2027 15:15,26/09/2026 09:13
+1a2d4842-e37d-45d7-aecf-f73ae31569cd,training.stream,premium,517.7,67.48,high,low,8,spaceship,,,29/09/2026 06:10
+db8afb3d-d3f6-45c5-b9e2-82ac1ddc1ffd,athletics.luxury,available,49.99,,high,medium,9,name.com,,,28/09/2026 22:59
+5d206d11-8193-4432-afe2-9ccfc02276b0,athletic.trade,available,5.25,6.25,high,low,8,namesilo,,,21/09/2026 16:12
+efa60f58-317c-4846-9f81-cc9b670d7c45,athlete.condos,available,45.2,45.2,high,low,7,cloudflare,,,28/09/2026 22:57
+71a0dd36-32e5-4233-a26d-f83bd3b9ab4f,athletics.ryukyu,available,17.98,22.98,high,medium,9,namecheap,,,28/09/2026 22:59
+d9a41151-278c-4e04-950b-b18c46f87f22,sport.graphics,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
+c362c226-7cd8-4390-ab82-0a75384d72c0,fitness.green,premium,273.41,546.35,high,medium,7,porkbun,,,28/09/2026 07:35
+0d6c5592-994a-4746-a9c7-1a4a8e12b3eb,exercise.lighting,available,23.99,23.99,high,low,8,namesilo,,,19/09/2026 09:45
+9275abfc-384a-4f4f-bbe3-781de3e97d9a,training.country,available,2064.2,2064.2,high,low,8,spaceship,,,29/09/2026 06:10
+211e13a8-c2bd-4cae-b195-25029e02b401,fitness.industries,premium,414.2,414.2,high,medium,7,spaceship,,,28/09/2026 07:35
+6de5dca0-1dc9-4605-b02f-4a8526bb5d0a,athletic.pictures,available,15.49,15.49,high,low,8,namesilo,,,21/09/2026 16:12
+579226b8-e811-47d6-b495-b9dd177f196f,fitness.rodeo,premium,47.2,11.8,high,medium,7,namesilo,,,28/09/2026 07:35
+f77378af-59d6-4513-ad40-68e99a91c3fd,team.ing,premium,10350.2,10350.2,high,medium,4,spaceship,,,28/09/2026 05:10
+02842460-ea11-440d-8416-a5b200f5a6c3,athlete.lat,available,1.8,40.98,high,low,7,namecheap,,,28/09/2026 22:57
+173be461-c63d-4534-a502-6f766493220e,training.video,premium,1293.95,2587.7,high,low,8,spaceship,,,29/09/2026 06:10
+33edf233-2b79-4de8-bad9-05746a24dd54,athletic.cab,available,32.99,32.99,high,low,8,namesilo,,,21/09/2026 16:12
+cfb7b314-bb88-4b7d-9f14-cc0aafedacf1,competition.consulting,available,27.99,54.99,high,low,11,namesilo,,,25/09/2026 16:42
+6268784d-e789-4903-9787-46fa26b362ef,competition.democrat,available,5.98,41.48,high,low,11,namecheap,,,25/09/2026 16:42
+5fd0a028-dd0c-40f4-9b84-d0f16e8afff2,athlete.now,premium,103.7,103.7,high,low,7,spaceship,,,28/09/2026 22:57
+bbf6fbf6-d3c5-437e-b5da-7617d6dffbef,competition.vision,available,45.99,45.99,high,low,11,namesilo,,,25/09/2026 16:42
+ae4a7a22-2274-4167-9e13-b20211cd0b0c,sport.ceo,premium,510.98,510.98,high,medium,5,namesilo,,,25/09/2026 22:38
+0e3b439f-d9ae-47db-ac82-2971b51dbabd,exercise.city,available,7.25,28.49,high,low,8,namesilo,,,19/09/2026 09:45
+69b9198e-abe6-447b-8873-8191d05b109f,fitness.tv,resell,,,high,medium,7,Dynadot Inc,07/07/2016 08:16,07/07/2027 08:16,28/09/2026 07:35
+05d002e4-a98b-4b30-a1ef-1ab4363fcadf,exercise.country,available,2298,2450,high,low,8,namecheap,,,19/09/2026 09:45
+a6a3386f-04e6-4ef1-8c6d-1c57c5ab0ea5,athletics.ag,available,89.99,79.99,high,medium,9,namesilo,,,28/09/2026 22:59
+fa28118a-4390-423c-93d4-d7ed2df4c035,team.maison,available,44.2,44.2,high,medium,4,cloudflare,,,28/09/2026 05:10
+52f23e8a-7803-474c-8eb9-455c42fa5066,training.eco,premium,8250,61.74,high,low,8,dynadot,,,29/09/2026 06:10
+38922088-f572-48ce-a3fa-2d3f392de30d,competition.navy,available,41.99,41.99,high,low,11,namesilo,,,25/09/2026 16:42
+6b836132-905d-414c-8592-a52bc4bf04b7,athletics.hiv,available,195.99,195.99,high,medium,9,namesilo,,,28/09/2026 22:59
+666c4b74-fa32-408b-a8bf-97da18502e71,athlete.florist,available,32.99,32.99,high,low,7,namesilo,,,28/09/2026 22:57
+5bc9480e-294b-4f4f-9580-38d7ed776b2e,game.talk,premium,1035.2,1035.2,high,medium,4,spaceship,,,28/09/2026 20:55
+1d11bfe0-246f-4efa-b051-a10be22d9a14,exercise.desi,available,19.98,22.98,high,low,8,namecheap,,,19/09/2026 09:45
+f7e07965-92eb-4a48-86bb-2d08c14e1b97,team.parts,premium,34.36,34.36,high,medium,4,spaceship,,,28/09/2026 05:10
+2c6a975a-18c3-44a1-af7a-37e73ea5f88b,athlete.melbourne,premium,84.5,84.5,high,low,7,porkbun,,,28/09/2026 22:57
+d61b5338-621f-4d2b-85ce-30334eef15c5,athlete.berlin,available,54.85,54.85,high,low,7,dynadot,,,28/09/2026 22:57
+8726ff21-d596-4007-82f8-390e48c3b0fe,team.today,resell,,,high,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",23/09/2020 21:27,23/09/2027 21:27,28/09/2026 05:10
+88e41a61-f8c9-4348-b69e-9f54a96df90f,exercise.homes,available,1.99,17.29,high,low,8,namesilo,,,19/09/2026 09:45
+838ce40c-def0-4e79-863a-4ddfcfec7228,exercise.zip,premium,167.7,167.7,high,low,8,namecheap,,,19/09/2026 09:45
+3b22f264-576f-4f0d-9c42-809c9524eadf,fitness.exposed,premium,207.2,207.2,high,medium,7,spaceship,,,28/09/2026 07:35
+3068ac6e-0f14-4537-ab82-8a3411e51c45,athletics.pictures,premium,68.51,68.51,high,medium,9,spaceship,,,28/09/2026 22:59
+a1e6eb2b-1e08-41a8-8ad4-30086d089a24,training.technology,resell,,,high,low,8,"GoDaddy.com, LLC",08/07/2015 18:51,08/07/2027 18:51,29/09/2026 06:10
+8f67a038-9e0a-41ae-a163-834231900cf8,fitness.ag,available,77.98,77.98,high,medium,7,porkbun,,,28/09/2026 07:35
+79b989b9-f63c-41d3-8a82-9386e764926e,fitness.city,premium,512,512,high,medium,7,namesilo,,,28/09/2026 07:35
+e4772899-09a6-4377-b472-a587d0bbafca,exercise.immo,available,34.99,34.99,high,low,8,namesilo,,,19/09/2026 09:45
+619637e4-3846-489d-a689-e9f4644d4310,training.marketing,premium,128.7,128.7,high,low,8,namecheap,,,29/09/2026 06:10
+bb96fc4a-6ef0-40f3-933b-dab8d0e0b5cd,training.hair,premium,2070.2,2070.2,high,low,8,spaceship,,,29/09/2026 06:10
+11555936-c699-4b75-95be-82fcaa8be998,athlete.porn,available,51.95,98.53,high,low,7,spaceship,,,28/09/2026 22:57
+a81e67b7-b106-4c00-bf8b-2b43095c6b26,athletic.new,available,488.98,601.98,high,low,8,namecheap,,,21/09/2026 16:12
+49a9cb16-1f46-4752-98cb-5143bfd559c3,athlete.forsale,premium,85.8,85.8,high,low,7,namecheap,,,28/09/2026 22:57
+241ce87d-a093-4cd5-ab14-37dc2be9e4dd,competition.bargains,available,17.99,26.49,high,low,11,namesilo,,,25/09/2026 16:42
+ba3bf34d-d538-402d-aa3a-fb02da3bc672,fitness.loans,available,17.48,144.98,high,medium,7,namecheap,,,28/09/2026 07:35
+981da936-d32e-4613-9bbf-f3e086161df1,athlete.cruises,available,56.99,56.99,high,low,7,namesilo,,,28/09/2026 22:57
+86765168-64a0-408b-acd2-e88cbb5e94a7,athletics.men,premium,448,53.92,high,medium,9,namesilo,,,28/09/2026 22:59
+725e873a-5a22-4bb2-ad34-a4b8dbceb727,athletic.shopping,available,29.98,37.98,high,low,8,namecheap,,,21/09/2026 16:12
+394102aa-8bb4-4fee-96b4-29e0fdbd7613,athlete.singles,available,26.2,26.2,high,low,7,cloudflare,,,28/09/2026 22:57
+bc3a12a4-c72a-4420-81cf-5c15c09eef51,game.esq,premium,1418.59,1418.59,high,medium,4,porkbun,,,28/09/2026 20:55
+465d6436-5b1d-4fb9-ad79-44014418691f,athlete.meme,premium,90.2,,high,low,7,unstoppable,,,28/09/2026 22:57
+f2423b85-ed52-4102-9ad9-c764decedf01,sport.camera,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
+5befe256-ce40-41af-aa9e-1f82988f7263,sporting.hockey,available,14.99,77.99,high,low,8,name.com,,,09/08/2026 18:15
+3c5f4bb7-4bac-4606-bd1a-af6b46dc9c3a,sport.engineer,premium,78,78,high,medium,5,namecheap,,,25/09/2026 22:38
+cb718bdc-0b47-44f3-bb22-019b49131fc6,exercise.wiki,premium,302.5,302.5,high,low,8,namesilo,,,19/09/2026 09:45
+acafb7ee-e797-44b1-83ee-4f4a0aad46e1,athletics.deal,premium,103.7,103.7,high,medium,9,spaceship,,,28/09/2026 22:59
+8fed4330-0d0a-4162-b1be-399f22421d4d,team.markets,premium,440,440,high,medium,4,dynadot,,,28/09/2026 05:10
+f3a07d88-06de-4f7c-88ad-3c0d39ceb53a,athlete.tours,available,10.99,61.99,high,low,7,namesilo,,,28/09/2026 22:57
+4547e19f-c357-4884-9ddc-2a50eba31d5f,game.reisen,available,16.2,16.2,high,medium,4,cloudflare,,,28/09/2026 20:55
+e2d5e1db-5a4a-4587-80f8-413ab62b9ce6,sporty.cricket,premium,640,77.35,high,low,6,namesilo,,,10/09/2026 16:35
+77476b0e-5cb1-4b46-934f-684bf852adc4,competition.energy,available,15.99,114.99,high,low,11,namesilo,,,25/09/2026 16:42
+da286555-3227-4d08-8da9-52de15b9907f,sport.promo,premium,1107,1107,high,medium,5,namesilo,,,25/09/2026 22:38
+a943138b-4e84-4fa1-b231-f280009cb5b1,team.expert,premium,828.2,828.2,high,medium,4,spaceship,,,28/09/2026 05:10
+74051ba2-edd4-43e7-9d3e-e01a93ed9f8a,sport.melbourne,available,44.98,53.98,high,medium,5,namecheap,,,25/09/2026 22:38
+70d9442f-ef83-417f-a0ad-8f6fd56e1405,game.melbourne,premium,2519.73,2519.73,high,medium,4,porkbun,,,28/09/2026 20:55
+ff67cc4d-cb8b-4933-a8df-f91af46465b5,training.capital,premium,68.51,68.51,high,low,8,spaceship,,,29/09/2026 06:10
+2778712f-acf1-47a0-b025-525b199764e8,athletics.blackfriday,available,103.7,103.7,high,medium,9,spaceship,,,28/09/2026 22:59
+89f185f5-53d5-455a-93c1-c0898c8482cf,game.cfd,premium,310.7,621.2,high,medium,4,spaceship,,,28/09/2026 20:55
+d8db854b-ebb3-4450-9bd8-dcb09679ebd8,fitness.country,available,2064.2,2064.2,high,medium,7,spaceship,,,28/09/2026 07:35
+d7619b5c-f16d-44be-893e-4965c8bda07f,team.business,resell,,,high,medium,4,"Spaceship, Inc.",28/02/2023 15:15,28/02/2027 15:15,28/09/2026 05:10
+d5e3acc8-a01a-4a34-b2ae-78f2b3480fb7,coach.school,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",02/06/2019 12:38,02/06/2027 12:38,28/09/2026 23:29
+3711c134-ea84-4c41-a122-210aed75efb5,athlete.beer,premium,47.2,29.5,high,low,7,namesilo,,,28/09/2026 22:57
+c1e2a9d6-a8b9-4493-a939-628f71401e18,competition.pw,premium,302.5,302.5,high,low,11,namesilo,,,25/09/2026 16:42
+c4065d2d-a54b-4662-9a63-21d23243fda7,athletic.moe,available,14.98,17.88,high,low,8,namecheap,,,21/09/2026 16:12
+1a5c03f5-9a4f-4556-8e3e-4f3215ccfd50,sport.talk,premium,640,640,high,medium,5,namesilo,,,25/09/2026 22:38
+139ffc54-8b8f-42a5-955d-f71a19f78cf3,competition.gold,available,9.99,99.99,high,low,11,namesilo,,,25/09/2026 16:42
+717fd023-4e6f-4f09-bf8e-f7cd0b7de1c9,game.phd,premium,1688.7,1688.7,high,medium,4,namecheap,,,28/09/2026 20:55
+bbf72045-a5e4-4c8f-8504-81b520f29bdf,training.golf,resell,,,high,low,8,"Sav.com, LLC - 43",15/06/2026 15:15,15/06/2027 15:15,29/09/2026 06:10
+6b36bac9-17d3-48eb-8544-f7d964f1e62d,competition.cool,available,9.49,44.99,high,low,11,namesilo,,,25/09/2026 16:42
+75607f40-a251-418d-94a9-47b6b56557bb,competition.storage,available,538.98,858,high,low,11,namecheap,,,25/09/2026 16:42
+dbc06152-26b3-414b-bd25-1de0cfef7d6c,exercise.rip,available,23.49,23.49,high,low,8,namesilo,,,19/09/2026 09:45
+d2ac05de-b050-480d-a123-2143ecfedbcd,athletics.ooo,available,22.21,22.21,high,medium,9,dynadot,,,28/09/2026 22:59
+4293999f-3478-4de5-9c90-4a5d62091ae1,competition.domains,available,42.99,42.99,high,low,11,namesilo,,,25/09/2026 16:42
+0cb5f2d6-44cf-4633-b96d-f0b3a2cdd950,competition.live,premium,3125,3125,high,low,11,name.com,,,25/09/2026 16:42
+553d3edb-7814-468d-9146-8f02bd29354c,gym.hockey,available,62.98,72.98,high,low,3,namecheap,,,29/09/2026 21:52
+23b68f46-7768-4ee9-9b74-5684458b54f9,team.host,premium,1950,3900,high,medium,4,namecheap,,,28/09/2026 05:10
+fc1920b9-801f-45b2-8745-5db1dfc3e3c8,competition.ooo,available,24.99,24.99,high,low,11,namesilo,,,25/09/2026 16:42
+e75df43b-3da4-4314-84ee-87728b4389ed,athlete.blue,available,19.99,24.99,high,low,7,namesilo,,,28/09/2026 22:57
+4c2e63c4-f6b5-4efb-8bce-2c0a070aca9e,training.cam,premium,854,16.52,high,low,8,namesilo,,,29/09/2026 06:10
+efbb8646-3c4a-48cb-b766-bd15ad17a1e9,team.ltda,premium,56.64,33.04,high,medium,4,namesilo,,,28/09/2026 05:10
+5408c173-185b-4553-9a00-2383953c0b30,competition.now,resell,,,high,low,11,Dynadot Inc,08/07/2025 21:21,08/07/2027 21:21,26/09/2026 05:09
+e5776f3b-b30b-492b-b84a-c61e497d37fd,team.haus,available,10.92,28.04,high,medium,4,dynadot,,,28/09/2026 05:10
+23be777e-4c35-4dac-aa6f-8eba39724d83,athletic.ceo,available,10.19,129.99,high,low,8,namesilo,,,21/09/2026 16:12
+2f19f297-cb5a-4e18-a662-e03be8131c8e,athletics.community,premium,42.9,42.9,high,medium,9,"Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA",13/02/2026 17:24,13/02/2027 17:24,28/09/2026 22:59
+a69ceaf1-9fb1-4378-9561-f228e2943791,stadium.futbol,premium,118.8,118.8,high,low,7,namesilo,,,28/09/2026 03:07
+c33ce78d-9f0d-430b-aa4f-e8d77d207c16,fitness.movie,available,46,,high,medium,7,unstoppable,,,28/09/2026 07:35
+081c36e9-0d16-4897-a20b-d509a03ef8b2,athlete.fail,available,38.99,38.99,high,low,7,namesilo,,,28/09/2026 22:57
+7dd1dc93-7ae8-4e46-ac82-c6862095458f,athlete.fishing,available,26.97,26.97,high,low,7,dynadot,,,28/09/2026 22:57
+8cf568d9-3976-439e-8680-86b62c82b5a1,sport.family,premium,512,512,high,medium,5,namesilo,,,25/09/2026 22:38
+51cd156a-12bb-4b26-8756-68a28e3817fa,fitness.discount,premium,54.36,108.6,high,medium,7,porkbun,,,28/09/2026 07:35
+2b743f86-f6cb-4ad5-a221-872801195b8f,football.casino,resell,,,high,medium,8,Dynadot Inc,07/09/2026 17:00,07/09/2027 17:00,29/09/2026 19:44
+1ebc302a-8242-4ef5-84b9-f04cda843146,athlete.org,resell,,,high,low,7,"GoDaddy.com, LLC",18/03/1999 05:00,18/03/2028 05:00,28/09/2026 22:57
+6dc7b65b-e881-4272-a19d-de9d65aed1d2,athlete.yachts,available,1.99,14.45,high,low,7,dynadot,,,28/09/2026 22:57
+31a55dc8-bafc-42b4-80bc-e9fdc95e2e0a,gym.pro,premium,3450,3450,high,low,3,namesilo,,,29/09/2026 21:52
+4982582d-e95f-4db7-bfb8-0ed79da484b7,fitness.lawyer,available,48.2,48.2,high,medium,7,cloudflare,,,28/09/2026 07:35
+22c2e17e-490c-4ecd-ab0d-0ce73ffaa17f,athletic.co,premium,640,640,high,low,8,namesilo,,,21/09/2026 16:12
+7148378b-b301-4266-ae52-bea007b81c45,training.forex,premium,546.56,1092.18,high,low,8,porkbun,,,29/09/2026 06:10
+2d6f8394-90a6-4b97-822a-efe4396da5a5,training.deal,premium,517.7,517.7,high,low,8,spaceship,,,29/09/2026 06:10
+0a6a7c4c-3fce-4a4f-a4a1-079f316d8d70,athletics.club,premium,1100,15.96,high,medium,9,dynadot,,,28/09/2026 22:59
+7b601fba-8a11-4d22-86e8-eabb72cdaf00,athletic.srl,available,31.99,31.99,high,low,8,namesilo,,,21/09/2026 16:12
+7d3754a7-2243-4076-bec4-b8c0ce37fac5,exercise.gift,available,14.99,14.99,high,low,8,namesilo,,,19/09/2026 09:45
+49a5fb6f-6378-429d-83bc-eb3963a153e2,game.broker,resell,,,high,medium,4,"Spaceship, Inc.",11/05/2022 13:15,11/05/2027 13:15,28/09/2026 20:55
+bb2908a1-e36f-4f9e-a8b8-3fa13d52adfd,exercise.uk,resell,,,high,low,8,Mr Chris Vaughan,02/07/2019 13:00,02/07/2027 13:00,26/09/2026 05:56
+ae9dc4d2-b225-4446-91f8-faf6bbd3af2f,athletic.international,available,12.99,31.49,high,low,8,namesilo,,,21/09/2026 16:12
+9daae45d-32e5-4119-b568-b6e43f1a80aa,training.cleaning,available,60.23,60.23,high,low,8,spaceship,,,29/09/2026 06:10
+4d83206a-0b24-44ac-abcb-0feef9f76139,athlete.vin,available,8.99,59.99,high,low,7,namesilo,,,28/09/2026 22:57
+1bcfb04a-2512-412f-9908-8297271cfb64,sport.ing,premium,13000,13000,high,medium,5,namecheap,,,25/09/2026 22:38
+ca12a416-4c96-47fa-9511-21a97e7f66b9,athlete.nexus,premium,61.27,61.27,high,low,7,spaceship,,,28/09/2026 22:57
+4e1969ed-7955-4bb2-8f01-65be30c1bf8c,tournament.surgery,available,54.99,54.99,high,low,10,namesilo,,,27/09/2026 05:49
+91c81cc0-7389-4a8f-a3e8-cbbf80d6fbcb,athletic.tennis,available,65.99,65.99,high,low,8,namesilo,,,21/09/2026 16:12
+fd81468f-5aed-4878-952f-a2088660ee82,athletic.green,premium,1950,1950,high,low,8,namecheap,,,21/09/2026 16:12
+202d9ac3-6223-4116-a5c6-7ab8800cf25d,game.bid,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",26/07/2019 14:19,26/07/2030 14:19,28/09/2026 20:55
+a161e712-5bf4-4c71-88f8-0332096faea1,stadium.so,available,,,high,high,7,,,,
+156749d3-5c41-42d3-8c1c-0abe15faee40,exercise.lease,available,56.99,56.99,high,low,8,namesilo,,,19/09/2026 09:45
+cb8fe2d2-6c7f-4f7d-af03-963350bceb21,competition.stream,premium,437.5,62.5,high,low,11,name.com,,,25/09/2026 16:42
+c1156b51-7eca-4f9d-9d6b-4c6f44e54075,tournament.engineering,available,16.99,64.99,high,low,10,namesilo,,,27/09/2026 05:49
+dc9686f5-1bdd-47a7-a7ae-ccfb553c9ad7,team.nexus,premium,1091.09,1091.09,high,medium,4,porkbun,,,28/09/2026 05:10
+3e5adb61-92d7-46eb-a9d2-392e0e588856,athlete.red,available,11.49,23.49,high,low,7,namesilo,,,28/09/2026 22:57
+aae36a01-e67b-41c0-bb7c-60a29434c79a,team.ooo,premium,124200,119.99,high,medium,4,namesilo,,,28/09/2026 05:10
+9ca35953-b6f5-4cbc-b8fa-d0142b36d611,competition.you,premium,65,65,high,low,11,namecheap,,,25/09/2026 16:42
+e1b16a31-cd4b-4450-a512-4adda26ce91c,athlete.pw,premium,302.5,302.5,high,low,7,namesilo,,,28/09/2026 22:57
+190867e1-a91e-4c54-944f-99aef41a896d,athlete.fast,premium,130,128.7,high,low,7,namecheap,,,28/09/2026 22:57
+7b2b50f1-fa7f-4bc3-87e5-9936fd0e6069,training.family,premium,218.8,437.19,high,low,8,porkbun,,,29/09/2026 06:10
+fabca534-9a85-4027-b55b-8945f246818b,training.cricket,premium,6900,116,high,low,8,namesilo,,,29/09/2026 06:10
+194c6798-4b7f-4186-ac24-65411da423d0,tournament.audio,available,104.99,114.99,high,low,10,namesilo,,,27/09/2026 05:49
+1ae0d89d-4628-416c-9a3f-4f8d4233bdbe,exercise.catering,available,38.99,38.99,high,low,8,namesilo,,,19/09/2026 09:45
+2903ad51-f525-417b-8783-986977f7db9e,stadium.store,premium,3450,3450,high,low,7,namesilo,,,28/09/2026 03:07
+030b9a85-edab-45e6-bbab-226958a7139d,game.camera,premium,414.2,414.2,high,medium,4,spaceship,,,28/09/2026 20:55
+2e651361-986d-48a0-a1e3-cfa5554bf229,tournament.vegas,premium,260,129.94,high,low,10,namecheap,,,27/09/2026 05:49
+97d6b1b4-57d4-4946-aff2-103b51eec3ee,athlete.kim,available,12.99,23.49,high,low,7,namesilo,,,28/09/2026 22:57
+f88c40b8-a9b5-42e5-9ec4-bbb456c9bc9d,athlete.cfd,premium,310.7,621.2,high,low,7,spaceship,,,28/09/2026 22:57
+01eb78b0-17b3-472b-a323-15a450c85bf0,athletics.hot,premium,100.5,130,high,medium,9,unstoppable,,,28/09/2026 22:59
+c08b7ba2-4008-415b-82cc-3807e6615083,health.coach,resell,,,high,medium,6,"Go Australia Domains, LLC",08/03/2015 16:00,08/03/2027 16:00,28/09/2026 03:06
+196b2f32-0912-4218-bab0-d327e52a56ff,gym.surf,premium,414.2,26.08,high,low,3,spaceship,,,29/09/2026 21:52
+804677cb-3b0a-41f9-a9f7-3e3d6eef37c3,exercise.news,premium,512,512,high,low,8,namesilo,,,19/09/2026 09:45
+56d91987-f5a1-4974-93f6-3c02a8a83552,fitness.rsvp,premium,1034.17,1034.17,high,medium,7,spaceship,,,28/09/2026 07:35
+6824f0c2-010d-4d45-b776-aa7399896dae,tournament.cv,premium,1339.98,8.85,high,low,10,namesilo,,,27/09/2026 05:49
+bc12205b-596b-475a-bcf3-3dfe9fc10d4f,athletic.dating,premium,118.8,118.8,high,low,8,namesilo,,,21/09/2026 16:12
+c75e070e-b770-4630-994f-0a276f693cb2,stadium.surf,available,1.5,26.97,high,low,7,dynadot,,,28/09/2026 03:07
+bb623310-a08f-4332-ad8b-435228c09150,fitness.online,premium,3125,12500,high,medium,7,name.com,,,28/09/2026 07:35
+2028856d-ca08-491b-bf67-a88456509225,athletics.market,premium,102.67,102.67,high,medium,9,spaceship,,,28/09/2026 22:59
+62d4f870-9810-4783-8d2e-b33951bc13e0,football.date,premium,384,53.92,high,medium,8,namesilo,,,29/09/2026 19:44
+6f5be3b1-439b-4ab1-a9ed-43d9fdf11e32,competition.website,premium,650,1300,high,low,11,namecheap,,,25/09/2026 16:42
+73260ebf-f423-468e-acef-d5ed3aead1f4,athletics.makeup,available,1.99,17.29,high,medium,9,namesilo,,,28/09/2026 22:59
+f09334ff-dc2b-47f7-8128-5b0ced75a62a,fitness.republican,available,5.57,26.97,high,medium,7,dynadot,,,28/09/2026 07:35
+8d69419e-bffa-45ed-a17e-046b3df3fbdb,athlete.bot,premium,640,640,high,low,7,namesilo,,,28/09/2026 22:57
+42a8c20d-0ed1-45bb-a97e-58cec5d31bed,sport.maison,available,57.99,57.99,high,medium,5,namesilo,,,25/09/2026 22:38
+056bef44-e5c4-48c4-8dba-03844791ae47,athlete.gifts,available,29.18,29.18,high,low,7,spaceship,,,28/09/2026 22:57
+53c504f0-07a6-4a74-8700-8665e8cc8dfc,athlete.hospital,available,44.2,44.2,high,low,7,cloudflare,,,28/09/2026 22:57
+fa7ae68f-ac2f-49db-a811-dc62bcf4591e,game.ninja,premium,,,high,medium,4,,,,28/09/2026 20:55
+cfff44f7-9b3f-4d46-8c3c-8464f1573007,training.coach,resell,,,high,low,8,"GoDaddy.com, LLC",08/02/2025 15:15,08/02/2027 15:15,29/09/2026 06:10
+2bef73d9-bcf4-49cc-9bf1-c0d719815b10,tournament.haus,available,14.99,33.99,high,low,10,namesilo,,,27/09/2026 05:49
+dd6f1d71-f0ce-4021-952b-c4baa966cecc,exercise.technology,available,12.99,28.49,high,low,8,namesilo,,,19/09/2026 09:45
+3c94aa2e-4776-498b-81a1-2cd3bd764bc4,team.school,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",04/01/2023 17:01,04/01/2027 17:01,28/09/2026 05:10
+b94e19a7-6d64-40f8-9477-0c0c00d02516,competition.band,premium,78.54,78.54,high,low,11,namesilo,,,25/09/2026 16:42
+bea15c1c-1a89-40b1-a18c-b0d58e39255c,athletic.porn,available,69.98,154.98,high,low,8,namecheap,,,21/09/2026 16:12
+f8903e9e-c344-46e7-aad4-5032f51e3a8a,exercise.training,premium,118.8,118.8,high,low,8,namesilo,,,19/09/2026 09:45
+72dcd5ea-b852-4dfd-984d-d391c5d17625,exercise.games,premium,130,260,high,low,8,namecheap,,,19/09/2026 09:45
+f404b4ec-72f8-41ca-91d7-24470e256df0,tournament.loans,available,20.99,116.99,high,low,10,namesilo,,,27/09/2026 05:49
+87554bac-9b97-430d-a47d-2f48a50dd2a0,fitness.schule,available,28.99,28.99,high,medium,7,namesilo,,,28/09/2026 07:35
+395a2771-a1f0-4023-a8d6-857065e4db09,athletic.church,available,8.48,78.98,high,low,8,namecheap,,,21/09/2026 16:12
+21e7b00e-0c91-4742-bd5a-1011e4e3b696,game.website,premium,5175.2,10350.2,high,medium,4,spaceship,,,28/09/2026 20:55
+cbd5e94b-a5c4-4d61-921a-f629be6b8b6f,sport.claims,available,17.99,64.99,high,medium,5,namesilo,,,25/09/2026 22:38
+6c3e485e-fa9f-4ffd-be22-350bfc56e7a1,exercise.bar,premium,576,576,high,low,8,namesilo,,,19/09/2026 09:45
+95652b87-7e26-4052-9d1f-c78adaa006d1,athletic.villas,available,59.99,59.99,high,low,8,namesilo,,,21/09/2026 16:12
+7e1268c4-ab71-4d5b-afc2-6137ffb4ddc1,exercise.photos,premium,23.6,23.6,high,low,8,namesilo,,,19/09/2026 09:45
+0ac3a817-dfbd-4959-bb16-aa0928e05260,tournament.exposed,available,22.49,22.49,high,low,10,namesilo,,,27/09/2026 05:49
+7d69a1b4-f6d2-404b-8415-a6f61036d1da,stadium.game,available,309.99,429.99,high,low,7,namesilo,,,28/09/2026 03:07
+b70e087f-471a-42ee-afae-2bc3d85d341b,training.insure,available,72.99,72.99,high,low,8,namesilo,,,29/09/2026 06:10
+b45c9240-43b9-4eab-ac15-782cfad9fef6,team.singles,resell,12.99,,high,medium,4,"GoDaddy.com, LLC",11/06/2026 22:37,11/06/2027 22:37,28/09/2026 05:10
+5365d8c6-93e1-47a1-b3a0-90c3d31d2d6e,exercise.pictures,available,15.49,15.49,high,low,8,namesilo,,,19/09/2026 09:45
+8587b989-d6e5-48e4-a250-ecf5874f0b17,exercise.boo,premium,167.7,167.7,high,low,8,namecheap,,,19/09/2026 09:45
+3a81c170-8e7f-496b-bc82-1da6aeea0db0,tournament.directory,resell,,,high,low,10,,,,27/09/2026 05:49
+2df45cac-3ce6-4d01-a8dc-7bb71a99e90e,coach.show,resell,,,high,medium,5,"DNSPod, Inc.",13/05/2018 02:12,13/05/2027 02:12,28/09/2026 23:29
+3ce19b96-7522-4234-a78e-45724f5436ae,exercise.run,resell,,,high,low,8,"DNSPod, Inc.",27/06/2019 17:26,27/06/2027 17:26,26/09/2026 05:56
+ec382696-70e7-4eb2-bb78-385dfd64a2dc,health.futbol,available,5.57,14.13,high,medium,6,dynadot,,,28/09/2026 03:06
+d88257a8-b356-41e4-b726-12e2295c9453,tournament.cab,available,32.99,32.99,high,low,10,namesilo,,,27/09/2026 05:49
+9b2892b1-150f-4d5b-847e-b9e79e70679b,training.deals,available,31.25,31.25,high,low,8,spaceship,,,29/09/2026 06:10
+a46fc81f-24bb-4f2c-b3fb-b574491ca63f,athlete.eco,available,72.98,101.98,high,low,7,namecheap,,,28/09/2026 22:57
+c1824819-e9a4-4b72-ad6d-0bee9af79034,sport.moda,premium,118.8,118.8,high,medium,5,namesilo,,,25/09/2026 22:38
+1b72e899-06ad-43a4-a915-9c68ac01b276,football.locker,premium,11000,32.32,high,medium,8,dynadot,,,29/09/2026 19:44
+45638c07-9977-4386-9903-62f9940ba104,tournament.builders,available,35.99,35.99,high,low,10,namesilo,,,27/09/2026 05:49
+5ded7788-c6b9-484d-bef8-90f77725c0f6,sport.rsvp,premium,1298.7,1298.7,high,medium,5,namecheap,,,25/09/2026 22:38
+c03adeb5-cf67-4fb3-9046-88dc671fa039,sport.guitars,available,104.99,114.99,high,medium,5,namesilo,,,25/09/2026 22:38
+ffcfb3f3-46b4-4b4a-82a9-e7d3ef878319,tournament.cx,available,18.99,18.99,high,low,10,namesilo,,,27/09/2026 05:49
+00c621c6-a982-4996-96e6-d41d5c891a54,football.jetzt,available,7.71,19.48,high,medium,8,dynadot,,,29/09/2026 19:44
+c7c8e4b2-5864-4740-a40e-e580687631b9,tournament.insure,available,76.98,91.98,high,low,10,namecheap,,,27/09/2026 05:49
+d970c0c1-38fd-4558-a733-1b51e616dd08,athletic.sex,available,69.98,154.98,high,low,8,namecheap,,,21/09/2026 16:12
+8076c9a8-8c0d-49b2-8cfd-fb60209368f5,coach.contractors,available,28.15,28.15,high,medium,5,spaceship,,,28/09/2026 23:29
+ce8f4520-a454-4257-85b9-72abca82cfc3,athlete.auto,available,1999.99,2199,high,low,7,namesilo,,,28/09/2026 22:57
+579e397b-ad6c-4027-971a-c809fef14610,fitness.cars,available,1863.2,2064.2,high,medium,7,spaceship,,,28/09/2026 07:35
+3469f75e-6214-4911-a127-276fd8c8c8be,athlete.builders,available,35.99,35.99,high,low,7,namesilo,,,28/09/2026 22:57
+b022658c-d4d0-458b-8db7-54b435f41a6d,athlete.phd,premium,49.2,,high,low,7,unstoppable,,,28/09/2026 22:57
+be0b67f2-873b-47d7-9bcd-dcd2d3a81543,match.host,premium,3250,6500,high,medium,5,namecheap,,,24/09/2026 14:41
+42d8356a-0f14-4077-9bc6-e85274f9ad68,stadium.degree,available,52.99,52.99,high,low,7,namesilo,,,28/09/2026 03:07
+e210baf7-f0d7-4d5e-99e1-e4b5aa00703c,football.video,premium,1107,1107,high,medium,8,namesilo,,,29/09/2026 19:44
+a9e900c1-7a2b-4d27-b7b6-b86e692f1657,athletics.law,available,85.82,85.82,high,medium,9,dynadot,,,28/09/2026 22:59
+ef4e051a-3925-470d-b832-6fabf9bcb0cb,training.green,premium,819.7,1638.01,high,low,8,porkbun,,,29/09/2026 06:10
+caf4835f-1569-47a0-815e-e55b01379965,athlete.holiday,available,51.95,51.95,high,low,7,spaceship,,,28/09/2026 22:57
+067e7e9d-a4d2-4159-a001-b102b97be861,fitness.barcelona,available,25.04,25.04,high,medium,7,spaceship,,,28/09/2026 07:35
+d20f6029-1d37-4194-99aa-a1eb260078a8,competition.moe,available,19.99,23.99,high,low,11,name.com,,,25/09/2026 16:42
+152de9cc-aa5f-4bd5-b4e4-09316f1ce623,coach.day,premium,516.67,516.67,high,medium,5,spaceship,,,28/09/2026 23:29
+d941eab2-9e8a-45ac-a034-146673475f70,athletics.ink,available,2.99,32.49,high,medium,9,namesilo,,,28/09/2026 22:59
+1dbfedfe-8662-485c-9cd3-aad48c3733e3,tournament.giving,available,7.48,35.98,high,low,10,namecheap,,,27/09/2026 05:49
+1799ff2d-8266-4245-811c-3439ae770527,athletics.biz,premium,175.5,20,high,medium,9,unstoppable,,,28/09/2026 22:59
+9a4f651e-f0cf-4db9-8923-d0b20e3dd919,exercise.voyage,available,61.98,73.98,high,low,8,namecheap,,,19/09/2026 09:45
+9272c5e1-19d5-4350-b020-618875e3da93,match.sexy,premium,13800,13800,high,medium,5,namesilo,,,24/09/2026 14:41
+78a842f3-5a5d-4609-8247-c686e98b0fa9,game.expert,premium,1040,1040,high,medium,4,namecheap,,,28/09/2026 20:55
+6c758d05-a54f-40b6-bf6b-b6c1f98c60f3,field.farm,resell,,,high,medium,5,"Spaceship, Inc.",16/06/2022 13:15,16/06/2027 13:15,27/09/2026 03:55
+b1a87915-17ff-43f7-9534-31de705934c3,league.press,premium,6900,6900,high,low,6,namesilo,,,30/09/2026 02:33
+39c27d97-be80-4e88-b2b4-fb9e5b31d94d,exercise.engineering,available,16.99,64.99,high,low,8,namesilo,,,19/09/2026 09:45
+75476c9f-f793-4455-b2f4-6a8479f56850,athletic.dental,available,78.99,78.99,high,low,8,namesilo,,,21/09/2026 16:12
+5b21ec42-23b3-46cd-867e-8ae2d056c61f,athletic.uno,premium,1107,1107,high,low,8,namesilo,,,21/09/2026 16:12
+dc69c86b-a556-4218-a693-d5d1517a0151,tournament.pictures,available,16.48,20.98,high,low,10,namecheap,,,27/09/2026 05:49
+5973186f-005a-4d11-aec5-729fba691f77,stadium.us,resell,,,high,low,7,,,,28/09/2026 03:07
+0e4a9495-b2e7-40ec-b982-24d438efc4cb,gym.center,premium,207.2,207.2,high,low,3,spaceship,,,29/09/2026 21:52
+01129cf8-9bda-4af9-89b2-23df40621b8e,tournament.fans,premium,53.92,53.92,high,low,10,namesilo,,,27/09/2026 05:49
+245072df-6bbf-43c3-a2d3-2729a25806c5,coach.yachts,premium,2070.2,2070.2,high,medium,5,spaceship,,,28/09/2026 23:29
+66911999-fdc8-4c3d-a466-207da6d730b8,athlete.ong,available,18.98,24.98,high,low,7,namecheap,,,28/09/2026 22:57
+97fb7633-1431-416a-a7b2-eaa1aebb8416,coach.loan,premium,640,77.35,high,medium,5,namesilo,,,28/09/2026 23:29
+e26f868c-290d-41a5-aa4b-58ef30932c46,contest.tech,premium,781.25,,high,low,7,name.com,,,29/09/2026 11:25
+130e4cc1-3fa9-4184-8adf-f6cfdda4d5c4,golf.cricket,resell,,,high,medium,4,West263 International Limited,04/03/2018 05:14,04/03/2028 05:14,29/09/2026 20:59
+a0f9cdf4-7d23-46ba-8c5e-4b34bde9010c,match.stream,premium,13800,116,high,medium,5,namesilo,,,24/09/2026 14:41
+40c75f9e-fdfa-4c5a-884e-c615a355e80a,competition.care,premium,130,260,high,low,11,namecheap,,,25/09/2026 16:42
+b514aa45-98f7-49c6-af1c-e7a3e1c506c5,athletic.kiwi,available,31.98,35.68,high,low,8,namecheap,,,21/09/2026 16:12
+7c90e501-596c-4107-bbfd-4ac10159c9bb,match.rsvp,premium,648.7,648.7,high,medium,5,namecheap,,,24/09/2026 14:41
+bc375a72-6612-438f-930b-13174923f857,athletic.rip,available,23.49,23.49,high,low,8,namesilo,,,21/09/2026 16:12
+a5f9833f-ec15-46ba-b1d9-b88f7295f638,team.attorney,premium,260,260,high,medium,4,namecheap,,,28/09/2026 05:10
+8dfec285-74f5-4268-8403-51dff73d3a96,athletics.giving,available,5.99,22.66,high,medium,9,porkbun,,,28/09/2026 22:59
+0c0899a5-92ea-451a-9ebd-6c80b3b1d456,tournament.lighting,available,22.98,31.98,high,low,10,namecheap,,,27/09/2026 05:49
+47bb32be-6b6d-483e-a626-b1da712ee04d,fitness.law,available,82.9,82.9,high,medium,7,porkbun,,,28/09/2026 07:35
+6568bc66-a7cf-4e27-aa70-a08996fa71f2,competition.ink,available,2.99,32.49,high,low,11,namesilo,,,25/09/2026 16:42
+dfbc54d5-cc32-46b3-b5ab-02b151279a99,sport.pics,resell,,,high,medium,5,"Spaceship, Inc.",12/01/2023 12:35,12/01/2027 23:59,26/09/2026 09:13
+09a05306-fdb8-45a3-91dd-66251f568461,league.ngo,available,15.2,15.2,high,low,6,cloudflare,,,30/09/2026 02:33
+1673cc10-4fb5-4ef9-8bda-d41d46e8481b,coach.legal,available,5.57,59.07,high,medium,5,dynadot,,,28/09/2026 23:29
+d937402f-9b5d-4efa-9da6-ccec6e6305ef,tournament.hospital,available,55.98,71.98,high,low,10,namecheap,,,27/09/2026 05:49
+b0c22400-2c1e-4b18-8480-6e37bc22f384,exercise.contact,available,14.99,14.99,high,low,8,namesilo,,,19/09/2026 09:45
+c24de393-7371-445d-9081-7dab1387a76b,tournament.my,resell,,,high,low,10,,,,27/09/2026 05:49
+938510a8-0829-44e1-9334-3a6678463b65,sport.wiki,premium,325,325,high,medium,5,namecheap,,,25/09/2026 22:38
+0f163220-4237-4fb7-92a3-6f41edeb7e76,contest.hockey,available,59.99,59.99,high,low,7,namesilo,,,29/09/2026 11:25
+1370c23f-396a-4a08-9585-61ae2d470271,competition.vote,available,34.99,90.99,high,low,11,namesilo,,,25/09/2026 16:42
+c2dd4371-0f57-4149-bf12-85f209e7627a,tournament.autos,available,1.99,17.29,high,low,10,namesilo,,,27/09/2026 05:49
+4dd1a9a7-6146-4031-9e1c-d1ddf9b5f77a,exercise.diet,available,104.99,114.99,high,low,8,namesilo,,,19/09/2026 09:45
+59bbb23d-3b15-4b04-9f2c-81c479ae2362,football.security,available,1999.99,2049.99,high,medium,8,namesilo,,,29/09/2026 19:44
+ab7d87ad-1aee-4343-a336-7958eda4639b,competition.money,available,16.99,35.99,high,low,11,namesilo,,,25/09/2026 16:42
+eccedaa7-7f72-4ea2-b93e-3ee6c7ab5015,fitness.llc,premium,302.5,302.5,high,medium,7,namesilo,,,28/09/2026 07:35
+9f106c01-b3a3-49cb-9907-df414f07c1fb,competition.ltda,available,34.99,34.99,high,low,11,namesilo,,,25/09/2026 16:42
+48fb8910-75e6-40e0-8aea-36a891ec6fef,fitness.coupons,premium,854,854,high,medium,7,namesilo,,,28/09/2026 07:35
+d8399fc4-7fd2-472c-a392-994791cd01a0,fitness.car,available,1863.2,2064.2,high,medium,7,spaceship,,,28/09/2026 07:35
+61ebe818-8ce8-4d80-8048-e06f8303a9f7,tournament.art,premium,291.2,83.3,high,low,10,namesilo,,,27/09/2026 05:49

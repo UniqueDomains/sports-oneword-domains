@@ -1,10 +1,10 @@
-# One-Word Sports Domain Names (116,571)
+# One-Word Sports Domain Names (120,117)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-116%2C571%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-120%2C117%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection features one-word domain names built around the sports keyword, spanning 506 different TLD extensions. The median ask across the set is $678, reflecting a wide range of pricing tiers. Updated daily, it covers mainstream and niche extensions for comparing pricing and renewal before buying or investing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **116,571 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **120,117 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 116,571 domains · **Median ask:** $469.90 · **High-demand under $2,500:** 165
+**Public extract:** 1,000 rows · **Live catalog:** 120,117 domains · **Median ask:** $457.18 · **High-demand under $2,500:** 170
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-02
 **Canonical page:** `https://unique.domains/domains/sector/sports`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| gym.degree      | available | $40.20    | $40.20        | high           | low    | 3      | cloudflare                 |
-| game.blue       | resell    | $28,750   | $35.99        | high           | medium | 4      | Squarespace Domains II LLC |
-| gym.vet         | premium   | $123.75   | —             | high           | low    | 3      | name.com                   |
-| gym.soccer      | available | $20.90    | $20.90        | high           | low    | 3      | spaceship                  |
-| sport.tattoo    | resell    | $34.99    | $34.99        | high           | medium | 5      | Porkbun                    |
-| game.beauty     | premium   | $2,070.20 | $2,070.20     | high           | medium | 4      | spaceship                  |
-| game.airforce   | available | $83       | $83           | high           | medium | 4      | spaceship                  |
-| sports.black    | resell    | $9,239.10 | —             | high           | medium | 6      | Sav.com, LLC - 21          |
-| game.boo        | premium   | $1,034.17 | $1,034.17     | high           | medium | 4      | spaceship                  |
-| game.auto       | available | $2,060.25 | $2,064.19     | high           | medium | 4      | porkbun                    |
-| sports.rip      | resell    | $32.98    | —             | high           | medium | 6      | Porkbun LLC                |
-| game.careers    | premium   | $512      | $512          | high           | medium | 4      | namesilo                   |
-| game.creditcard | available | $156.98   | $168.98       | high           | medium | 4      | namecheap                  |
-| sports.theater  | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                |
-| game.channel    | premium   | $1,034.17 | $1,034.17     | high           | medium | 4      | spaceship                  |
-| game.democrat   | available | $7.25     | $32.99        | high           | medium | 4      | namesilo                   |
-| fitness.net     | resell    | $287,500  | $23.99        | high           | medium | 7      | GoDaddy.com, LLC           |
-| game.clinic     | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo                   |
-| game.diet       | available | $104.99   | $114.99       | high           | medium | 4      | namesilo                   |
-| athletics.me    | resell    | $3,448.85 | $27.99        | high           | medium | 9      | Dynadot Inc                |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| game.accountants | available | $117.99   | $117.99       | high           | medium | 4      | namesilo          |
+| sports.black     | resell    | $9,239.10 | —             | high           | medium | 6      | Sav.com, LLC - 21 |
+| fit.study        | premium   | $650      | $650          | high           | medium | 3      | namecheap         |
+| game.car         | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo          |
+| sports.help      | resell    | $65       | $130          | high           | medium | 6      | namecheap         |
+| gym.coach        | premium   | $242      | $242          | high           | low    | 3      | namesilo          |
+| game.cars        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo          |
+| sports.rip       | resell    | $32.98    | —             | high           | medium | 6      | Porkbun LLC       |
+| gym.health       | premium   | $6,900    | $71.40        | high           | low    | 3      | namesilo          |
+| game.florist     | available | $32.99    | $32.99        | high           | medium | 4      | namesilo          |
+| sports.theater   | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc       |
+| gym.horse        | premium   | $437.19   | $27.82        | high           | low    | 3      | porkbun           |
+| game.guitars     | available | $93.35    | $103.40       | high           | medium | 4      | spaceship         |
+| fitness.xxx      | resell    | $620      | —             | high           | medium | 7      | name.com          |
+| game.auction     | premium   | $1,035.20 | $1,035.20     | high           | medium | 4      | spaceship         |
+| game.holdings    | available | $53.72    | $53.72        | high           | medium | 4      | dynadot           |
+| training.pro     | resell    | $9,459.90 | $33.99        | high           | low    | 8      | Porkbun LLC       |
+| game.bar         | premium   | $8,190    | $11,700       | high           | medium | 4      | namecheap         |
+| game.ryukyu      | available | $17.98    | $22.98        | high           | medium | 4      | namecheap         |
+| athletics.org    | resell    | $86,250   | $21.99        | high           | medium | 9      | GoDaddy.com, LLC  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 116,571 live domains                       |
+| 1,000-row public sample | 120,117 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 165 high-demand names under $2,500         |
+| Basic exported fields   | 170 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Sports Domain Names*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Sports Domain Names*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

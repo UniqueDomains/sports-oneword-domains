@@ -1,10 +1,10 @@
-# One-Word Sports Domain Names (138,535)
+# One-Word Sports Domain Names (138,524)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-138%2C535%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-138%2C524%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection features one-word domain names built around the sports keyword, spanning 506 different TLD extensions. The median ask across the set is $678, reflecting a wide range of pricing tiers. Updated daily, it covers mainstream and niche extensions for comparing pricing and renewal before buying or investing.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **138,535 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **138,524 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 138,535 domains · **Median ask:** $383.42 · **High-demand under $2,500:** 2,806
+**Public extract:** 1,000 rows · **Live catalog:** 138,524 domains · **Median ask:** $383.38 · **High-demand under $2,500:** 2,551
 
 **Last updated:** 2026-10-27
 **Canonical page:** `https://unique.domains/domains/sector/sports`
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| game.flowers    | available | $93.35    | $103.40       | high           | high   | 4      | spaceship                                                 |
+| game.desi       | available | $19.98    | $22.98        | high           | medium | 4      | namecheap                                                 |
 | sport.tattoo    | resell    | $34.99    | $34.99        | high           | medium | 5      | Porkbun                                                   |
 | gym.cricket     | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                                  |
-| game.protection | available | $1,999.99 | $2,049.99     | high           | high   | 4      | namesilo                                                  |
+| game.flowers    | available | $108.98   | $159.98       | high           | high   | 4      | namecheap                                                 |
 | sports.black    | resell    | $9,239.10 | —             | high           | medium | 6      | Sav.com, LLC - 21                                         |
 | game.beauty     | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo                                                  |
-| game.voting     | available | $1,398    | $1,448        | high           | high   | 4      | namecheap                                                 |
+| game.protection | available | $2,064.20 | $2,064.20     | high           | high   | 4      | spaceship                                                 |
 | sports.help     | resell    | $65       | $130          | high           | medium | 6      | namecheap                                                 |
-| game.dealer     | premium   | $4,278    | $2,660        | high           | high   | 4      | namesilo                                                  |
-| team.airforce   | available | $80.20    | $80.20        | high           | medium | 4      | cloudflare                                                |
+| game.dealer     | premium   | $1,692.60 | $2,183.84     | high           | high   | 4      | porkbun                                                   |
+| game.vana       | available | $2,070.20 | $2,070.20     | high           | high   | 4      | spaceship                                                 |
 | sports.rip      | resell    | $32.98    | —             | high           | medium | 6      | Porkbun LLC                                               |
-| game.diy        | premium   | $1,100    | $1,100        | high           | high   | 4      | dynadot                                                   |
-| team.car        | available | $1,863.20 | $2,064.20     | high           | medium | 4      | spaceship                                                 |
+| game.diy        | premium   | $1,107    | $1,107        | high           | high   | 4      | namesilo                                                  |
+| game.voting     | available | $1,398    | $1,448        | high           | high   | 4      | namecheap                                                 |
 | sports.theater  | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
 | game.living     | premium   | $1,107    | $1,107        | high           | high   | 4      | namesilo                                                  |
-| team.degree     | available | $52.99    | $52.99        | high           | medium | 4      | namesilo                                                  |
+| team.moi        | available | $25.99    | $25.99        | high           | medium | 4      | namesilo                                                  |
 | team.black      | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| game.makeup     | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo                                                  |
-| team.hosting    | available | $309.99   | $429.99       | high           | medium | 4      | namesilo                                                  |
+| game.london     | premium   | $683.24   | $31.49        | high           | high   | 4      | namesilo                                                  |
+| team.paris      | available | $66.98    | $66.98        | high           | medium | 4      | namecheap                                                 |
 | team.capital    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 138,535 live domains                                 |
+| 1,000-row public sample | 138,524 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 2,806 high-demand names under $2,500                 |
+| Basic exported fields   | 2,551 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
